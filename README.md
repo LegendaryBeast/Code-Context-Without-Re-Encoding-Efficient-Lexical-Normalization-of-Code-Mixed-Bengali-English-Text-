@@ -167,4 +167,6 @@ If you use this release, please cite the article (bibliographic details to be ad
 
 ## License
 
-A license file will be added. BanglaMix and MultiLexNorm remain under their own licenses.
+This repository is released under the MIT License (see `LICENSE`). BanglaMix and MultiLexNorm are not
+included and remain under their own licenses; saved outputs and annotation sheets that quote BanglaMix tokens or
+references carry its CC BY 4.0 attribution requirement.
