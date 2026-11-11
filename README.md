@@ -39,8 +39,10 @@ analysis/                    CPU analyses of the saved outputs
   randomization_tests.py       two-sided paired randomization tests (p-values of Tables 9-11, 13-14 and the text)
   randomization_tests_output.txt   output of randomization_tests.py
   analyze_mln.py, score_mln_submissions.py, mln_copy_err.py   MultiLexNorm scoring
+  codemixed_eval.py            code-mixed vs monolingual comments and language-switch points (Table 11)
   src/nb7_ctt_error_analysis.py   samples the 200 CTT errors for human labelling
   error_annotation/            ctt_errors_key.csv (sample), ctt_errors_annotator{1,2}_filled.csv (labels)
+annotation/adjudicated_test/  adjudicated test subset: sample, blind annotation sheets, guidelines, scoring scripts
 results/cpu/                 outputs of experiments/ (including the LID audit sheet and key, CRF predictions)
 results/gpu/                 outputs of the Kaggle notebooks, one folder per notebook (see the table below)
 ```
@@ -135,6 +137,7 @@ python analysis/analyze_seeds.py
 python analysis/randomization_tests.py
 python analysis/analyze_mln.py
 python analysis/mln_copy_err.py
+python analysis/codemixed_eval.py
 ```
 
 `score_mln_submissions.py --repo <multilexnorm checkout>` rescores the published shared-task submissions.
@@ -160,6 +163,13 @@ Aksharantar warm start 40-46 minutes.
   (M1-M5 model errors, R1 reference wrong, R2 both acceptable).
 
 All annotators are authors of the article; the error labels were made by the first and second authors.
+
+## Adjudicated test subset
+
+`annotation/adjudicated_test/` holds the material for a human-adjudicated reference on 600 split-42 test comments
+(all 464 code-mixed comments and 136 monolingual ones): the sampling script, two identical blind annotation sheets
+per annotator (pilot and full), the guidelines, and the scripts for agreement, adjudication, and rescoring. See its
+`README.md` for the workflow.
 
 ## Citation
 

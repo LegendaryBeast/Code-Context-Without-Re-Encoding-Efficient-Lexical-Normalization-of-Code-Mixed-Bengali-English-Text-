@@ -1,0 +1,83 @@
+== A. CER / WER / EM by subset, mean over three splits (one run each), silver references, no guard
+subset sizes (comments, split 13 / 42 / 2026): {'all': [1263, 1261, 1262], 'code-mixed': [463, 464, 464], 'monolingual': [770, 747, 754], 'ENG+ROM_BAN': [342, 343, 342], 'BAN+ENG': [81, 81, 81], 'BAN+ENG+ROM_BAN': [21, 21, 21], 'BAN+ROM_BAN': [19, 19, 20], 'monolingual_BAN': [412, 411, 409], 'monolingual_ENG': [224, 207, 209], 'monolingual_ROM_BAN': [134, 129, 136]}
+             subset           system  CER  CER_sd   WER    EM
+                all         word_crf 4.44    0.13 10.00 57.61
+                all       ÚFAL-style 3.97    0.25  8.94 60.72
+                all Context-only CTT 3.74    0.20  8.78 61.20
+                all              CTT 3.72    0.33  8.51 62.10
+         code-mixed         word_crf 5.67    0.09 13.31 35.94
+         code-mixed       ÚFAL-style 5.15    0.14 11.98 40.26
+         code-mixed Context-only CTT 4.89    0.11 11.80 40.12
+         code-mixed              CTT 4.73    0.12 11.39 41.77
+        monolingual         word_crf 2.70    0.08  6.40 71.08
+        monolingual       ÚFAL-style 2.48    0.33  5.66 73.14
+        monolingual Context-only CTT 2.21    0.20  5.53 74.10
+        monolingual              CTT 2.42    0.54  5.42 74.33
+        ENG+ROM_BAN         word_crf 6.55    0.53 16.65 32.81
+        ENG+ROM_BAN       ÚFAL-style 5.77    0.45 14.73 38.17
+        ENG+ROM_BAN Context-only CTT 5.33    0.27 14.43 38.85
+        ENG+ROM_BAN              CTT 5.16    0.58 13.90 40.90
+            BAN+ENG         word_crf 4.36    0.26  7.15 42.80
+            BAN+ENG       ÚFAL-style 4.21    0.93  6.64 47.74
+            BAN+ENG Context-only CTT 4.40    0.69  6.86 42.80
+            BAN+ENG              CTT 4.10    0.60  6.46 45.27
+    BAN+ENG+ROM_BAN         word_crf 5.92    1.82 11.94 28.57
+    BAN+ENG+ROM_BAN       ÚFAL-style 5.76    2.03 11.73 23.81
+    BAN+ENG+ROM_BAN Context-only CTT 5.31    1.81 11.14 26.98
+    BAN+ENG+ROM_BAN              CTT 5.62    2.05 11.40 22.22
+        BAN+ROM_BAN         word_crf 1.42    0.65  3.63 70.70
+        BAN+ROM_BAN       ÚFAL-style 1.77    0.87  4.41 63.86
+        BAN+ROM_BAN Context-only CTT 1.64    0.93  3.81 65.61
+        BAN+ROM_BAN              CTT 1.75    0.64  4.27 63.77
+    monolingual_BAN         word_crf 0.83    0.13  2.38 84.33
+    monolingual_BAN       ÚFAL-style 0.88    0.31  2.22 84.90
+    monolingual_BAN Context-only CTT 0.79    0.09  2.21 84.98
+    monolingual_BAN              CTT 0.90    0.40  2.20 85.14
+    monolingual_ENG         word_crf 6.17    1.27 12.47 59.41
+    monolingual_ENG       ÚFAL-style 5.40    1.38 10.49 64.51
+    monolingual_ENG Context-only CTT 4.85    1.29  9.76 66.36
+    monolingual_ENG              CTT 5.54    1.41  9.55 66.08
+monolingual_ROM_BAN         word_crf 7.67    1.42 19.10 49.07
+monolingual_ROM_BAN       ÚFAL-style 6.85    1.06 17.29 50.85
+monolingual_ROM_BAN Context-only CTT 5.93    0.45 17.61 53.13
+monolingual_ROM_BAN              CTT 5.83    0.47 17.24 54.34
+
+== B. split 42, three training runs: mean ± std across runs
+     subset               system         CER          WER           EM               runs
+        all Word level (matched) 4.48 ± 0.34  9.45 ± 0.11 58.08 ± 0.45 [4.15, 4.46, 4.82]
+        all     Context-only CTT 3.90 ± 0.23  8.66 ± 0.18 60.93 ± 0.80 [3.64, 4.09, 3.98]
+        all                  CTT 4.04 ± 0.04  8.54 ± 0.07 61.54 ± 0.69  [4.08, 4.05, 4.0]
+ code-mixed Word level (matched) 5.54 ± 0.42 12.28 ± 0.20 36.49 ± 1.24 [5.25, 5.36, 6.03]
+ code-mixed     Context-only CTT 5.07 ± 0.27 11.55 ± 0.24 39.01 ± 1.14 [4.77, 5.28, 5.16]
+ code-mixed                  CTT 4.97 ± 0.10 11.30 ± 0.08 40.73 ± 0.78 [4.86, 5.03, 5.03]
+monolingual Word level (matched) 2.95 ± 0.29  6.17 ± 0.04 71.62 ± 0.35 [2.62, 3.03, 3.19]
+monolingual     Context-only CTT 2.36 ± 0.16  5.43 ± 0.10 74.12 ± 0.41 [2.24, 2.31, 2.54]
+monolingual                  CTT 2.64 ± 0.38  5.42 ± 0.07 74.30 ± 0.48 [3.04, 2.28, 2.61]
+
+== C. two-sided paired randomization tests, dCER (negative favours the first system)
+  code-mixed   CTT vs Word level (matched) (3 runs, split 42): dCER -0.57 (-10.3%)  p = 0.0001
+  code-mixed   Context-only CTT vs Word level (matched) (3 runs, split 42): dCER -0.47 (-8.5%)  p = 0.0001
+  code-mixed   CTT vs ÚFAL-style (3 splits): dCER -0.42  p = 0.0020
+  code-mixed   CTT vs word_crf (3 splits): dCER -0.95  p = 0.0001
+  code-mixed   Context-only CTT vs ÚFAL-style (3 splits): dCER -0.26  p = 0.0819
+  monolingual  CTT vs Word level (matched) (3 runs, split 42): dCER -0.31 (-10.5%)  p = 0.1948
+  monolingual  Context-only CTT vs Word level (matched) (3 runs, split 42): dCER -0.59 (-19.9%)  p = 0.0001
+  monolingual  CTT vs ÚFAL-style (3 splits): dCER -0.07  p = 0.6863
+  monolingual  CTT vs word_crf (3 splits): dCER -0.29  p = 0.1737
+  monolingual  Context-only CTT vs ÚFAL-style (3 splits): dCER -0.28  p = 0.0596
+
+== D. token accuracy at language-switch points (token-aligned code-mixed comments; three splits pooled)
+            word_crf  ÚFAL-style  Context-only CTT    CTT  tokens  CTT - word_crf
+position                                                                         
+non-switch     91.51       92.37             92.20  92.57    7554            1.06
+switch         86.28       87.87             88.28  88.57    5400            2.29
+Latin-script language tokens (ENG, ROM_BAN) only:
+            word_crf  ÚFAL-style  Context-only CTT    CTT  tokens  CTT - word_crf
+position                                                                         
+non-switch     85.84       87.28             86.99  87.59    4189            1.75
+switch         84.28       86.12             86.62  86.92    4625            2.64
+split 42, three training runs (mean accuracy over runs):
+            Word level (matched)  Context-only CTT    CTT  tokens
+position                                                         
+non-switch                 92.15             92.91  92.92    2510
+switch                     88.10             89.05  89.75    1765

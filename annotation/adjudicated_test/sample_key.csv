@@ -1,0 +1,601 @@
+order,comment_no,comment_id,code_mix_type,code_mixed,aligned_in_corpus,n_tokens,pilot,silver_reference
+1,C001,Ugwm2F-POf-Wgs-UUiV4AaABAg,ENG+ROM_BAN,True,True,25,True,ব্রো আমি একজন ট্রেডার আমার কিছু টাকা লাগবে 20k সামথিং। আমি আশা করতেছি তুমি রেসপন্স করবা। আল্লাহ তোমার মা বাবা কে অনেক ভালো রাখবে। ইনশা-আল্লাহ♥.
+2,C002,Ugx8UZksrXYF0rScTWt4AaABAg,BAN+ENG,True,True,10,True,আমি জানি তোমরা দুইজন অ্যাড করেছিলাম প্রাণ আপ দিয়ে ❤😊
+3,C003,UgzxHSj9OMGvA7gd6QV4AaABAg,ENG+ROM_BAN,True,True,5,True,আই লাভ ইউ ভাইয়া ❤❤
+4,C004,UgxI81ouENAnUIKjUUd4AaABAg,ENG+ROM_BAN,True,True,5,True,ভাই আইফোনস পাবো কি 😊
+5,C005,Ugz0lZ3-wVZYGt__0q54AaABAg,ENG+ROM_BAN,True,True,6,True,19:44 : লাস্ট কথা গুলা ব্রো❤
+6,C006,Ugw12nbH-PudSblvV114AaABAg,ENG+ROM_BAN,True,False,22,True,এই বদমাইশ এপিসোড এ সবথেকে ইমোশনাল হলো বাবা ও ছেলে এর কাহিনী আর সবথেকে মজার দিক হলো খাংগারি আর বো কলম এর কাহিনী🥰😍
+7,C007,UgwXgcyNlEYskxXBld54AaABAg,BAN+ENG,True,True,21,True,"🔥 ভাই, আমি আপনার ফ্যান! ❤️ আমার ফ্রি ফায়ার আইডি-তে একটা ফ্রেন্ড রিকোয়েস্ট পাঠাবেন প্লিজ 🙏🥺 একসাথে খেলতে চাই! 🎮🔥 ইউআইডি:৯৯৯৩৪৯৫৭৬৯"
+8,C008,Ugxnn9xon1si90VBu4J4AaABAg,monolingual_BAN,False,True,9,True,আজকে রাত আটটা থেকে তিনটা পর্যন্ত তোমার ভিডিও দেখলাম
+9,C009,UgzNi_TT-saQW4cbWkl4AaABAg,ENG+ROM_BAN,True,True,20,True,আমি অনেক আগের থেকেই আপনার বিগ ফ্যান 😊 আর আপনি যদি আল্লাহকে বিশ্বাস করেন তাহলে আমাকে আইফোন গিফট দেন 😅
+10,C010,UgyPP6_BP2_ppDepX0B4AaABAg.AXEd1LlcxSgAXaT5hWCTyQ,ENG+ROM_BAN,True,True,3,True,অনেকে অ্যাব্রড এ
+11,C011,Ugxfa_O6OPS2Ux5RmD14AaABAg,ENG+ROM_BAN,True,True,8,True,লাভ ইউ ভাই.....তোমাদের ভিডিও গুলো অলওয়েজ বেস্ট হয়.....❤️👍
+12,C012,UgxGsDbKdz1ZbmAxw794AaABAg,monolingual_BAN,False,True,23,True,হিরন এবং ফজলুর রহমান স্যারের ফোন কল শোনে এবং তার আম্মার ওপারে চলে যাওয়ার কথা শোনে চোখের পানি দরে রাখতে পারি নাই 🤣🤣
+13,C013,Ugz5_BwM5ZMF54jV-D94AaABAg,monolingual_BAN,False,True,9,True,এই পৃথিবীতে বাবা- মার চেয়ে আপন আর কৈউ নেই।
+14,C014,UgycUj1Ubmo7NUpcR0Z4AaABAg,ENG+ROM_BAN,True,True,3,True,ফ্রম নারায়ণগঞ্জ 🙋🏻♂️
+15,C015,UgzxUgj5Fc6ISwLEFwl4AaABAg,ENG+ROM_BAN,True,False,53,True,ভাইয়া আমি পাবজি খেলি টুনামেন্ট ও খেলছি টি১ ...আমার একটা নরমাল ফোন আমি আপনার অনেক বড় ফ্যান আমাকে একটা আইপ্যাড গিফট করেন... আমি যে দোয়া করি আল্লাহ তা কবুল করেন আর আমি দোয়া করলাম আপনার ফ্যামিলিতে যারা আছে সবাই যেন সুস্থ থাকে আর সুনেরা আপুর সাথে যেন আর্লি বিয়ে হয়ে যায় .....❤
+16,C016,Ugwe3Ye989eG1Y0p6014AaABAg,ENG+ROM_BAN,True,True,4,True,ফাইনালি বদমাশ পোলাপান ব্যাক....
+17,C017,UgxhhL6PWHDJt9CBQOJ4AaABAg,ENG+ROM_BAN,True,True,7,True,বোন কে ভালোবেসে থাকলে আই ফোন দিন❤
+18,C018,UgwiFWmP-IIPn2d663R4AaABAg,ENG+ROM_BAN,True,True,8,True,এহহহহ আমাকে একটা আইপ্যাড পাইলে তো ভালোই হতো😂
+19,C019,UgwgGxUy8gNu5l1E_P14AaABAg,ENG+ROM_BAN,True,True,14,True,স্যাম ভাই রিয়েলমি জিটি৮ ভার্সেস আইকিউওও নিও ১১ কোনটা বেস্ট হবে গেমিং এর জন্য
+20,C020,Ugz5qilRpadClPBk1Gh4AaABAg,ENG+ROM_BAN,True,True,11,True,ভাই তারাতারি বিয়ে করেন আপনাদের কাপল ভ্লগ দেখতে চাই মাশা আল্লাহ
+21,C021,UgxytFsceI8Nw-BEs8l4AaABAg,monolingual_ENG,False,True,4,True,দ্য বেস্ট অ্যাক্টর..প্রত্যয় হিরন❤️
+22,C022,UgwAy5Tq2_OOwWJzPpF4AaABAg,BAN+ENG,True,True,10,True,ভাই আপনি একটু নুব আছেন।আপনাকে ইউআইডি দিলাম 8298274464 রিকোয়েস্ট দিয়েন।।😊
+23,C023,UgwpuK7KwQvdNHRD8Qh4AaABAg,monolingual_ENG,False,True,5,True,ব্রোস কন্টেন্ট ডে বাই ডে📈📈📈
+24,C024,Ugw9gaWLpdrXA0lcjbB4AaABAg,ENG+ROM_BAN,True,True,13,True,আপনি আসলে অনেক ভালো একটা পারসন সবার পাশে থাকেন দেখে অনেক ভালো লাগলো😊❤
+25,C025,UgyG94eMsaYmHox-RpV4AaABAg,BAN+ROM_BAN,True,True,5,True,ভাই নাইম আলম ইজ বেক
+26,C026,Ugz-YpEMce5bdzgY0aB4AaABAg,monolingual_BAN,False,True,10,True,ওই রকম গিফট দেন যেটা দিলে উনি খুশি হবে ❤
+27,C027,UgzzDakmjGuKBSwQvjF4AaABAg,ENG+ROM_BAN,True,True,16,True,"লাভ ইউ স্যাম ভাই , আজকের দিনে 3 ইয়ার্স কমপ্লিট হলো আপনার ভিডিও গুলো দেখে আসছি"
+28,C028,Ugy4PDcErLfOfaWGG954AaABAg,ENG+ROM_BAN,True,True,11,True,আই অ্যাম সিয়িং ইউর অল ভিডিওস ......ইউ আর দ্য গ্রেট ভাই
+29,C029,UgwDiH6h9D4XhtMq1ZR4AaABAg,monolingual_ENG,False,True,2,True,21.20 মিনিট
+30,C030,UgzefWtsX-MCBMKtj6d4AaABAg,ENG+ROM_BAN,True,True,4,True,বিগ ফ্যান ভাই ❤❤
+31,C031,UgyFHvmWw6zBee-i5j94AaABAg,BAN+ENG,True,True,8,True,দাদা এটা কী poker mp40 নাকি normal mp40?
+32,C032,Ugwrjm24U2ttvogxkXR4AaABAg,BAN+ENG+ROM_BAN,True,True,13,True,ডে 4 ভাই ভালোবাসা কেনো এতো অসহায় চ্যালেঞ্জ টা করেন প্লিজ প্লিজ প্লিজ🙂
+33,C033,Ugzz-vHwCkWiGuwCj9V4AaABAg,ENG+ROM_BAN,True,False,61,True,তোমাদের ভিডিও গুলো আগে অনেক দেখতাম বাট এখন দেখা হয় না। সেই আগের কন্টেন্ট এর মতো লাগে। একটু আপগ্রেড করা দরকার। ডিফারেন্ট স্টাইলে। অতনু জুবায়ের ওদের ভিডিও গুলো যদি দেখো বছরের ১-২ পোস্ট করে তাও দেখে মজা লাগে। বিটিডব্লিউ রিয়েলি মিসড ইউ গাইজ ডিডন্ট ইভেন নিউ ইয়াল আর ব্যাক। র্যান্ডমলি মনে পড়লে আর চেক করে সব কয়টা নিউ ভিডিও দেখলাম।😊
+34,C034,Ugwc2oQURKQanIubTGt4AaABAg,ENG+ROM_BAN,True,False,6,True,ভাই প্লিজ আপলোড বদমাইশ পোলাপান
+35,C035,UgwRdlxApWEU0Q2smhB4AaABAg,monolingual_BAN,False,True,13,True,ভাই মনে কষ্ট পাইলাম আপনি আমার রিকোয়েস্ট ধরলেন না আমার আইডি নাম আরমান
+36,C036,Ugw0aB2JL_59XP5w_4Z4AaABAg,monolingual_ROM_BAN,False,True,7,True,ওই দপ্তরি রে একটা টাইট দিয়া দরকার
+37,C037,UgyY3KIDr8C2yGCkQiB4AaABAg,ENG+ROM_BAN,True,True,28,True,"ভাই হোয়েন শি সিটিং বিসাইড স্টোভ অ্যান্ড হি কুকিং দ্যাটস লাইক আ কে ড্রামা এভরি গার্লস ডিজার্ভ দিস টাইপ অফ বিএফ অলদো হি ইজ অলরেডি ম্যারিড উইথ হার..,.😹😸"
+38,C038,Ugw0s1kXLWxpHVYZ8gt4AaABAg,monolingual_BAN,False,True,19,True,এই পর্ব টা একটু অন্যরকম 🥰 হিরণের বাবাকে বাচাইয়া শেষ পর্যন্ত ভালো কিছু চাই ধন্যবাদ ❤️ পুরো টিমকে 💝
+39,C039,UgztJUF1EGy2f7ftylx4AaABAg,monolingual_BAN,False,True,6,True,আপনার ভিডিও গুলো অনেক ভালো লাগে
+40,C040,Ugxw69dvkCVYM6t2qn94AaABAg,monolingual_BAN,False,True,4,True,পিলিচ ভাই অ্যাড করেন
+41,C041,UgzAz86iOZ9LK7ilIex4AaABAg,monolingual_ROM_BAN,False,True,3,True,ছি ছি 😂
+42,C042,UgwLSPyTPGsEAMuAuoR4AaABAg,BAN+ENG,True,True,5,True,বদমাইশ পোলাপান কেম ব্যাক চাই
+43,C043,UgxMQD5DDxCYSf9WjwN4AaABAg,ENG+ROM_BAN,True,True,4,True,ইটস কাব্য ভিউ নাই😂😂😂
+44,C044,UgzxW2mTpzRG54vyYPh4AaABAg,ENG+ROM_BAN,True,True,7,True,ভাই আপনি আর আমি সেম 66 %
+45,C045,UgyUcUaokPUOWHV2hEF4AaABAg.AYTlX5VANU0AYUtqaR7SLs,ENG+ROM_BAN,True,True,6,True,ভাই বাংলাদেশের বেস্ট বিরিয়ানি সুলতানস ডাইন
+46,C046,UgyNaOO7zqJvslSnRCJ4AaABAg,monolingual_ENG,False,True,2,True,হেড স্যার
+47,C047,UgztYvwDUgppdCcdSVl4AaABAg,monolingual_BAN,False,True,2,True,প্লিজ ভাই
+48,C048,UgwX1p5b7K2HJ678Njx4AaABAg,ENG+ROM_BAN,True,True,17,True,ভাই স্টুডেন্ট দের জন্য আন্ডার 10 k ট্যাব নিয়ে একটা ভিডিও দিবেন প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ..........
+49,C049,UgyQh7hHv2dHRh7gk0N4AaABAg,ENG+ROM_BAN,True,True,8,True,"10:59 ভাই {ব্লেড,কুট্টুস ভার্সেস সিহান,রায়হান} দেখতে চাই প্লিজ🙏🙏"
+50,C050,UgwzsmTjb8w6cWrxxJl4AaABAg,ENG+ROM_BAN,True,True,2,True,বালের ভিডিও
+51,C051,UgyRYI2Pw5duAmsSNFx4AaABAg,ENG+ROM_BAN,True,True,2,False,😮ম্যাপ কোড
+52,C052,UgwQw4gUIund-24vf_14AaABAg,ENG+ROM_BAN,True,True,5,False,ভাই আমি আপনার বিগ ফ্যান
+53,C053,Ugz4iTNPv-NsqiBVaxV4AaABAg,ENG+ROM_BAN,True,False,5,False,আল্লাহ কে কে ভালোবাসেন
+54,C054,UgxyGcIiD2tv9jmi1p94AaABAg,BAN+ENG,True,True,50,False,"ভাই পারলে rank, match a,AwM, দিয়ে, হেড,শট,দিয়ে,১০ টি কিল,ভূঁইয়া করে দেখান তাইলে বুঝমু আপনি b2k এর,থেকে অনেক প্রো প্লেয়ার,,আমি,জিহাদ, প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ 😊❤❤😊❤😊"
+55,C055,UgzJAJ154wbhuMp1bSF4AaABAg,monolingual_ENG,False,True,5,False,সুনহেরা গনা বি জেলাস 😅
+56,C056,Ugw0kch5bh2MMlOZQMJ4AaABAg,monolingual_ROM_BAN,False,True,2,False,ফার্স্ট কমেন্ট❤
+57,C057,Ugwpb2X1U7-Kv4JW47Z4AaABAg,ENG+ROM_BAN,True,True,9,False,রিজভী ভাই আপনার ভিডিও গুলো এখন ফালতু হয়ে গেছে😅
+58,C058,Ugy4F0JsdLOsziK0TqZ4AaABAg,monolingual_BAN,False,True,10,False,স্যাম দো.জোন এখন কি জিপির এড দিয়ে ধান্দা শুরু করলে
+59,C059,Ugycprn8e2acw30bNkN4AaABAg,monolingual_BAN,False,True,22,False,জীবনে কত ভিডিও দেখলাম রাফসানের দেখতে দেখতে বুড়ি হয়ে গেলাম কিন্তু একটা গিফট পাইলাম না রাফসান কি আমারে চোখে দেখে না 😢❤
+60,C060,UgyStYp1atS33mKSebh4AaABAg,ENG+ROM_BAN,True,False,10,False,ভাই আপনার ই-ফুটবল টপআপ অ্যাড করেন প্লিজ প্লিজ
+61,C061,Ugwqii-jmIPl5Mv6V_l4AaABAg,ENG+ROM_BAN,True,True,16,False,৩০-৩৫কে স্যামসাং গ্যালাক্সি এফ৭০ প্রো ৫জি বেস্ট ফোন রিয়েলমি পি৪ প্রো ব্যাটার রেডমি নোট ১৭ প্রো
+62,C062,UgwMRGHFUM_gLb065TB4AaABAg,ENG+ROM_BAN,True,True,11,False,"নাটক আর মধ্যে সিগারেট খাওয়া টা কম দেখাইলে এ ভালো হয়,"
+63,C063,Ugz3sxresTg0O-gXsWx4AaABAg,ENG+ROM_BAN,True,True,9,False,আশা করি দ্য আজাইরা এখন থেকে কন্টিনিউ হবে ..🤫
+64,C064,UgyegNHpKYwJeU9-YjF4AaABAg,ENG+ROM_BAN,True,True,10,False,ভাই বিগ ফ্যান অনেক অপেক্ষার পর ফাইনালি কাম ব্যাক ❤🎉
+65,C065,UgzjllF9FKOBEs-avYJ4AaABAg,monolingual_ENG,False,True,6,False,আই অ্যাম দ্য গ্রেট এস্ট্রেন ডেভেলপার
+66,C066,UgztCXWXLrjaw0rBmVR4AaABAg.A_CE4b1vzr8A_CF8mZbKrY,monolingual_ROM_BAN,False,True,2,False,বাল*র কাব্য
+67,C067,UgzO8msOGYslLwS9gSN4AaABAg,ENG+ROM_BAN,True,True,6,False,🎉🎉🎉🎉 সিহান গড ব্লেস ইউ 🎉🎉🎉🎉
+68,C068,UgyJwyKoaL2WBJSV9Cd4AaABAg,monolingual_ROM_BAN,False,True,4,False,ভাই খেলা হবে ভাই
+69,C069,Ugyb2EcSy6sIWZx1ep94AaABAg,ENG+ROM_BAN,True,True,6,False,বদমাশ পোলাপাইন সিজন ব্যাক চাই ✊
+70,C070,UgxG93cUIhSMaYuleT14AaABAg,ENG+ROM_BAN,True,True,4,False,সেই পরিচিত ইন্ট্রো 😊
+71,C071,Ugyn53MY4kW7-53F6wZ4AaABAg,monolingual_ROM_BAN,False,True,2,False,সুন্দর ❤
+72,C072,UgxFXKv-f46nNUXASF94AaABAg,monolingual_ROM_BAN,False,True,3,False,ফেভারিট ১টা নাটক
+73,C073,UgxyV0pFlU-9wIIYell4AaABAg.9lOPYjOS0dS9lOQIIRNwZp,ENG+ROM_BAN,True,True,8,False,সিজন 1 থেকে দেখতেছি একটাও বাদ দেই নাই
+74,C074,Ugxg1Od4jP3N1eLxcnt4AaABAg,ENG+ROM_BAN,True,True,28,False,"রাফসান ভাই ইয়া আমার ভালোই লাগছে যে আপনি ডাকি ভাই এর সাথে ভিডিও করছেন, আমি তার ও সাবস্ক্রাইবার অ্যান্ড আপনার ও আশা করি এমন ভিডিও আরো বানাবেন 😁"
+75,C075,UgxD6cLB7tj-otRDUCd4AaABAg,monolingual_ENG,False,True,12,False,প্লিজ গিভ মি প্লিজ গিভ মি অ্যান অ্যান্ড্রয়েড ফোন প্লিজ প্লিজ 🙏
+76,C076,UgzdHBicSHf-Y2IJHHh4AaABAg,BAN+ENG,True,True,16,False,আমি অনেক নাটক দেখেছি তার মধ্যে এটা বেস্ট কারণ এটার মধ্যে আমি ওসব কিছুই খুঁজে পেয়েছি🤲
+77,C077,UgzmlMWzJTIu9scFcmJ4AaABAg,ENG+ROM_BAN,True,True,4,False,আমার এ ফ্যান নেন
+78,C078,UgxklPmaqOxWMbl70n94AaABAg,monolingual_BAN,False,True,10,False,ভাই আমি আপনার সাবস্ক্রাইবার আমাকে আমাকে কিছু গিফট করেন ইউআইডি14475295858❤❤❤❤😢
+79,C079,UgyMxz903phjE_JMMd54AaABAg,ENG+ROM_BAN,True,False,7,False,আসসালামু আলাইকুম রাফসান ভাই টেক ❤ !নারুতো ❤
+80,C080,UgwlrmzLu2gkP6Z6ISJ4AaABAg,ENG+ROM_BAN,True,False,60,False,"ঈদ এ ও সেলামি দিছেন সবাই কে বাট আমাকে দিলেন না, আপনাকে আমি ক্লাস 7 থেকে দেখি, আপনার সব ভিডিও, ইভেন নিজের ফোন যখন কিনলাম ইন্টার ফার্স্ট ইয়ার এ.. আমি ফার্স্ট আপনাকে সাবস্ক্রাইব করি 🌷 ইউ আর মাই ফেভারিট কন্টেন্ট ক্রিয়েটর অ্যান্ড ইউ অলওয়েজ উইল বি, এই বার আমাকে চুজ কইরেন প্লিজ তাহলে আমার ড্রিম পূরণ হয়ে যাবে 😅"
+81,C081,Ugyn30O9GfI-3oN5rjt4AaABAg,monolingual_ENG,False,True,11,False,রেডমি নোট 14 প্রো প্লাস সিএন বেস্ট ব্যালেন্সড 7sgen3+adreno810 50mp টেলিফটো
+82,C082,Ugx0qgjDutvSEy6QREV4AaABAg,BAN+ENG,True,True,14,False,30 k এর মধ্যে কি ফোন নিলে ভালো হবে। ক্যামেরার দিক দিয়ে ভালো হবে।
+83,C083,UgyusBybnUZdr3gQZt54AaABAg,ENG+ROM_BAN,True,True,4,False,বিগ ফ্যান ভাই ❤❤❤
+84,C084,UgwgQsvGzr3ttJ49MHV4AaABAg,ENG+ROM_BAN,True,True,3,False,ফাইনালি অনামিকা 😧
+85,C085,Ugz9S73sbFLbLteqShd4AaABAg,ENG+ROM_BAN,True,True,24,False,স্যাম ভাই ইনফিনিক্স হট ৬০ প্রো প্লাস এ অ্যান্ড্রয়েড ১৬ আপডেট দিলে কি ভালো হবে অ্যান্ড কিভাবে দিবো যদি একটু বলতেন তাহলে ভালো হইতো।
+86,C086,UgzLg3laCFRpptVZqpV4AaABAg,BAN+ENG,True,True,6,False,রিভিশন ক্লাস 1-10 বাংলা পাঠ্যবই 😂
+87,C087,UgxzhNRHu21P6gsPyOZ4AaABAg,monolingual_BAN,False,True,12,False,সবার জন্য শুভকামনা রইল শুভ হোক আপনাদের আগামী দিন পথ চলা ❤🎉❤
+88,C088,Ugx5g3nWwereziWJVFp4AaABAg,ENG+ROM_BAN,True,True,13,False,এফওয়াইআই ডায়াবেটিস মিষ্টি খেলে হয় না..... ডায়াবেটিস হলে মিষ্টি খেতে হয় না 😂
+89,C089,UgwVblfXzBsD70dXdHd4AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই তোমার বিগ ফ্যান প্লিজ আইপ্যাড দেন আমাকে 😊
+90,C090,UgwxeDcyYehesIBCfyV4AaABAg,BAN+ENG+ROM_BAN,True,True,35,False,আসলে বদমাইশ পোলাপাইন সিরিয়াল টা অসাধারন 💓 -- এটার মধ্যে বন্ধু বান্ধব -- বাবা -- মা -- টিচার এভরিথিং অল এর মধ্যে ফুটিয়ে তুলেছে 👍 ধন্যবাদ ❤️ পুরো টিমকে 💝 এক্সট্রা থ্যাঙ্কস 👍 প্রত্যয় হিরন
+91,C091,Ugzg_8IoElvQX_QfIVF4AaABAg,ENG+ROM_BAN,True,True,2,False,5G চাই
+92,C092,UgwH2_CQQn8KOS6yacl4AaABAg,ENG+ROM_BAN,True,True,7,False,ভাই এই আইপ্যাড টা যদি আমি পাইতাম😢
+93,C093,Ugxl6g5q01NjaPtph8l4AaABAg,ENG+ROM_BAN,True,True,18,False,অনলি পারাং অর অনলি শটগান দিয়ে এই হেলমেট টা পরে চ্যালেঞ্জ করেন তাহলে ছাত্রলীগ এর চ্যালেঞ্জ হয়ে যাবে😂😂😂
+94,C094,UgwpD_BRfDYR8ysEKbN4AaABAg,ENG+ROM_BAN,True,True,13,False,"র্যান্ডম না ওরা, সব আগে থেকেই এফডি লিস্ট এ ছিল, ট্রিপল আর মিথ্যুক"
+95,C095,Ugw_lX4YdLGacktMWYN4AaABAg,ENG+ROM_BAN,True,True,19,False,"আই ডিডন্ট এক্সপেক্টেড, টু সি ডাকি( মাই ফেভারিট ইউটিউবার) অন এনি বিডি ওয়াইটি চ্যানেল... ইউ ওন মাই হার্ট ব্রো❤"
+96,C096,UgxSeKwqz5HlqOPgatR4AaABAg,monolingual_ROM_BAN,False,True,8,False,আপু টা কা কার মতো জানো লাগা 😁😁
+97,C097,UgzJugtdAXk6_dEFtMl4AaABAg.A_NrKlnq32oA_NrM670bmo,monolingual_ENG,False,True,3,False,প্লিজ পিন মি
+98,C098,Ugz1AugUXGXMS-iD1HF4AaABAg,ENG+ROM_BAN,True,True,18,False,ভাইয়া 15k দিয়ে হেলিও 45 নিছি এটা কেমন..? ডিসিশন কি ভালো ছিল নাকি অন্য কোনোটা নিলে ভালো হতো..?
+99,C099,Ugx7mSPIjgq6_XQTcXt4AaABAg,ENG+ROM_BAN,True,True,7,False,আমাদের ভাগ্যে নাই আপনার থেকে গিফট 😅
+100,C100,UgygcJZxGy-NRlToFkd4AaABAg,monolingual_ROM_BAN,False,True,5,False,ভাই আশা দিয়া ভরসা ভাঙলেন
+101,C101,UgwvR6QH9cIE2kV55-p4AaABAg.AYt5C-x7X-4AYtWw5A8Otl,BAN+ENG,True,False,57,False,ইউ ডিজার্ভ বেটার গার্লস 💯 নট সুনেরা❌🍁🛑 যদি তুমি Iftekhar Rafsan(Tesla) হ্যান্ডসাম ব্রো কে অবশ্যই উন্নতি করতে হবে :- কমিউনিকেশন স্কিল 🪂স্মার্ট বডি ল্যাঙ্গুয়েজ🪂মাসকুলারিটি🪂কুল মাইন্ডসেট অলওয়েজ🪂ফিকশনাল অ্যান্ড নন-ফিকশনাল বুক রিড🪂স্লো ভয়েস🪂ড্রেসিং সেন্স🪂কাউন্সেলর অ্যান্ড থেরাপিস্ট দরকার।আর তুমি কীভাবে তোমার অডিয়েন্স এর কাছে নিজেকে উপস্থাপন করবে তোমার একান্ত ব্যক্তিগত ব্যাপার।🍁বাট ইউ আর ইন্টেলিজেন্স মেন... আই লাইক ইউ🍁ফলোয়িং ইউ 2019🍁 সরি 🍁
+102,C102,UgzbtBQSDcabCr6CX3x4AaABAg,BAN+ENG,True,True,13,False,মিস্টার ত্রিপল আর ভাই আমি তোমার অনেক বড় ফ্যান প্লিজ add 2919303986 ধরো
+103,C103,UgzXbixLe5wMClbIVoF4AaABAg,ENG+ROM_BAN,True,True,3,False,80/ ডিসকাউন্ট পাইছি
+104,C104,UgwjM4gbtZIoBar5VEl4AaABAg,ENG+ROM_BAN,True,True,7,False,মা শা আল্লাহ এগিয়ে যান ভাইয়া ❤
+105,C105,UgznqAx2jhfdLYmZ3rB4AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই আমাকে একটা মান্থলি মেরে দিবেন প্লিজ ভাই আমার ইউআইডি 1554980110😢😢😢
+106,C106,UgxuK0wm2VE_fGnJDel4AaABAg,ENG+ROM_BAN,True,True,8,False,রেডমি নোট ১৪ প্রো প্লাস নিলে কেমন হইiiiiiiiiiiiiiiiiiiiiii?
+107,C107,UgyMPxo1VBpgRIIhc7p4AaABAg,ENG+ROM_BAN,True,True,5,False,4:39 ওকে সুনেরাহ আপু 🌚🌚🌚
+108,C108,Ugz3uz1HzzC7v8g8bRp4AaABAg,ENG+ROM_BAN,True,True,9,False,সবাই ফোন কিনা থেকে বিরত থাকেন দাম এমনি কমবে
+109,C109,UgztX2O_1jLJPfVKo9J4AaABAg,BAN+ENG,True,True,18,False,ভাই স্যামসাং এম56 এর একটা রিভিউ দিলে ভালো হয়। বেজেল কম হওয়ায় কিনতে চাচ্ছি। ওভারঅল কেমন হবে ফোনটা?
+110,C110,UgwZOGdRHfvzznp_QN94AaABAg,BAN+ROM_BAN,True,True,5,False,ভাই আমি প্লিজ...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz লাকি সার্চক্রাইবার্স
+111,C111,Ugwv3iB8Jf_7VVuuhTd4AaABAg,BAN+ENG,True,True,53,False,ভাই এম 70 টিন ৯৯ লেভেলে করে আনলিমিটেড আমু লাগবে না তখন লন্চার দিয়ে সবাই কে মারেন প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ
+112,C112,UgwJkxUpy5Pw_Ezufhh4AaABAg,ENG+ROM_BAN,True,True,3,False,ভিউস ব্যবসা শুরু😂
+113,C113,UgzBHGtuUdQjNrF-TnZ4AaABAg,BAN+ENG,True,True,8,False,বদমাইশ পোলাপান নাটকের সবার অভিনয় অনেকটা ম্যাচিওর 💟
+114,C114,UgwoFXEMqwdxGJQ_7714AaABAg,ENG+ROM_BAN,True,True,9,False,ক্যাফে রংপুর গুলশান ২ কিং ফিশার রেস্টুরেন্ট অ্যান্ড বার
+115,C115,Ugwj3sgUtytmkWYz0XF4AaABAg,ENG+ROM_BAN,True,True,4,False,মেইন তুমহারে দা দেখো
+116,C116,UgzAH_u8IvZWEIKlQb14AaABAg,ENG+ROM_BAN,True,True,17,False,আমি ভাবছি মনে হয় আমি 2x এ দেখি বাট এখন তো দেখছি অনেকেই সেম কাজ করে 😂
+117,C117,UgxI5zgSVw7IuOgu2qV4AaABAg,ENG+ROM_BAN,True,True,4,False,ড্র্যাগ ak47 ছিল ভাই
+118,C118,UgyLWYhA1p2Lppt7HI54AaABAg,monolingual_BAN,False,True,4,False,একদিন খাওয়াতে পারেন আমাকে😋
+119,C119,UgzrCXmgS9L-CqAH-xt4AaABAg,monolingual_BAN,False,True,11,False,ভাই এইবারের আপডেটে যেন কিরকম পাবজির মতো হয়ে গেল না গেমটা😅😢
+120,C120,Ugxd3OVurazlXnoDHD94AaABAg,monolingual_ROM_BAN,False,True,2,False,আমি আছি
+121,C121,UgzFueT_cbLwVQB6RP54AaABAg,monolingual_ENG,False,True,2,False,হ্যালোউইন ইভেন্ট
+122,C122,UgzMZTJV4VLxNALvzQh4AaABAg,BAN+ENG,True,True,7,False,ভাই আমি ইন্ডিয়া কি অর্ডার করতে পারবো
+123,C123,UgyVqmDgQvAERZhlHwV4AaABAg,ENG+ROM_BAN,True,True,6,False,নেক্সট পার্ট টা তারা তারি চাই
+124,C124,UgxeGy_hEcxIqTAe5-d4AaABAg,ENG+ROM_BAN,True,True,4,False,কই স্ক্রিপ্ট নেহি বোলেগা
+125,C125,UgyJmj0X2TwnQaIwtod4AaABAg,BAN+ENG,True,True,13,False,তাই আপনার বুইড়া খরগোশ বান্ডিল পড়ে একটা ভিডিও দেন না। 🥰🥰 আই রিকোয়েস্ট
+126,C126,UgwYtwdf2CcV-AqLzlt4AaABAg,ENG+ROM_BAN,True,True,12,False,কে কে চান যেন এই বদমাইশ পোলাপাইন সিরিজ টি চলতেই থাকে 😊😊😊☺️☺️☺️☺️☺️
+127,C127,UgxC4kSScu5E9GolERd4AaABAg,monolingual_BAN,False,True,35,False,"""রাফসান ভাইয়ের চ্যানেল ফলো করি শুধু উনার ক্রিয়েটিভিটির জন্য, তবে আজকে একটা আইফোন জেতার আশাটাও যুক্ত হলো। কমেন্ট তো হাজারটা পড়বে, তবে আমার ভাগ্য আর আপনার ফোনটা একসাথে মিলে গেলে ব্যাপারটা জাস্ট সেরা হবে! 🚀🔥"""
+128,C128,UgwcLcyUWiXF3YhK7WN4AaABAg,ENG+ROM_BAN,True,False,13,False,ভাই 25 থেকে 30k এর ভিতরে গেমিং ফোন ভিডিও দেন ক্যামেরা ও ভালো থাকবে
+129,C129,Ugyl5rYyiHoD42gcIPN4AaABAg,ENG+ROM_BAN,True,False,13,False,ব্রো তোমার সাথে মিট করাটা বেটার দ্যান আই ফোন গিফট পাওয়া। ❤❤❤
+130,C130,UgxHN2RWzNAtZqwXFdd4AaABAg,BAN+ENG,True,True,5,False,ভাই আইইএম এর রিভিউ দেন
+131,C131,Ugx3CGFSjC-mivNffix4AaABAg,BAN+ENG,True,True,18,False,"এখন নাঈম থেকে অনেক ভালো ভালো গেমার গেমের ভিতর তৈরি হয়ে গেছে এখন আর এমপি৪০ চো*** লাগবেনা ,🤣🤣🤣🤣"
+132,C132,UgyuQKXxL1x1biBigHh4AaABAg,monolingual_ENG,False,True,5,False,থ্যাঙ্কস ফর 45 সাবস্ক্রাইবার 😭
+133,C133,Ugy3nvTZl86DEghwAjV4AaABAg,ENG+ROM_BAN,True,False,22,False,"আইভ বিন ওয়েটিং ফর ইউর ভিডিও, অ্যান্ড অলসো আইভ এক্সাইটেড ফর সুনেহরা অন ইউর ভিডিও..অ্যান্ড দিস ইজ অ্যাবসলিউটলি অসাম ,,গো এহেড রাফসান ভাই❤"
+134,C134,UgxS8Ju7bYQ1IbuUXIR4AaABAg,ENG+ROM_BAN,True,True,3,False,পার্ট টু চাই!!!
+135,C135,Ugw_eP6gGqx7gE-XNAV4AaABAg,ENG+ROM_BAN,True,True,6,False,বস দেখার আগেই লাইক কমেন্ট ডান
+136,C136,UgyWSOP0ToN2O_O2fNh4AaABAg,ENG+ROM_BAN,True,False,38,False,থ্যাঙ্ক ইউ স্যার ফর ব্যাক টু মেকিং ফানি ভিডিও। হোয়েন আই ওয়াজ 7 এজ আই ইউজড টু ওয়াচ ইউর ভিডিওস আই অ্যাম ইউর আ বিগ অনেক দিন পর আপনার ভিডিও দেখে ভালো লাগছে থ্যাঙ্ক ইউ স্যার আরো এমন ভিডিও বানান প্লিজ 🙏🙂❤️🩹
+137,C137,UgwiMQBL7Jz7wYh7Hv54AaABAg,ENG+ROM_BAN,True,False,28,False,আমার জীবনের সব থেকে বড় শখ একটা আইফোন চালানোর বাট সে আশা পূরণ হবে না আমার অনেক ইচ্ছা আপনার সাথে দেখা করার প্লিজ আল্লাহ দেখা করায় দাও
+138,C138,Ugw4oOSl7bEFPcUruvR4AaABAg,monolingual_BAN,False,True,8,False,ভিডিওর শুরুতে ওই লোকটা মাছটাকে কি খাওয়াচ্ছিল 💀
+139,C139,Ugyxme_yXTLw41Z758B4AaABAg,ENG+ROM_BAN,True,True,20,False,গুগল পিক্সেল ১১ এক্সএল আনঅফিসিয়াল বা অনার ৬০০ প্রো ভার্সেস স্যামসাং গ্যালাক্সি এস২৬ আল্ট্রা আনঅফিসিয়াল এর কম্পারিজন ভিডিও দেয়া যায়?
+140,C140,UgxNEtFyf8Z629scA8d4AaABAg,ENG+ROM_BAN,True,True,7,False,পারলে অনলি ব্ল্যাক কালার গান চ্যালেঞ্জ করেন
+141,C141,UgytS8IY08laa294rol4AaABAg.A_ovaBFxYrIA_ovd2MIy8n,ENG+ROM_BAN,True,True,19,False,ভাই আমাকে কিছু গিফট 🎁 করবেন প্লিজ 🙏🥺9172272019 প্লিজ 🙏🥺🥺🥺😅😅😅ভাই আমাকে কিছু গিফট 🎁 করবেন প্লিজ 🙏🥺9172272019 প্লিজ 🙏🥺🥺🥺😅😅😅
+142,C142,UgwWZ3maReIPm1brzop4AaABAg,ENG+ROM_BAN,True,True,7,False,আইফোন টা দে দাও আমায় ব্রো 🦥🦥🦥
+143,C143,UgxlsCbzLJQRlA-kDaZ4AaABAg,monolingual_BAN,False,True,4,False,ভাই মারাত্মক খেলা দিসেন
+144,C144,Ugz37Zx8_49-zpUmQlV4AaABAg,monolingual_BAN,False,True,11,False,৫ বছর ধরে ভিডিও দেখি আমি তো কিছু পেলাম না 😂😂
+145,C145,Ugym4RybiWWOKVv0fUJ4AaABAg,BAN+ENG,True,True,8,False,কালকেই শেষ পর্ব 🙂 - মাবরুর রশিদ বান্নাহ
+146,C146,UgxpLSP_jTaLrGUu4qJ4AaABAg,monolingual_BAN,False,True,19,False,*বাংলা নাটকের প্রতি সকলের ভালোবাসা দেখে আমি মুগ্ধ৷ আশা করি সব সময় এভাবেই ভালোবাসবেন৷ ধন্যবাদ সবাইকে এত ভালোবাসার জন্য*
+147,C147,UgwZIljoDzALTl0--rF4AaABAg,monolingual_ENG,False,True,5,False,ব্রোস কন্টেন্ট ডে বাই ডে🔥🔥
+148,C148,Ugw2RhtB0Bn0OnTUJnR4AaABAg,ENG+ROM_BAN,True,True,15,False,"রিপন এর একটা এন্ট্রি থাকলে অনেক খুশি হইতাম, শুধু আমি এ না, সবাই খুশি হইতো"
+149,C149,Ugy4Oz5ySYwQSHQ4lLR4AaABAg,ENG+ROM_BAN,True,True,21,False,"ভাই আপনার জন্য চ্যালেঞ্জ, 1 ভার্সেস 4 চ্যালেঞ্জ ইন বিআর র্যাঙ্ক ❤ অবশ্যই আপনার আইডি গ্র্যান্ডমাস্টার হতে হবে 10+ কিল 🎉"
+150,C150,Ugy5DybMfEo4Ki5Eiu14AaABAg,ENG+ROM_BAN,True,True,7,False,ট্রেলার জোস হইছে প্রত্যয় হিরণ ভাই। ❤️
+151,C151,UgzcjTb_lky7HaGGerB4AaABAg,BAN+ENG+ROM_BAN,True,True,12,False,আমি ১ বছর ধরে Meizu lucky 08 ইউজ করতেছি অনেক ভালো ❤️🔥❤️🔥
+152,C152,UgxDeDey9fOOsVQLJvl4AaABAg,ENG+ROM_BAN,True,True,9,False,ডে 3 অফ আস্কিং রাফসান ফর এইচএসসি এক্সাম সেলামি
+153,C153,Ugwc1-mS2egZpebjfYh4AaABAg,ENG+ROM_BAN,True,True,6,False,ড্যান্স স্টেপ আর চেঞ্জ হইলো না😂
+154,C154,UgwYO1c-p2uwBYNV9GN4AaABAg,ENG+ROM_BAN,True,False,6,False,যদি একটা পাইতাম আইপ্যাড ❤
+155,C155,UgwqGCtG3lKXr3a6q5t4AaABAg,ENG+ROM_BAN,True,True,8,False,ওয়েলকাম ব্যাক এম৪০ কিং নাঈম আলম ভাই ❤️🩹❤️🩹❤️🩹
+156,C156,UgxKvJ5xhOVxvMQ3aDB4AaABAg,ENG+ROM_BAN,True,True,10,False,ভাই কন্টেন্ট ক্রিয়েটর হবো ভাবতিছি বাট একটা ভালো ফোন নাই🥲💔
+157,C157,UgxVRVyLcOs3fVtis7x4AaABAg,ENG+ROM_BAN,True,True,5,False,ফার্স্ট কমেন্ট করতে পারলাম না
+158,C158,Ugyi4ALSwU1qxlPlL4t4AaABAg,BAN+ENG,True,True,14,False,ভাই পুরাই আগুন 🔥 ভাই অনেক ভালো হইছে আরো সুন্দর সুন্দর এপিসোড দেখতে চাই
+159,C159,UgxSOnmIgcL4QFOk_s54AaABAg,ENG+ROM_BAN,True,True,58,False,ভাই আমার মনে হয় না আমাকে দিবেন । বাট আমি অনেস্টলি চাই আমাকে দেন প্লিজ ভাইয়া দেন । আমি আপনাকে আগে চিনতাম না বাট রিসেন্টলি আপনাকে চিনছি তার পর আমি প্রায় এই কমেন্ট করি বাট এখন পর্যন্ত কিছুই পাই নাই বাট আমি চাই আপনি আমাকে একটা আই ফোন গিফট করেন । তাই প্লিজ ভাইয়া আমাকে দেন আই ফোন
+160,C160,UgzgWkXbvlSMkodoDdR4AaABAg,monolingual_ROM_BAN,False,True,4,False,নিলয় এক খান জিনিস
+161,C161,UgzSjpCJbaUnis5Jfhh4AaABAg.A_jsWfey37kA_lcXGPvfDG,monolingual_BAN,False,True,3,False,জুম্মা মোবারক ❤❤
+162,C162,Ugz8c-xCzQZ291BF8WF4AaABAg,BAN+ENG,True,True,23,False,ভাই প্লিজ আমাকে একটা পোকার এমপি৪০ বের করে দেন আজকে পাঁচ বছর ধরে আপনার ভিডিও দেখে কিন্তু কোনদিন আপনার থেকে গিফট পাইনি ❤❤❤
+163,C163,UgyI9DoMS0rJEyg9x6V4AaABAg,BAN+ENG,True,True,6,False,5g ওয়াইফাই নিয়ে একটা ভিডিও দেন
+164,C164,UgzBsQAN0zlFKb2rmEF4AaABAg,BAN+ROM_BAN,True,True,56,False,ভাই একটা চ্যালেঞ্জ । ভাই বিআর র্যাঙ্ক ম্যাচ শুরুতে প্লেনে থেকে নামার সময় একটা টাইমার দেখায় ১ মিনিটের এই সময় শেষ হবার আগে আপনি যে টুকু লুট পাবেন তা দিয়ে পুরা র্যাঙ্ক খেলেন । ((# পারলে কপিলিতে করেন। প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ ❤
+165,C165,UgxJU9noPPSECjRUQMV4AaABAg,ENG+ROM_BAN,True,True,17,False,ইটা আমার ফার্স্ট কমেন্ট আমার চ্যালেঞ্জ হলো অনলি ব্লু কালার এর চ্যালেঞ্জ প্লিজ এই চ্যালেঞ্জ কইরেন 😢😢😢😢😢
+166,C166,UgyKzglj_rMIY-mMRHl4AaABAg,ENG+ROM_BAN,True,True,3,False,লাভ ইউ চান্দু
+167,C167,UgxK72F8_samH0HskBR4AaABAg,ENG+ROM_BAN,True,False,5,False,ব্রোoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo এটারই অপেক্ষায় ছিলামmmmmmmmmmmmmmmmmmmmmmmm
+168,C168,UgzOAb-suQ0xX3dQbPt4AaABAg,monolingual_BAN,False,True,7,False,একটা কথা আমি আমার জন্য কথা ক❤❤❤❤😍
+169,C169,UgwBFOuhJ92PonsAw9Z4AaABAg,ENG+ROM_BAN,True,True,6,False,কিও রাফসান ভাই আইফোন কাকে দিবা
+170,C170,UgxE5Vm_qI1gX4i4noJ4AaABAg.A_NsebRmkOxA_NuRai6Od7,BAN+ENG+ROM_BAN,True,True,14,False,হাপিয়ে গেছে এনেমি plzz ভাই আর M79 দিয়ে গেমপ্লে এ দুইটা next আনেন plZzzz💞
+171,C171,UgwM1P9XYOhr_SHrXtV4AaABAg,monolingual_BAN,False,True,3,False,2:47 😢😢😢অ্যাড কর
+172,C172,Ugz_f-nFQDEhAQ0VLkZ4AaABAg,ENG+ROM_BAN,True,True,7,False,ভাই র্যাড ভাই রে নিয়া ভিডিও বানান
+173,C173,UgzgTBaOuT-lHAWEldZ4AaABAg,ENG+ROM_BAN,True,True,7,False,ফাইনালি দ্য আজাইরা লিমিটেড ইজ ব্যাক ❤️🩹
+174,C174,Ugwj1e3kZHsHE7EZHZd4AaABAg,ENG+ROM_BAN,True,True,7,False,বাংলাদেশ 🇧🇩 পাকিস্তান 🇵🇰 ভাই ভাই ❤❤❤
+175,C175,UgynJgjUFmiOPd3RVl94AaABAg,BAN+ENG,True,True,7,False,তোরে কিন্তু টাইম লইয়া মারুম😆😆 বেস্ট এন্ট্রি
+176,C176,UgzCMp1NB2wpcOwY3KZ4AaABAg,BAN+ENG,True,True,69,False,"২০ মিনিট এর নাটক, এর মধ্যে ৬-৭ মিনিট খাই ফেলেন, গতপর্বে কি ছিলো, আগামীপর্বে কি আছে, তারপর ইন্ট্রো, স্লো-মো এইসব এ, মাহিমাকে ছেলেটা ফুল দেয়ার পর পানিতে ঝাপ দেয়, আর ওইখানে প্রায় ৪০ সেকেন্ডের মত শুধু স্লো মোশনে ইট মারসে ওর মামা, পুরা এপিসোড শেষ করে দিলেন শুধু দুইটা সিন দেখাইতে, এর চাইতে ভালো ৩ টা এপিসোড একসাথে করে আপলোড দিয়েন সপ্তাহে একদিন, তা নাহলে এপিসোড গুলার লেন্থ বাড়ান।"
+177,C177,Ugzzu1NVBBTsNgQiY0t4AaABAg,monolingual_BAN,False,True,5,False,ভালো বাসা অবিরাম চান্দু ❤❤❤❤❤😊❤😊❤😊❤😊❤😊❤😊❤😊❤😊❤😊❤😊😊❤😊❤😊❤😊😊❤❤😊😊❤😊❤❤😊❤😊😊❤😊❤😊❤😊❤😊❤😊❤😊
+178,C178,UgxefVWnMHdwuHyFgyp4AaABAg,monolingual_ENG,False,False,70,False,"ডেফিনেটলি ইউ গনা বি দ্য বেস্ট ইউটিউবার ইন দ্য ওয়ার্ল্ড ব্রো..উই অল নো ইট- ইউ হ্যাভ গট সামথিং ট্রুলি স্পেশাল। ইউ হ্যাভ গট দিস। ইউ উইল ডেফিনেটলি ডু ইট অ্যান্ড উই উইল অল বি রাইট দেয়ার সেলিব্রেটিং এভরি মাইলস্টোন উইথ ইউ, ইন শা আল্লাহ। জাস্ট কিপ ইট আপ, কিপ গোয়িং, কিপ ক্রিয়েটিং..অ্যান্ড নেভার লুজ দ্য প্যাশন দ্যাট মেকস ইউর কন্টেন্ট সো স্পেশাল। দ্য বেস্ট ইজ ইয়েট টু কাম, ব্রো..ইন শা আল্লাহ ❤️ লাভeee 🫶🏻"
+179,C179,UgzMtkxCeBWLsn4PJzB4AaABAg,ENG+ROM_BAN,True,True,18,False,আইকু 15 আল্ট্রা স্টক এতো কম কেনো? আর বর্তমানে কোথায় তুলনামূলক কম দাম এ আইকু 15 আল্ট্রা পাবো
+180,C180,Ugwd0MBdJn5ncnbzGhh4AaABAg,monolingual_BAN,False,True,4,False,আমার কপালে যে ভাগ্য😮
+181,C181,UgzH_UphFHdZ5YzRjal4AaABAg,ENG+ROM_BAN,True,True,15,False,"আই ভিডিও টা দেইখা আগের ভিডিও এর কথা মনে পইড়া গেলো, পুরাই নস্টালজিয়া ফিল হইতেছে🥺"
+182,C182,UgxeC_h9xiyfxRmjuDd4AaABAg,ENG+ROM_BAN,True,False,21,False,"আই অ্যাম ফ্রম ইন্ডিয়া রেসপেক্ট, দি আজাইরা লিমিটেড ইউটিউব, ওল্ড জেনারেশন আপ ফার্স্ট কমেডি অ্যান্ড ইনফ্লুয়েন্স, অ্যাট্রাক্ট অল কমেডি বেঙ্গলি ক্রিয়েটর বস"
+183,C183,UgygZJYyvsl54uHziiJ4AaABAg,ENG+ROM_BAN,True,False,30,False,আমি আপনার অনেক দিন যাবত এর সাবস্ক্রাইবার তারপরও কোনো গিফট পাইনি আমি পর্দা করি তাই বাইরেও যাওয়া হয় না গিফটও কারো কাছ থেকে পাওয়া হয় না 😢😢
+184,C184,UgzMKjmrUtI-AbMIApd4AaABAg,BAN+ENG,True,True,7,False,আতিক স্যার তো পুরাই ফাক ওয়ালা স্যার
+185,C185,UgzdjIqv_P2_DTovfnN4AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই আমাকে তো একটা আইফোন দিতে পারেন আমি আপনার ওল্ড সাবস্ক্রাইবার
+186,C186,UgyncWYdUqXLP1Z5mth4AaABAg,BAN+ROM_BAN,True,True,5,False,"ধন বানাইছে, ভাইয়া সেই হইছে"
+187,C187,UgyBul-VNs22IKPFKJh4AaABAg,monolingual_ROM_BAN,False,True,1,False,হিভি
+188,C188,UgyBN9y6wgMolmALigh4AaABAg,ENG+ROM_BAN,True,False,40,False,এখন সবাই একই কথা বলবে আইকে বাট আই হোপ ভাই আপনি আমাকেই দিবেন আইফোন 17 😔 কারণ আপনি খুব ভালো একজন মানুষ ন আপনি আপনার আশেপাশের সবাই কে লাভ করেন.. আর যদি না দেন তাহলে সব কিছুর বিপরীত😬
+189,C189,UgxxgSS952SjMuJ3bCd4AaABAg,BAN+ENG+ROM_BAN,True,True,24,False,"ভাই আমি ফোন চার্জ দেওয়ার পরে চার্জার ইলেকট্রিক বোর্ডের সথে লাগিয়ে রাখি, এতে কি কোন সমস্যা হবে। ভাই রিপ্লাই দিয়েন 🥰🥰 love from Munshigonj🖤"
+190,C190,Ugxm56V37LgkYZQenMV4AaABAg,monolingual_ROM_BAN,False,True,6,False,ভাই এতো দিন পরে আবার 😊😊😊
+191,C191,UgwGK5gxeR7Pzn4LBwV4AaABAg,ENG+ROM_BAN,True,True,3,False,নেক্সট পার্ট চাই❤
+192,C192,Ugxv5iNJ22Ply3NyKaB4AaABAg,ENG+ROM_BAN,True,True,6,False,ভাই আমার বিকাশ নাম্বার হেল্প মি
+193,C193,Ugwp2pkVhi2vJBO9Ie94AaABAg,monolingual_BAN,False,True,2,False,কেমন আছেন
+194,C194,UgzuXNztJ5MlamL1JcZ4AaABAg,monolingual_ENG,False,False,5,False,"মাশাআল্লাহ, হ্যাপি বার্থডে ❤"
+195,C195,UgyWXErnK0XaFGclz0h4AaABAg,ENG+ROM_BAN,True,True,3,False,জিও ভাই 🎉🎉
+196,C196,UgzCW1dQzcnT8gEK_bB4AaABAg,monolingual_BAN,False,True,40,False,এত হাজার হাজার কমেন্ট এর ভিতর আমার এই ছোট্ট কমেন্ট আপনার চোখে পড়িবে ভাইয়া আমি অনেক ঋণ গোস্ত যদি পারেন আপনি আমাকে একটু সাহায্য করুন আপনি অনেক মানুষের উপকার করেন আমাকে সাহায্য করুন আল্লাহ আপনার দিনগুলু আরো ভালো কাটুক আমিন
+197,C197,Ugx8gDkOm9yP4Mu1JE54AaABAg,ENG+ROM_BAN,True,True,6,False,আজাইরা ইজ ব্যাক খেলা হবে মামা😍😍
+198,C198,Ugx5EQFTRw-kJzfTiEV4AaABAg,ENG+ROM_BAN,True,True,6,False,এই ঈদ আর বেস্ট পারফর্মার ভাই
+199,C199,UgxFQm5V9DeoV26P1oh4AaABAg,ENG+ROM_BAN,True,True,12,False,ভাই আমি ঘুষি দিয়ে লাইক করতে গিয়ে মোবাইল এর ডিসপ্লে ভেঙে ফেলেছি😅😅
+200,C200,UgyP-cQNb3MJDJ6OsVt4AaABAg,ENG+ROM_BAN,True,True,4,False,লাভ ফ্রম গাজীপুর ❤🎉🎉🎉
+201,C201,UgywDBtLySMEb5pMzb14AaABAg,BAN+ENG,True,True,5,False,ভাই ম্যাডি এফএফ সাথে করেন
+202,C202,UgzLD4djoh1_4pPh2Wl4AaABAg,ENG+ROM_BAN,True,True,8,False,ভাই তোমার 4 ইয়ার্স ওল্ড সাবস্ক্রাইবার আমি 🥲
+203,C203,Ugy_lJgbsQBS3i_vLyB4AaABAg,ENG+ROM_BAN,True,True,5,False,আই ফোন 17 প্লিজ 😢
+204,C204,UgwVBvs5MnwTx8z9LTZ4AaABAg,ENG+ROM_BAN,True,True,8,False,আচ্ছা আপনি আপনাদের ফ্রেন্ডশিপ টা দেখে মুগ্ধ হইলাম😊
+205,C205,UgyYok8GLqlkXUd_mwd4AaABAg,ENG+ROM_BAN,True,True,23,False,ভাই টেকনো স্পার্ক 50 5g এর রিভিউ দিবেন বলছিলেন এখনো দেন নাই . প্লিজ ভাই রিভিউ টা দেন ❤❤ . নাবিল ফ্রম কুমিল্লা
+206,C206,UgwlrQBT72q-GkQWC4F4AaABAg,monolingual_ROM_BAN,False,True,1,False,ভাইয়া
+207,C207,UgxJC-4RCFLZdG6ojPR4AaABAg,BAN+ENG,True,True,6,False,DJI 4P সম্পর্কে বিস্তারিত ভিডিও লাগবে
+208,C208,Ugyb484ucvlm9mN6EK94AaABAg,ENG+ROM_BAN,True,True,6,False,ভাই আমি একটা পোকার এমপি৪০ চিসিলাম
+209,C209,UgyaT8HT6HR8e5zEOON4AaABAg,BAN+ENG,True,True,10,False,ভাই আপনি একটু নুব আছেন।আপনাকে ইউআইডি দিলাম 8298274464 রিকোয়েস্ট দিয়েন।
+210,C210,Ugwa8sHLV-A8EFp_Wol4AaABAg,ENG+ROM_BAN,True,True,7,False,আরো ভিডিও চাই... লিজেন্ড আর কাম ব্যাক...❤
+211,C211,Ugw9c5Jl25zcuGWhBCJ4AaABAg,ENG+ROM_BAN,True,True,5,False,সেকেন্ড হ্যান্ড নিলে ভালো হয়
+212,C212,Ugx-4IqBwsBjVo7GZO94AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই প্লিজ অ্যাড মি😭 মাই UID:-623400255 প্লিজ অ্যাড ভাই🙏
+213,C213,UgyGUe_O1vc8mZ4cQsp4AaABAg,ENG+ROM_BAN,True,True,13,False,ভাই আমি ছিলাম ভাই স্নাইপার দিয়া ফার্স্ট টোকা মারছিলাম পরে রাশ মারছিলাম বাট😢😢
+214,C214,Ugw9NWKcyh8-V7HkTXd4AaABAg.9kpO8PJkgF-9ktRjyvpSLN,ENG+ROM_BAN,True,True,6,False,হুমম 🌼🌸 জনি ইজ দ্য বেস্ট
+215,C215,UgziTgsAmob-TbPFLh94AaABAg,ENG+ROM_BAN,True,False,13,False,আমাদের এলাকায় 4g তো দূরের কথা 2g ও ঠিকমতো পায় না ভাই
+216,C216,Ugw0EjlTJsJAQQX8s3h4AaABAg,monolingual_BAN,False,True,6,False,ভাই ফ্রি ফায়ারে মেকা চেমিলিয়ন খেলেন😊
+217,C217,Ugx9-CKB2CkVxn5948Z4AaABAg,ENG+ROM_BAN,True,False,5,False,চ্যালেঞ্জটা আবার দেখতে চাই
+218,C218,Ugx9eAKCi2bMR6wcgMF4AaABAg,monolingual_BAN,False,True,4,False,ভিডিও এডিটিং সুন্দর হয়ছে
+219,C219,Ugz66wqKu8EgFfd8FrB4AaABAg,monolingual_ENG,False,True,3,False,দ্য আন্ডারটেকার 🙂
+220,C220,UgxcTL9X5oReNmZmzQV4AaABAg,ENG+ROM_BAN,True,True,6,False,লাভ ফ্রম নোটার প্লিজ অ্যাড 9181236879❤
+221,C221,UgwmCdlKF8sVmBAMqsh4AaABAg,ENG+ROM_BAN,True,True,4,False,অনেক সুন্দর ভিডিও ভাইয়া
+222,C222,Ugy7X2HauCOLLYZB1ph4AaABAg,BAN+ENG,True,True,19,False,মিস্টার ট্রিপল আর আসসালামুয়ালাইকুম কেমন আছেন ফেস রিভিল করবেন কবে আপনার জন্য একটা চ্যালেঞ্জ শর্ট রেঞ্জের গান দিয়ে খেলেন
+223,C223,UgyZTpSsAWyjE-AXiRR4AaABAg,ENG+ROM_BAN,True,True,11,False,ব্রাহ কাম টু মেক্সিকো। তোমাকে একটা রোলারকোস্টার ফুড ট্যুর দেই !!!
+224,C224,UgznIQSVMYUbQCkWyjB4AaABAg,ENG+ROM_BAN,True,True,5,False,বিউটি কুইন খাগড়াছড়ি থেকে দেখছি।
+225,C225,UgySXhcjgSvhYAD4Yi54AaABAg,ENG+ROM_BAN,True,True,4,False,রেডমি টার্বো ৪ কই
+226,C226,Ugzajt39N25fCMuEpS14AaABAg,ENG+ROM_BAN,True,True,6,False,ইউ শুড ট্রাই নামকিন টিক্কা বারবিকিউ
+227,C227,UgxsCg012QbddoXJpol4AaABAg,BAN+ENG,True,True,35,False,ধন্যবাদ ভাই এই অ্যাডভান্স সার্ভারের গান স্কিন গুলা দেখানোর জন্য আমিও খুব এক্সাইটেড ট্যাক্সি ফ্রি ফায়ার এর নতুন আপডেট গুলার আর ভাই সেপ্টেম্বরের ১৬ তারিখে নাড়ুটো চ্যাপ্টার ২ আসবে সেটার একটা ভিডিও বানাইয়েন ওই তারিখেই।
+228,C228,Ugx_v9KftwhfpNsIK0V4AaABAg,ENG+ROM_BAN,True,True,8,False,❤ওহ নাইস ব্রো গিফট টা সত্যি দিয়ে দিও...
+229,C229,UgzdVMuquL33p4JkLWN4AaABAg,BAN+ENG,True,True,9,False,30 হাজারে IQOO NEO 9 নিবো কি ভালো হবে❤
+230,C230,UgxLfpfc04rBPlhOOQt4AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই এখন পর্যন্ত কেউ বার্থডে উইশ করলো না 😅
+231,C231,Ugz2LOjD0qymsbc2jyp4AaABAg,BAN+ROM_BAN,True,True,13,False,9607491013 বাই ৬বছর আগে থেকে বপনার বিডিয় দেখি আমারে পুকার এমপিফরটির পুকারটা নিয়েদুবেন😭😭😞
+232,C232,Ugwoc1ht8qfN6EztpSZ4AaABAg,ENG+ROM_BAN,True,True,5,False,ভাই কাম ব্যাক প্লিজ 🥺😭
+233,C233,UgzhiIXByibrFPRdoGp4AaABAg,ENG+ROM_BAN,True,True,17,False,তোমার ভিডিও আর নিচে আবার মিস্টার নো ফেস আর ভিডিও আলা কোন্দা দেখমু কনফিউজড হইয়া গেছি গা
+234,C234,UgxAmbVojkrGsM-oN_B4AaABAg,monolingual_BAN,False,True,4,False,আপনার ভিডিও অনেক সুন্দর
+235,C235,UgzY5kdzAzRSpFfsUpJ4AaABAg,monolingual_ENG,False,True,6,False,ব্রোস কন্টেন্ট ডে বাই ডে 📈📈📈
+236,C236,Ugw2TDvHwiGjY7aWZqh4AaABAg,ENG+ROM_BAN,True,True,5,False,আমরে দে রে একটা আইফোন
+237,C237,Ugw4rabriyRVv9CaEnt4AaABAg,BAN+ENG,True,False,55,False,"আপনি,,,সাদা ড্রেসআপ পড়া এনিমি মারতে পারবেন,,,এবং তাঁর সাথে ১০ কিল করে বুইয়া করবেন,,, যদি না পারেন তাহলে আপনার ফেস রিভিল করে দিবেন,,,🤣🤣🤣 ফেস রিভিল না করলেও চলবে,,,😎😎😎 তবে আমাকে ঘুষ দিতে হবে,,,🤣🤣🤣 তবে এই চেলেন্জ যদি না করতে পারেন,,,তাহলে চান্দু,,,🤣🤣🤣,,,আমার ঘুষ চায়'ই চাই,,,😁😁😁 মিস্টার ট্রিপল আর ভাই আপনাকে আজকে থেকে কমেন্ট করা শুরু করলাম,,,৮ আগষ্ট ২০২৬"
+238,C238,UgxShFVlxYsIf1PPS2N4AaABAg,ENG+ROM_BAN,True,False,13,False,"অল দ্য বেস্ট, আমি গানটা শুনছি মেইনলি তোমাদের কামব্যাকটা দেখার জন্য❤❤"
+239,C239,UgyUd5665aZouedqTXN4AaABAg,ENG+ROM_BAN,True,True,8,False,আমরা কি পাবো না আইফোন। 😊 রাফসান 🥺
+240,C240,UgyDMWeJoo2rDxwOC5h4AaABAg,monolingual_BAN,False,True,23,False,এই নাটকটা দেখলে ভালোই লাগে কিন্তু মাঝেমধ্যে মন খারাপ হয়ে যায় স্কুলের লাইফে আমরাও এমন করতাম হয়ত এদের চেয়ে বেশী বা সমান 🥀
+241,C241,UgyG35bVvGPJVyKlmZd4AaABAg,monolingual_ENG,False,True,6,False,আই অ্যাম ইউর বিগ ফ্যান ❤❤
+242,C242,UgyZJgMHDZ2_VXZDxLZ4AaABAg,BAN+ENG,True,True,30,False,ভাই আপনি ২০ হাজারে প্রমোশন করছেন কিন্তু কয়েকদিন পরে ব্যবসায়ীরা সিন্ডিকেট করে ২৩-২৪ হাজারে বিক্রি হবে।যেমন Lucky 08 এ হয়েছিল।আপনার কাছেই ২২ হাজারে শুনেছিলাম কিন্তু এখন ২৫-২৬ হাজারে বিক্রি হচ্ছে😢
+243,C243,Ugzh6YRGhy4iwhVBMIZ4AaABAg,monolingual_BAN,False,True,50,False,ভাই আমি আপনাকে একটি চ্যালেঞ্জ দিতে চাই যদি না করতে পারেন তাহলে আপনার ফেস রিভি করে যেতে হবে চ্যালেঞ্জটা হচ্ছে গানের অপশনে গিয়ে গানের শেষে যেকোনো একটি নাম্বার থাকে যেমন একে-৪৭-এ ৪৭ কাছে তার মানে আপনাকে ৪৭ টা কিল করতে হবে আর না করতে পারলে আপনার ফেস রিভিউ করতে হবে
+244,C244,UgwXYHTT2DrQDJanY114AaABAg,monolingual_BAN,False,True,2,False,ভাই দাম
+245,C245,UgzozWP1Rc7-SMbG0GV4AaABAg,ENG+ROM_BAN,True,True,4,False,ভাই 'ভি' ব্যাজ কই..?
+246,C246,UgyYkj6mG4wKDL9ZliJ4AaABAg,monolingual_BAN,False,True,7,False,আমার এমন কয় একটা বন্ধু থাকত 💔
+247,C247,UgwW6_baVaZONDlIpp94AaABAg,ENG+ROM_BAN,True,True,3,False,অ্যাড হবো বি
+248,C248,Ugx5pgLMeJHIel1xhF54AaABAg,ENG+ROM_BAN,True,True,6,False,ব্রো ব্রো আইফোন টা দিয়া দেনnnnnn
+249,C249,UgxYUFy2gLsgLJlZuDl4AaABAg,ENG+ROM_BAN,True,False,10,False,ভাই আপনার ভিডিওর ওল্ড ট্রিপল আর অ্যানিমেশন কই গেলো😢
+250,C250,UgyxWBF-EuuTmAXrH0p4AaABAg,BAN+ENG+ROM_BAN,True,False,3,False,পোকো এক্স ৭ প্রো
+251,C251,UgxiZlzhEE-P39GS3D14AaABAg,ENG+ROM_BAN,True,True,5,False,ভাই আমি আপনার বিগ ফ্যান❤
+252,C252,Ugy9iDwmFtZKFr6fAIp4AaABAg,ENG+ROM_BAN,True,True,11,False,লাভ ফ্রম ইন্ডিয়া 🇮🇳🫶🏻✨ এক্সিলেন্ট মেলোডিয়াস ভয়েস অফ মাহতিম সাকিব স্যার🫶🏻❤🇧🇩
+253,C253,UgwthmGRODld0rBp6Gd4AaABAg,ENG+ROM_BAN,True,True,14,False,ভাই লাস্ট আপডেট এ পাবজি আর সব গান কপি মারছে আবার কল অফ ডিউটি
+254,C254,Ugy6WTZkbdpgyD9lVfh4AaABAg,ENG+ROM_BAN,True,True,11,False,"ভাই সুনেরা আপু কে ভালোবাসলে , আইফোন টা আমাকে দিয়েন 😊😊😊❤️❤️❤️"
+255,C255,UgzR0w1BRO22xcA0BuB4AaABAg,ENG+ROM_BAN,True,True,10,False,ইনফিনিক্স হট 60 প্রো প্লাস দিতেন ভাইয়া এটাও তো আসে😮❤❤❤❤❤😢
+256,C256,UgyzDwkWzDIrxq2b6A94AaABAg,ENG+ROM_BAN,True,True,3,False,আহহহ ভাই ফাইনালি🥺❤️
+257,C257,Ugx1anx5azrwlssoGeN4AaABAg,ENG+ROM_BAN,True,True,3,False,ওয়াও অসাম ছোটভাই
+258,C258,Ugx54-_5c9Ap0w7Jw154AaABAg,monolingual_BAN,False,True,6,False,আজ একটুখানি দেরি হয়ে গেছে 😅
+259,C259,Ugxy5J0Rr-JzTy5Tpml4AaABAg,monolingual_ENG,False,True,2,False,এমপি৪০ কিং❤️
+260,C260,Ugz37BRw0g1m97t_sJh4AaABAg,monolingual_BAN,False,True,15,False,৮ বছর আগের শেষ চিঠি আর এখন পৃথিবী বদলে গেছে ...... বলার ভাষা হারিয়ে ফেলেছি
+261,C261,UgywWFCvvfoM2CfokG54AaABAg,ENG+ROM_BAN,True,True,13,False,কত বছর ধরেই সাবস্ক্রাইব করে আছি এখনো কোনো গিভঅ্যাওয়ে তে কিছু পেলাম না🥲
+262,C262,UgzgtPO3csx65xDx20Z4AaABAg,ENG+ROM_BAN,True,False,11,False,আসসালামু আলাইকুম ভাইয়া 16 আগস্ট আমার বার্থডে প্লিজ গিভ মি ওয়ান আইফোন😊🥺
+263,C263,UgzCSCBcZUN4xxH3ikx4AaABAg,monolingual_BAN,False,True,30,False,"রাফসান ভাই, আপনি তো সবার বড়ভাই! আর বড়ভাইদের দায়িত্বই তো ছোটভাইদের শখ পূরণ করা। এবার ছোট ভাই হিসেবে আবদার করলাম—আইফোন ১৭-টা আমার হাতে তুলে দিয়ে আদর্শ বড়ভাইয়ের পরিচয় দিন! 😎🙌"
+264,C264,UgxTzKohzoiKLhuZvKp4AaABAg,ENG+ROM_BAN,True,True,9,False,আমার বাসায় এসে আইফোন দিয়ে গেলে ভালো হইতো 😊😊😊😊😊😊
+265,C265,UgwmrCMtQkOwj3PCn6Z4AaABAg,ENG+ROM_BAN,True,True,7,False,আই স্টিল মিস দ্য ওল্ড আজাইরা লিমিটেড
+266,C266,UgyZkhzdEMiHXYuN9n54AaABAg,ENG+ROM_BAN,True,True,23,False,তোমাদের অনেক অনেক মিস করছি সিরিয়াসলি ২০১৯ এর গোল্ডেন টাইম এর লেজেন্ড তোমরা। হঠাৎ তোমাদের কথা মনে পড়ায় চ্যানেল টা আবার সার্চ দিলাম।
+267,C267,UgxM6LeMyCTq8fimQdJ4AaABAg,monolingual_BAN,False,True,15,False,কালকের ভিডিওটা দেখা হয়নি বলে চান্দু ওটা দেখছিলাম সাথে সাথে আজকের ভিডিওর নোটিফিকেশান পেলাম 😍🧡
+268,C268,UgwQpoWjZP52y3ch7Qt4AaABAg,ENG+ROM_BAN,True,True,10,False,আইফোন এর দরকার নাই ভাইয়া পারলে রান্না করে খাওয়াইয়েন 🙂🙂🙂🙂🙂
+269,C269,UgzSXjd3XBL8c5Iuy2F4AaABAg,BAN+ENG,True,True,5,False,ভাই আমারও জনসিনা favorite ❤️🤧💪💪
+270,C270,UgzFre_NK5CtXUmWQvp4AaABAg,ENG+ROM_BAN,True,True,7,False,স্যাম ভাই এম৪৭ এর রিভিউ চাই 😇🥰
+271,C271,Ugzz7K5RfoBdzfrP55x4AaABAg,ENG+ROM_BAN,True,True,6,False,রেডমি টার্বো 4 প্রো কই ভাই
+272,C272,UgyeaPfM9q4Ntjk-E0F4AaABAg,BAN+ROM_BAN,True,True,12,False,ভাই আমাকে প্লিজ একটা মান্থলি দেন আমি আপনার খুব বড় ফ্যান uib:13904211969😢😢😢🎉
+273,C273,UgxQV6jwE81s_KZ_Co94AaABAg,BAN+ROM_BAN,True,True,7,False,কে কে চান দুর ফেইস রিবিল চাও
+274,C274,UgyWjoGbvNZ0Ah5nAnR4AaABAg,ENG+ROM_BAN,True,True,14,False,তানভীর নিলয় ভাই আর অ্যাক্টিং সোচ্চা ভালো লাগে অস্থির অ্যাক্টিং করে লাভ ইউ ভাই🥰🥰🥰
+275,C275,UgyyQgun5oIFBU18oWd4AaABAg,ENG+ROM_BAN,True,True,7,False,ভাই ইউজড আইফোন নিয়া একটা ভিডিও চাই
+276,C276,UgzPpAwViIZaU8zDjr54AaABAg,monolingual_BAN,False,True,13,False,আপনি শুধু মুখে বলেন এটা দিব ওটা দিব কিন্তু বাস্তবে দেন না 🤧😭
+277,C277,Ugxfog-KyAkzgQf4Qyl4AaABAg,ENG+ROM_BAN,True,False,91,False,এডিটর কে অডিও তে লেফট লেফট অর রাইট রাইট ইউজ করা উচিত ছিল মেবি প্রিমিয়ার প্রো 2025 ইউজ করছে ক্র্যাক টা যে এডিট করছে ওই জানেই না সাউন্ড টা কি ভাবে ঠিক করবে জাস্ট এডিট করে দিছে আর ওই মেবি হেডফোনস দিয়া সাউন্ডস শুনছে তাই বুঝেই নাই কি করবে এটা আবার ঠিক করে এডিট করেন প্রজেক্ট ফাইল এ যেয়ে দেন আপলোড করেন প্লিজ এডিটর কে ওরে ধইরা মারো সাউন্ড এর কাজ করতেই পারে নাই ভাইয়া এতো বাজে কোয়ালিটি এই সময় এসে আশা করা যায় না ভাই ইট'স রিয়েলি ব্যাড সাউন্ড কোয়ালিটি 😢
+278,C278,UgzpM9AdyFivAGkDH154AaABAg,ENG+ROM_BAN,True,True,6,False,দ্য আজাইরা লিমিটেড ইজ ব্যাক😩😩 🥺🥰🥰
+279,C279,UgxKpgJTj2Wx7cL9NGl4AaABAg,BAN+ENG,True,True,4,False,কি থাম্বনেইল ভাই 😂😂😂
+280,C280,UgzDH6ggXsCi-9Z43k54AaABAg,monolingual_BAN,False,True,16,False,"অবশ্যই তুমি পাবে, যা চলে গেছে তার চেয়ে উত্তম কিছু। - [ সূরা আনফাল ] 🌹🌹🌹🌹"
+281,C281,UgxeJLNgEzd4iQb2bLZ4AaABAg,BAN+ENG,True,False,26,False,ভাইয়া আশা করি আপনি আমার কমেন্টের উপর ভিত্তি করে একটা ভিডিও পাবো। এখনকার মোটো এজ 60 প্রো বনাম টেকনো ক্যামন 50 আল্ট্রা এর ডেডিকেটেড একটা ভিডিও দিবেন।❤❤❤
+282,C282,Ugzp5OFeU9J89t435cp4AaABAg,ENG+ROM_BAN,True,True,5,False,নেক্সট এপিসোড তারাতারি দিবেন প্লিজ
+283,C283,Ugxryvf4J_kVYPpO00h4AaABAg,BAN+ENG,True,True,8,False,ভাই ওই স্কিল টা অন করে আকাশে তাকান
+284,C284,Ugw4Zzx42c_gS6ifHNV4AaABAg,monolingual_BAN,False,True,7,False,রিংকু ভাইকে ডায়মন্ড দিয়েছিলে সবুজটা নেওয়ার জন্য।
+285,C285,UgwwYrbliLoHeEDZVqV4AaABAg,ENG+ROM_BAN,True,True,15,False,লাস্ট সিন টা দেখে ইমোশনাল হইয়ে গেছি🥺🥺😅💔 সেই আমাদের আগের প্রত্যয় ভায়া আর মহিমা আপু🥺🥺😩🥰🥰
+286,C286,UgxaNCKClO3iMV7ClId4AaABAg,ENG+ROM_BAN,True,True,5,False,ফার্স্ট লাইক আমি করলাম ❤
+287,C287,UgxSWXlNLNteRl8auH94AaABAg,ENG+ROM_BAN,True,True,5,False,অনার রোবট ফোন এর মতো😅😅
+288,C288,Ugzwqcl1fLeVMYBXlFV4AaABAg,ENG+ROM_BAN,True,True,12,False,রিজভী ভাই আপনার সাথে একটা লোন উলফ খেলতে চাই.. প্লিজ ইউআইডি 3482666504
+289,C289,Ugy18zm0gdPHSjWBRVt4AaABAg,ENG+ROM_BAN,True,True,4,False,ভাই বিগ ফ্যান ❤❤
+290,C290,UgzC9e980qh5lOog5eN4AaABAg,BAN+ENG+ROM_BAN,True,True,18,False,আসসালামুয়ালাইকুম ট্রিপলার ভাই আমি আপনাকে অনেক দিন আগে কমেন্ট করেছিলাম ভাই আমার ১ টাই ইচ্ছে তোমার সাথে খেলার
+291,C291,UgzaAYaQJgqyxYjvr0B4AaABAg,BAN+ENG,True,True,19,False,"আইফোন গিফট করা তো অনেকেই পারে, কিন্তু কাউকে এতটা খুশি করা সবাই পারে না ❤️ রেসপেক্ট রাফসান ভাই! 🔥"
+292,C292,UgzkjQEU18qtegxQ_UZ4AaABAg,BAN+ENG,True,True,65,False,আসসালামুয়ালাইকুম মিস্টার ট্রিপল আর ভাইয়া আপনি আপনার সাবস্ক্রাইবার এর আশা পূরণ করবেন না । আমি যানি যে আপনি পুরন করবেন। বর্তমানে গেমের ভিতরে প্যারাডক্স এর ইভো বান্ডিল আসছে না সে বান্ডিল আমার পছন্দ হইছে ওই বান্ডিলটা আমার বের করে দিলেন প্লিজ প্লিজ প্লিজ। আমরে তিন হাজার ডায়মন্ড টপ করে দিলেই হবে । আমি জানি আপনি আমাকে বের করে দিবেন। ❤❤ UID 7824897130 এটা আমার ইউআইডি।
+293,C293,UgyOzr33fqEkGkuErnV4AaABAg,ENG+ROM_BAN,True,False,10,False,ভাই সাবস্ক্রাইবারদের ভালো বাসলে আমাকে আইফোন 15 দেন
+294,C294,Ugzfw7djJNpVFQ0Xytx4AaABAg,ENG+ROM_BAN,True,True,12,False,ভাই চায়না থেকে ফোন ইমপোর্ট করলে কোনো প্রবলেম হবে কি ?? 😢😢
+295,C295,UgwdK0Dk4XtsP6Iy67N4AaABAg,ENG+ROM_BAN,True,False,10,False,ক্যামেরাম্যানদের রাফসান ভাই বাসা থেকে ভাত খাওয়ায় আনছে? xD
+296,C296,UgwsIw4wIBlHNitKB7J4AaABAg,BAN+ENG,True,True,15,False,এত খুঁজেও ২৪ হাজারে কোনোটা না পেয়ে টেকনো স্পার্ক ৫০ ৫জি কিনলাম। ডাইমেনসিটি ৬৩০০ প্রসেসর।
+297,C297,UgzZa79NB_GNh4UgD194AaABAg,ENG+ROM_BAN,True,True,22,False,হে রাফসান প্লিজ গিভ মি আ ফোন লাস্ট মান্থ মাই ফোন গট স্টোলেন ফ্রম মাই রিলেটিভস ফিউনারেল প্লিজ গিভ আ আইফোন প্লিজ
+298,C298,UgwhgHYKLLtYv5l7-M14AaABAg.AAJ1Lo7iOAoAARrOSmaCMe,ENG+ROM_BAN,True,True,16,False,বদমাইশ পোলাপাইন নভেম্বর ৭ এ আবার কন্টিনিউ হবে 🥳🥳🥳 এটা অফিসিয়ালি বলেছেন মাবরুর রশিদ বান্নাহ(ডিরেক্টর) 🙂🙂
+299,C299,UgwkJr1T4xts0qsfUB14AaABAg,ENG+ROM_BAN,True,False,78,False,শালার এতো বছর পর তোমাদের ভিডিও দেখলাম। প্রত্যয় যখন মেয়েদের সাথে নাটক শুরু করছে আমি ওর ভিডিও দেখা বন্ধ করে দিছি। একটা নাটকও দেখি নাই কেন জানি সহ্য হইতো না🙄😆 ছোটকালের ক্রাশ বলে কথা কোনো মেয়ে তার পাশে থাকবে এটাই সহ্য হতো না🙃। এতো বছর পর আজ কে হঠাৎ তোমাদের আগের ভিডিও গুলোর দেখার ইচ্ছা জাগলো এখন দেখি নিউ ভিডিও অল্প দেয়া হইছে। অনেক অনেক অনেক ভালো লাগছে আর আবার আগের মতো হাসতে পারলাম❤❤❤❤❤... গঞ্জাটি ক্রাশ🤣🤣🤣
+300,C300,UgzPQzIwibY-4jEXBLd4AaABAg,BAN+ENG+ROM_BAN,True,True,11,False,তুমি তোমার মাকে ভালোবেসে থাকলে আমাকে একটা আইফোন গিভ করো ❤
+301,C301,UgzHQ-8Kn6zihypdkw54AaABAg,monolingual_BAN,False,True,4,False,তোমাদের অপেক্ষায় ১বছর ধরে
+302,C302,UgzxtGsD1SbOPVZlGNt4AaABAg,ENG+ROM_BAN,True,True,7,False,আমি আপনার ভিডিও এর অপেক্ষায় ছিলাম 😌🌸
+303,C303,UgxXFftnv4OpDDh6i1R4AaABAg.AZnyo_xARgeAZpo6kL7wGO,ENG+ROM_BAN,True,True,6,False,ফোন না থাকলে কমেন্ট কিভাবে করলা🙂
+304,C304,UgyMvNsOZ5Mhd_v-TX54AaABAg,ENG+ROM_BAN,True,False,18,False,আমার ওয়ান অফ দ্য ফেভারিট গেমস। ভাবতে পারিনি ফেভারিট ইউটিউবার এর কাছ থেকে এই গেমটার ভিডিও পাবো
+305,C305,Ugy8JAd1j2UmmJXpb7p4AaABAg,ENG+ROM_BAN,True,True,8,False,"ভাইয়া ""কুকিং ফর মাচ মামা"" থেকে আসছি 🙂"
+306,C306,UgwJacObqEuE0G5_EMJ4AaABAg,ENG+ROM_BAN,True,True,6,False,এইচএসসি ইংলিশ কালকে আমি ভাইব নিতেছি🐸🫶
+307,C307,Ugy6PdmAlp0lsiqi0L14AaABAg,monolingual_BAN,False,True,7,False,ভাই প্লিজ হাঁপিয়ে গেছে এনিমি চ্যালেঞ্জটা করেন।
+308,C308,UgyQ2cFIgdw2rzwwVDN4AaABAg,BAN+ROM_BAN,True,True,13,False,এমন কনটেন্ট রেগুলার চাই ভাই আজাইরা এলটিডি আবার আগের মতো ফিরে আসুক 💝
+309,C309,UgwS2w51m7yamy2xPuB4AaABAg,monolingual_ROM_BAN,False,True,5,False,আমাগো কপালে এগুলা পাইনা 😂😂😂
+310,C310,UgyD5ixAQBrrH2tdEwl4AaABAg,ENG+ROM_BAN,True,True,5,False,ভাই প্লিজ রিপ্লাই মাই কমেন্ট।🥹
+311,C311,UgybgpVMCtBLo1Usr2F4AaABAg,BAN+ENG,True,True,4,False,তাই নাকি ব্রো 😊
+312,C312,Ugx43rgX0Dxfs4XarXN4AaABAg,BAN+ENG+ROM_BAN,True,True,13,False,তুমি যদি তোমার পরিবারকে ভালোবাসো তাহলে আমাকে আই ফোন 17 প্রো ম্যাক্স দাও....
+313,C313,UgzLEf1uLdN01IjrMHF4AaABAg,monolingual_ENG,False,True,3,False,এনএস আরিফ ওয়াইটি
+314,C314,Ugx4DmK9ExCatPzn5e94AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই আপনি ভিভো ওয়াই৬০০ প্রো নিয়ে ১টা রিভিউ দিয়েন তো প্লিজ
+315,C315,Ugxew8R9SlLab-mrkGh4AaABAg,ENG+ROM_BAN,True,True,21,False,ভাই আপনি যদি আপনার মাকে ভালো বাসেন তাহলে আমাকে এফএফ এ ওই লাল চুল আলা বান্ডেল টা দিন আমার ইউআইডি 11843483071
+316,C316,Ugz-2tJmZcTsB3UJx7h4AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই এই রিকয়েল টা অনেকটা পাবজি এর মতো মনে হইতেছে 😮😮
+317,C317,UgxN7EESaPRq5_MeGuh4AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই জি কি কমেডি দেখো তো লাস্ট 3 লাখ করোড় প্লিজ
+318,C318,UgzxzPTc4asB8otCpOF4AaABAg,ENG+ROM_BAN,True,True,14,False,দোয়া করি আপনি এভাবে আরো বেশি বেশি মানুষের পাশে থাকেন। অনেক ধন্যবাদ হৃদয় থেকে❤
+319,C319,UgxI-s_ZxGKu02JFy9B4AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই ইন্ট্রো দিলা নাকি কি দিলা ভাই বুঝলাম না?☹️😑
+320,C320,UgxYIcvE8LStoUBmjRh4AaABAg,ENG+ROM_BAN,True,True,4,False,আমার ফোন অ্যান্ড্রয়েড ১২
+321,C321,UgzsmnM3Mzkfok8F5W14AaABAg,BAN+ENG,True,True,23,False,"দেখি রাফসান ভাইয়ার দিক থেকে আমার লাক কেমন !! পেতেও তো পারি এভরিওয়ানস ফেইট চেইঞ্জেস, মাই ফেইট ক্যান অলসো চেইঞ্জ ইন দিস ডিরেকশন।"
+322,C322,Ugyg3xm2BE3JFh6SQzp4AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই 2017-18 সালের ভাইব টা পাইলাম ভাই আপনি এইভাবেই তাইক্কেন ❤️❤️
+323,C323,UgxQFyDX5A6kpPgaMOZ4AaABAg,ENG+ROM_BAN,True,True,13,False,5:10 আমি 86% পাইছি কিন্তু ডায়মন্ড ছিল না তাই টপ-আপ কইরা বাইর করছি🥳
+324,C324,UgxvwU7uDK-_X6IeXz94AaABAg,ENG+ROM_BAN,True,True,5,False,ভাই ভিডিও ল্যাগ ল্যাগ লাগে❤
+325,C325,UgzcwvSN394CmnVX1J94AaABAg,ENG+ROM_BAN,True,True,12,False,বেস্ট বার্থডে পার্টি ব্রো অ্যান্ড হ্যাপি বার্থডে রাফসান দ্য বড় ভাই 🎂❤❤❤
+326,C326,UgzWXPNiAadDJZPr2594AaABAg,ENG+ROM_BAN,True,True,4,False,বোকলম এর অ্যাক্টিং জস😂
+327,C327,UgxNmioT4009Rr6r4ot4AaABAg,ENG+ROM_BAN,True,True,10,False,আফটার লং টাইম ব্রো ভালো কিছু হবে আশা করি 😊🤙
+328,C328,UgyONSmsxdx1MAFxII54AaABAg,ENG+ROM_BAN,True,True,3,False,❤টেক লাভ চান্দুগন
+329,C329,Ugx1eyexkkA6iJ3o5y14AaABAg,ENG+ROM_BAN,True,True,14,False,আমার তো অনেক আগেই সাবস্ক্রাইব করা ছিল তাই বলে কি আমি আইফোন পাবো না😢😢😢😢
+330,C330,UgyhZN_rHcn1Ffp_Zwl4AaABAg,BAN+ROM_BAN,True,True,11,False,অস্বাভাবিক দাম বাড়ানোর বিষয়টাকে সুক্ষভাবে নরমালাইজ করার চেষ্টা করছেন নাকি ভাই?
+331,C331,Ugw1V8xE4w8-Alhfvet4AaABAg,ENG+ROM_BAN,True,True,5,False,0:19 প্রমোশন টা করা হইছে🥶🥶🙂
+332,C332,UgyaDS4wYwAmZbPI8xN4AaABAg,monolingual_ENG,False,True,18,False,পিপল ডোন্ট লাইক কোয়ালিটি কন্টেন্ট...দে প্রেফার ক্রিঞ্জ কন্টেন্ট অ্যান্ড জাস্ট স্ক্রল পাস্ট দ্য গুড স্টাফ..বাট ব্রো ইওর কন্টেন্ট🔥
+333,C333,UgwPWC52kc-S4MRSxtl4AaABAg,ENG+ROM_BAN,True,True,13,False,আমাকে আইফোন টা দিলে সময় টিভি এর থেকে বেশি সাবস্ক্রাইবার হয়ে যাবে 💯
+334,C334,UgwJu3xxV7vZ_cxhmyV4AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই এখনো কেন আসে নাই ভাই ৩ দিন ধইরা ওয়েট করতাছি
+335,C335,UgwlO5f2v1DZGYTnoVN4AaABAg,ENG+ROM_BAN,True,True,2,False,বাই ইন্ডিয়ান
+336,C336,Ugwv88Vetlq1o6AGthR4AaABAg,BAN+ROM_BAN,True,True,27,False,"ভাই, কেও কি বলতে পারবেন.. সামনে ফোন এর দাম কমার কি সম্ভাবনা আছে? কিছু দিন আগেই যেগুলা ফোন ২৫ হাজার টাকা ছিল, ওগুলাই এখন ৩০k+ হয়ে গেছে।"
+337,C337,UgxjaEXkxAxwDS5IoGx4AaABAg,ENG+ROM_BAN,True,True,3,False,লাভ ইউ ভাইয়া
+338,C338,UgxoR0O9yknj9nweu8F4AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই ফোনের দাম কি কমবে না ভাই প্লিজ রিপ্লাই
+339,C339,Ugz2dGsQeNiwmIp5FmR4AaABAg,ENG+ROM_BAN,True,True,4,False,সাবস্ক্রাইবারস করে দিছি ভাইয়া❤️
+340,C340,Ugx_i_Cgd0KP8_bjxXp4AaABAg,monolingual_ROM_BAN,False,True,1,False,জসসসসসস
+341,C341,UgyUIwxGGhLZM3OaQyp4AaABAg,ENG+ROM_BAN,True,True,11,False,টু ফানি টু ওয়াচ দেম অ্যাপোলো ভাই বি লাইক কই আইলাম
+342,C342,UgzBxf9B9i5kWmcL3JJ4AaABAg,ENG+ROM_BAN,True,True,5,False,আগের ব্যাকগ্রাউন্ড মিউজিক গুলো ❤️🔥
+343,C343,Ugz0eKLgejD5I5w8Ry54AaABAg,ENG+ROM_BAN,True,True,7,False,বদমাইশ পোলাপাইন ফুল সিজন 4 কবে আসবে
+344,C344,UgwLRj1BguXEWsP_Max4AaABAg,monolingual_BAN,False,True,6,False,আমি তো 3 ……. দেখি 🤪😜
+345,C345,UgxpwvEB5dQ1IIqp3GZ4AaABAg,monolingual_ENG,False,True,3,False,লাভ ইউ চান্দু❤❤❤
+346,C346,UgwuJdbBWLSKVg7TIbl4AaABAg,monolingual_ENG,False,True,9,False,অ্যাবসোলিউটলি আই অ্যাম অলওয়েজ রেডি ❤ 😊 মাই ফেভারিট
+347,C347,UgzsO51cn5YANo6H4kR4AaABAg,BAN+ENG,True,True,20,False,রিজভী ভাই একটা নরমাল গেমপ্লে করেন দেখি তো পারেন কিনা এটা চ্যালেঞ্জ দিলাম। আমি আপনার ডিসকর্ড সার্ভার এর আর্মি 😊
+348,C348,UgycS-gOlYLmdD2SalN4AaABAg,monolingual_ENG,False,True,1,False,হাহাহা
+349,C349,UgyhU2DZ6ZKVmjmKACp4AaABAg,BAN+ROM_BAN,True,True,30,False,ভাই আমি আপনার সব ভিডিও দেখি লাইক করি সাবস্ক্রাইব করি একটা চেলেন পারলে রিপলাই ভিডিও দেন ভাই পারলে আমাকে একটা উইকলি মেরে দিন 😢15202886921 ভাই প্লিজ প্লিজ প্লিজ ভাই দেন
+350,C350,Ugx1XFlrqL26vEaK_c54AaABAg,ENG+ROM_BAN,True,True,8,False,ওয়াও বেস্ট বেস্ট 👍 দারুণ ফিল পাইলাম 😍💝
+351,C351,UgykefuejaXt0GJ9mH54AaABAg,ENG+ROM_BAN,True,True,7,False,রাফসান টাকা টা সেন্ড করো ছোট ভাই
+352,C352,Ugxsx8YQK_8MVcpjtuJ4AaABAg,BAN+ENG+ROM_BAN,True,True,13,False,ডে ২🙃 ভাই ভালোবাসা কেনো এতো অসহায় চ্যালেঞ্জ টা করেন প্লিজ প্লিজ প্লিজ🙂
+353,C353,Ugxaht8Z18pAXuzps414AaABAg,ENG+ROM_BAN,True,True,6,False,ব্লেড এক্স কুট্টুস কে নিয়া আসেন
+354,C354,UgwRkhd0juFvtmQgRlN4AaABAg,monolingual_BAN,False,True,5,False,❤❤❤❤❤❤❤❤ ভাই সেরা সেরা ❤❤
+355,C355,Ugxw1HqSaPA4RoVO_6J4AaABAg,monolingual_BAN,False,True,16,False,আসসালামু আলাইকুম ভাই। ভালো আছেন আমি মারুফ দুইটা এমবি ভর্তি স্কিন বার করছি এটা ৯০ ডায়মন্ড
+356,C356,Ugz16tcs-vjkmTP4zoR4AaABAg,ENG+ROM_BAN,True,True,3,False,লাভ ফ্রম ভোলা
+357,C357,UgzITV0LKPnPkdMyzHh4AaABAg,ENG+ROM_BAN,True,True,10,False,মিস্টার ট্রিপল আর ভাই বিগ ফ্যান ভাই প্লিজ রিপ্লাই 😊
+358,C358,UgwwugdGolZ-1rncPjB4AaABAg,BAN+ENG,True,True,17,False,বদমাইশ পোলাপাইন এরপরে ব্যাড বাস পোলাপান ছাত্রাবাস এগুলো 2/1 এপিসোড দেখার দেখিনি আশা করি এটা ভালো হবে😊
+359,C359,UgzXOAfIEE2RNz_7kfZ4AaABAg,monolingual_BAN,False,True,13,False,ভাই চ্যালেঞ্জ দিলাম যে এনিমি টিম আপ করবে ওই এনিমিকে মারতে পারবেন শুধু
+360,C360,UgyAnfHmVndBK5XuMJ14AaABAg,BAN+ENG,True,False,10,False,ওয়াট দ্য ফাক হঠাৎ করে আজাইরা এর নোটিফিকেশন আসলো এত বছর পর🥺
+361,C361,UgyVf2vmVvJizTTIcWh4AaABAg,BAN+ROM_BAN,True,True,8,False,"ফুল বাকি নেওয়া রিলেশন এর জন্নে ভালো না,,🤭😂"
+362,C362,Ugxs6Lz2O3HiEiireIR4AaABAg.AXPE1GyOURJAXWpdXZU5KG,ENG+ROM_BAN,True,True,6,False,রাইট সবার অ্যাক্টিং খুব ভালো হইছে
+363,C363,UgyoqEF4TNZiYUjaUR14AaABAg,ENG+ROM_BAN,True,True,9,False,রাফসান ভাই এর পাঞ্জাবি গুলা সব সময় ভালো লাগে!!
+364,C364,UgwtMPF7_J59wlhNct14AaABAg,BAN+ENG+ROM_BAN,True,True,22,False,ভাই স্যামসাং গ্যালাক্সি এম 47 বাংলাদেশে কবে আসবে মনে হয়। আর স্যামসাং গ্যালাক্সি এফ70 কবে আসতে পারে এ সিরিজের ফোনে দাম বেশি😢
+365,C365,UgyNkp2hVOf7zLa4zWh4AaABAg,BAN+ENG,True,True,8,False,রাগওয়ান জেভার ৮ দাদা ফোনের রিভিউটা দেখতে চাচ্ছি
+366,C366,UgxgV-tWDUrPGqbLnnJ4AaABAg,ENG+ROM_BAN,True,True,7,False,আন্ডার ৫০কে তে ইউজড ফোন ভিডিও দেন
+367,C367,UgzDl9s5MoGLIljnONp4AaABAg,ENG+ROM_BAN,True,True,18,False,ভাইয়া আপনার ভিডিও ডেসক্রিপশন এ ফোন এর স্পেসিফিকেশন এর ডিভাইস এর কারেন্ট প্রাইস সহ লেখা থাকলে ভালো হতো
+368,C368,Ugx7S43YWVK0qv5vYGR4AaABAg,monolingual_BAN,False,True,36,False,ভাই বদমাশ পোলাপান কবে আসবে....? 🥹 ভাই বদমাশ পোলাপান কবে আসবে....? 🥹 ভাই বদমাশ পোলাপান কবে আসবে....? 🥹 ভাই বদমাশ পোলাপান কবে আসবে....? 🥹 ভাই বদমাশ পোলাপান কবে আসবে....? 🥹 ভাই বদমাশ পোলাপান কবে আসবে....? 🥹
+369,C369,UgyXi2JNdFJsGQpoKnt4AaABAg,ENG+ROM_BAN,True,False,9,False,ব্রো। যদি তুমি তোমার বাবাকে ভালোবাসো তাইলে আমারে আইফোন দাও
+370,C370,Ugw1eX5HiftCnFgYQMB4AaABAg,ENG+ROM_BAN,True,True,2,False,হাই চান্দু
+371,C371,UgwNGNFr-OnEBU4aTex4AaABAg,monolingual_ROM_BAN,False,True,3,False,ভী সেরা 🎉
+372,C372,UgwJij9s9AyjSQvr0H94AaABAg,monolingual_ROM_BAN,False,True,9,False,Vai vmax phn গুলা কেমন একটু জানাবেন কি😅 7:11
+373,C373,UgxvJzsMW0Q8c7TkbyN4AaABAg,BAN+ENG+ROM_BAN,True,True,6,False,মনকে দেবো না আর মিথ্যে সান্ত্বনা😊❤️🩹
+374,C374,Ugzayo2ZAuce806m5Lh4AaABAg,ENG+ROM_BAN,True,True,7,False,প্রথম টা রাইট বলছে বাট লেফট দিছে
+375,C375,UgzSyWEpntPzPO5EqEF4AaABAg,monolingual_BAN,False,True,6,False,আপনি কি আমাকে রান্না করে খাওয়াবেন
+376,C376,UgxHU0JiNx7W8-dnExl4AaABAg,monolingual_ROM_BAN,False,True,4,False,"আমি বদমাইশ,😊 আর তুমি😜"
+377,C377,Ugz5KzLsFJTuxB2kP6l4AaABAg.AYSetHQIVg-AYU1LE_ucv3,monolingual_ENG,False,True,6,False,হ্যালোওও ব্রোওওওও।থ্যাঙ্কস ফর স্টেয়িং উইথ আস🫶
+378,C378,Ugy9hL9YCyWFL7buxtV4AaABAg,monolingual_BAN,False,True,3,False,ভাই বিবেজ কই
+379,C379,UgyZzh_HfMamgL2IYQ14AaABAg,ENG+ROM_BAN,True,False,4,False,মিস্টার আরআরআর ভাই বিগ ফ্যান🎉
+380,C380,Ugwvoa6XPW2qfJLztjh4AaABAg,ENG+ROM_BAN,True,True,9,False,নাঈম আলম কে নিয়ে বিআর এ এমপি৪০ দেখতে চাই
+381,C381,Ugw2HFlchS2Nih8xbfd4AaABAg,BAN+ENG,True,True,12,False,DBD তে এড দিসিলাম ভাই কে । একসেপ্ট করে নাই 😒(😢 )
+382,C382,UgzMpX07ea_phXHEVzt4AaABAg,monolingual_BAN,False,True,8,False,খুব সুন্দর লাগছে আমার কাছে অনেক সুন্দর হয়েছে
+383,C383,UgxRi_v4hlckeGrn4F94AaABAg,monolingual_BAN,False,True,7,False,সুইটি মেডামরে দেখতে একেবারে নাইকা পূর্নিমার মতো🥰🥰🥰🥰
+384,C384,Ugx79Sno2-qiBE0M3pB4AaABAg,ENG+ROM_BAN,True,True,3,False,লাভ ইউ ভাই❤❤❤❤
+385,C385,Ugx43N6pqXn7rGWToY14AaABAg,ENG+ROM_BAN,True,True,6,False,এপিসোড টা করা ছিল জাস্ট অসাম..................❤❤❤❤❤
+386,C386,UgwPABxuMLjBcylH8LB4AaABAg,ENG+ROM_BAN,True,False,6,False,লাস্টের কথাগুলো ভালো লাগলো ব্রো❤
+387,C387,UgxZVelRSoWR489wPON4AaABAg,ENG+ROM_BAN,True,True,28,False,triple r vhai ami apnake onek age subscribe korsi apnar vedio dakhar jonno rate bose thaki vhai amar akta wish puron koren plese amake request pathan UID~8857015084 please
+388,C388,Ugxec4adfhcjTfdjX0h4AaABAg,ENG+ROM_BAN,True,True,3,False,লাভ বদমাইশ পোলাপাইন❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️💗💗💗💗💗💗
+389,C389,UgyozE_TdxSUWWKLblV4AaABAg,BAN+ROM_BAN,True,True,4,False,গাউরা মিস ইউ 😢
+390,C390,UgxZKLWD2upCwk2dqiB4AaABAg,monolingual_BAN,False,True,11,False,শট গান হাতে রিপন মিয়ার এন্ট্রি হলে আরো সেই লাগতো 😢
+391,C391,UgyIRnAF49kD8Vnqa3d4AaABAg,BAN+ENG,True,True,23,False,"কমেন্ট হাইড করা কেনো ? প্রসংশা পাওয়ার মতো গান টা, ওপেন করে দেন। ❤ সুন্দর সাবলীল লিরিক , অনেক ভালো হয়েছে । 🎉❤"
+392,C392,UgwcphFFijBoyaMv6Pd4AaABAg,ENG+ROM_BAN,True,True,4,False,আল্লাহ আপনাকে ভালো রাখুক
+393,C393,Ugy0adkn_xM0esYrjRJ4AaABAg,ENG+ROM_BAN,True,True,14,False,সাবস্ক্রাইব তো করে বসে আছি আমি কি আপনার লাভলি সাবস্ক্রাইবার হতে পারবো না 🙏🏻😭
+394,C394,Ugzn23FvTC9AHCvkIUR4AaABAg,BAN+ENG,True,True,20,False,অনলি কাটানা চ্যালেঞ্জ করেন 10 কিল করতে হবে সোলো vs স্কোয়াডে টপ 2 হতে হবে চ্যালেঞ্জ একসেপ্ট করো চান্দু 😊❤
+395,C395,UgzNhxmp-9lXx3xpokx4AaABAg,ENG+ROM_BAN,True,False,52,False,"মজা পাই নাই ২০১৯ ওয়াজ দ্য বেস্ট ওই টাইম এর ভাইব টা এর পরে আর পাইলাম নাহ ওই ভিডিও গুলাই জস এইসব নতুন মানুষ নিয়া মজা নাই আগের সেই পোলাপান আর আগের সেই ডেঞ্জারাস রোজাদার, বরিশাইল্লা মামা, নোয়াখাইল্লা কাকা ওইরকম মজা এখন এর ভিডিও গুলাতে নাই ওইগুলা আলাদা লেভেল এর ই ভিডিও ইমোশনস"
+396,C396,Ugw4LU1y29i-9xmnjTZ4AaABAg,ENG+ROM_BAN,True,True,6,False,ইয়ারবাডস কোনটা ভালো হবে আন্ডার 2k
+397,C397,Ugz2HirUjvS40uAPAv14AaABAg,BAN+ENG+ROM_BAN,True,True,15,False,অবশেষে পিরলে 😅 অনেক মিছ করতাছি তোমাদের টিম কে দ্য আজাইরা লিমিটেড ইজ ব্যাক 😅🥰
+398,C398,UgxXFftnv4OpDDh6i1R4AaABAg.AZnyo_xARgeAZq3r350aTS,ENG+ROM_BAN,True,True,28,False,তুমি ডেইলি এতগুলা ব্লু খাইতে পারলে ফোন ও কিনতে পারবা :৩ বাই দ্য ওয়ে ব্লু তে কি আনাস পীরের পা ধোয়া পানি আছে নাকি?খাইলেই এক্সাম ভালো হচ্ছে কেমনে😝
+399,C399,UgzkQ7rA4GLfVPX9POl4AaABAg,ENG+ROM_BAN,True,True,6,False,অনলি এফজিএল ইউজ করে বুইয়া করেন
+400,C400,Ugyl_U39l5znlBTJL-14AaABAg,ENG+ROM_BAN,True,True,6,False,8:27 লাস্ট জোন কোনটা কীভাবে বুঝবো???
+401,C401,Ugz7W6v_xXRVlNEBO5J4AaABAg,monolingual_BAN,False,True,5,False,এটা সত্যিই দারুণ লাগলো ❤
+402,C402,UgwKSD4TfAGUoIDTabB4AaABAg,ENG+ROM_BAN,True,True,46,False,ভাইয়া রমজান 2026 এ বলছো একটা 16 দিবা এন্ড ম্যাকবুক দিবা জুন 27 লাইভ এ ওয়েট করছিলাম কিন্তু লাইভ করো নাই নাও 17 দিচ্ছেন. ব্রো আমি তোমার ভিডিও সব দেখি লাইক কমেন্টস ও করি বিডি তে ফেভ ইউটিউবার তুমি. হোপ সো 17 টা যেন আমি পাই
+403,C403,UgzP2DYqunQp_-Vr7rV4AaABAg,ENG+ROM_BAN,True,True,21,False,ইউ অনেক দিন পর ফরেন ভ্লগ অ্যান্ড এনজিএল এভরি ভিডিও অফ ইওর আর ডিফারেন্ট অ্যান্ড কোয়াইট ক্রিয়েটিভ😊 হোপিং ইউ উইল রিপ্লাই!
+404,C404,UgwkjYb-G5caSTcbkjN4AaABAg,BAN+ENG,True,True,12,False,১ টা আই ফোন খুব শখ যদি আপনার মাদদোমে পুরোন হতো 🥹
+405,C405,UgyZ7BiarwW-xZd4UDd4AaABAg,monolingual_ROM_BAN,False,True,4,False,আসলেই সেরা নাটক 😊😊
+406,C406,UgzVTIjpFwAjNz-CwEZ4AaABAg,ENG+ROM_BAN,True,True,8,False,ভাই নোয়াখালী থেকে ভিডিও দেখছি কমেন্ট টা পড়েন
+407,C407,UgxhKwC9k0PPxAMqnyV4AaABAg,BAN+ENG+ROM_BAN,True,True,13,False,ডে 3 ভাই ভালোবাসা কেনো এতো অসহায় চ্যালেঞ্জ টা করেন প্লিজ প্লিজ প্লিজ🙂
+408,C408,Ugzh3uRXiAyAlzOX3m14AaABAg,BAN+ENG,True,True,6,False,প্রত্যয় ইজ ইমোশন সিন্স 2016 ❤️❤️
+409,C409,Ugypx8fqFfFYAbsTqk94AaABAg,ENG+ROM_BAN,True,False,27,False,আমার ড্রিম হচ্ছে আইফোন চালানো🥺 ..সাথে আর একটা রিজন আছে আমার ছোট মেহেদি পেজ আছে...🥹❤️ মেহেদির ছবি ভিডিও করতে আমার আইফোন দরকার... বাট কিনতে পারতেছিনা 🙂😞
+410,C410,UgxolFnXGf7xdL3v6sR4AaABAg,ENG+ROM_BAN,True,True,5,False,বড় ভাই লাভ ইউ 😊
+411,C411,UgwdW1Yk5HiPn-y0xYh4AaABAg,ENG+ROM_BAN,True,True,7,False,গাইস সবাই freak22 কে লাইক দিয়ে আসো
+412,C412,Ugxlnr7AAUPHvGIkxT94AaABAg,BAN+ENG,True,True,5,False,এটাই বাস্তব আই লাভ ইউ
+413,C413,UgwfcEcZwJoKgKVXiO14AaABAg,ENG+ROM_BAN,True,True,7,False,ব্রো ভিডিও ডান আইবার কাচ্চি ট্রিট দাও
+414,C414,UgwRwLb-5_AtsYZjiVB4AaABAg,ENG+ROM_BAN,True,True,4,False,নাটক ❌ মুভি ✅
+415,C415,UgxSrB-wx3-In0X6la14AaABAg,ENG+ROM_BAN,True,True,6,False,বেবি দের ওয়েট টিস্যু বক্স কেন?
+416,C416,Ugx3DbeU-XLAV5mAWwF4AaABAg,ENG+ROM_BAN,True,True,10,False,আল্লাহ তোমাকে আরো আগে নিয়ে যাক দোয়া করি আমিন 🤲
+417,C417,UgyOWfbb-upAvzkUs7d4AaABAg,ENG+ROM_BAN,True,True,7,False,ট্রুকলার ভাই বিগ ফ্যান ভাই পারলে 7117717274😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢👏👏👏👏🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏🥺👏👏👏👏👏👏👏🥺👏👏👏👏👏👏👏
+418,C418,UgwQ6e8t2M2DNx2USmR4AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই নতুন কোনো নাটক সিরিজ নিয়ে আসেন প্লিজ ❤
+419,C419,UgyaNJiwI4VPyMEkhjd4AaABAg,BAN+ENG+ROM_BAN,True,True,35,False,মিস্টার ট্রিপল আর আমি আপনার অনেক বড় ফ্যান। ভাই দয়া করে আমার একটা রিকোয়েস্ট পাঠান ভাই। আমি আপনার অনেক বড় ফ্যান ভাই আমারে একটু রিকোয়েস্ট পাঠান। আমি আপনার সব ভিডিও দেখি ভাই। আমার ইউআইডি 11623202461
+420,C420,Ugy_A0oE8licQGJHm0l4AaABAg,ENG+ROM_BAN,True,True,47,False,ভাই প্রত্যয় হিরন অলওয়েজ একটা কামব্যাক এর জন্য ওয়েট করতাম বাট আইটা কি দেখলাম 😢প্রত্যেক টা সিন এ ইমোশন আর লাস্ট এর সিন টা মানতেই পারি নাই চোখ দিয়ে পানি আইসা পড়ছে। বেস্ট ম্যান বেস্ট ❤❤ থ্যাঙ্ক ইউ বেস্ট কিছু দেয়ার জন্য থ্যাঙ্ক ইউ আজাইরা লিমিটেড.... ❤❤❤
+421,C421,UgzZyA5Bylqz0YNavBB4AaABAg,monolingual_BAN,False,True,4,False,পেরাং অন্য রঙের 10:09
+422,C422,UgzPKj2E3Rl3OX9yCQx4AaABAg,ENG+ROM_BAN,True,True,4,False,আমি খুব চাই ব্রাদার
+423,C423,UgzR8WtpIK_4yVKsudd4AaABAg,BAN+ENG,True,True,21,False,ভাই আমি হলে পি৪ পাওয়ার নিতাম তবে হ্যাঁ সামনের মাসে নিবো ইনশাআল্লাহ। ভাই এই ফোন টা কিনলে কি ওরা কুরিয়ারে পাঠাবে।
+424,C424,Ugy-UbL_ARc3AWEfRMh4AaABAg,ENG+ROM_BAN,True,True,8,False,তালহা ভাই ফ্রি ফায়ার গেম ব্যাক করে সে
+425,C425,Ugxv8NWoVbsV-PZKFjl4AaABAg,ENG+ROM_BAN,True,False,10,False,ব্রো গরিবস বলে কি আই ফোন ডিজার্ভ করি না??😢😅
+426,C426,UgwbrBHjqQ5diu-63f94AaABAg,monolingual_BAN,False,True,7,False,"আমরা সব পর্ব একসাথে চাই,কে কে একমত?"
+427,C427,UgxTQNEKOkyHlnHb4DN4AaABAg,ENG+ROM_BAN,True,True,6,False,ভাই আপনার সব ভিডিও দেখি ❤
+428,C428,Ugzv8KRBO95UsW7isJV4AaABAg,BAN+ENG,True,True,9,False,ভাই রেডমি টার্বো 4 কি সাজেস্ট করা যায় না?
+429,C429,UgwCaqiPsmUGyvIukVl4AaABAg,ENG+ROM_BAN,True,True,13,False,অনেক দিন পর দেখা হলো প্রত্যয় হিরনের সাথে বেস্ট অফ লাক 👍 ব্রাদার
+430,C430,Ugw39mcZIqv7fTltTsV4AaABAg,BAN+ROM_BAN,True,True,10,False,ভাই 100 টাকা দিবেন প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ 😢😢
+431,C431,Ugy2kCxYWHnyFgQ9O-Z4AaABAg,ENG+ROM_BAN,True,True,6,False,পিস্তল এ একটা মিস গেছে চান্দু❤
+432,C432,Ugwywp4jt2QyH7zGYip4AaABAg,ENG+ROM_BAN,True,True,14,False,ভাই ৩ ইয়ার্স ধরে ফলো করি কিন্তু একটা উইকলি পেলাম না ইউআইডি : 2436884567
+433,C433,UgyCGE3ujt44nplUEwp4AaABAg,ENG+ROM_BAN,True,True,13,False,আজকে তো ভাই 21 তারিখ 20 জুন কি 2025 এর কথা বলছেন নাকি🙂
+434,C434,UgznMRO-Jb1jVG4n1i54AaABAg,ENG+ROM_BAN,True,True,5,False,"ভালো হয়নাই, ফ্যাশন সেন্স ইয়াক"
+435,C435,Ugz_iT97_MYQH8Rpzj94AaABAg,BAN+ENG,True,True,40,False,ট্রিপল আর ভাইয়ের জন্য একটা চ্যালেঞ্জ এক মেসে ভিতরে যতগুলো গান পারেন ব্যবহার করতে হবে নিয়ম হলো এক গান দুবার ব্যবহার করা যাবে না এক গান দিয়ে দুইটি কিল করা যাবে না দেখতে চাই আপনি কতগুলো গান ব্যবহার করতে পারেন😊😊😊
+436,C436,UgwAzCVsMmZmab2-T1B4AaABAg.9k_nNUINMm19k_yL-WYMat,monolingual_BAN,False,True,5,False,নামাজ কি এশারের টা পড়ছেন?
+437,C437,UgxnGGtjhTCU_Q4Ra6l4AaABAg,ENG+ROM_BAN,True,True,4,False,প্লিজ বদমাইশ পোলাপাইন 😢❤
+438,C438,UgyrvzLjgGqpLX_yDGx4AaABAg,BAN+ENG,True,True,22,False,ভাই আপনি আপনার খুব বড় ফ্রেন্ড আপনার সবগুলো ভিডিও আমি দেখি সাবস্ক্রাইবার আমি কি আপনার কাছ থেকে কোন গিফট আশা করি থ্যাঙ্কস
+439,C439,Ugw7U0GaojHX1Tuq4od4AaABAg,ENG+ROM_BAN,True,False,23,False,ভাই আপনি কি গ্রামের ছেলে মেয়েদেরও ফোন দেন 🙂 নাকি মিথ্যা আশা দেন শুধু 🫠❤️🩹 ভাইয়া আমাকে একটা ফোন দিবেন প্লিজ 🙂
+440,C440,Ugw9DgYiKvYrdSKZKPB4AaABAg,ENG+ROM_BAN,True,True,37,False,আমাকে আইফোন টা দিলে আমি অনেক খুশি হতাম কারণ আমার হাতের ফোন টা অনেক বাগা + নষ্ট 😢😢 প্লিজ রাফসান ভাই ❤ আমাকে দিয়েন আমার অনেক উপকার হবে কারণ আমার কাছে টাকাও নাই যে একটা ফোন কিনবো😭😓😓
+441,C441,UgwAAIkuSNyKOptYmtR4AaABAg,BAN+ENG,True,True,48,False,"ইনস্টাগ্রাম এর কমেন্ট ছাড়া তো ইউটিউব এ কমেন্ট কইরা লাভ নাই আজকে জানলাম ইনস্টাগ্রাম এর কমেন্ট গুলা দেখেন আমি আরো ইউটিউব এ প্রতি ভিডিও তে কমেন্ট করি কিছু পাওয়ার আশায় কিন্তু আমার তো ইনস্টাগ্রাম নাই, তাই কমেন্টও করতে পারলাম না আর আই ফোন এর স্বপ্ন স্বপ্নই রইয়া গেলো🙂💔"
+442,C442,Ugwc8M33ZhS7MbonwMl4AaABAg,ENG+ROM_BAN,True,True,5,False,কেইম ব্যাক ইজ প্রত্যয় হেরন🥰
+443,C443,UgzRTkLiumSwbnc4BnB4AaABAg,monolingual_BAN,False,True,10,False,ভাই ডক্টর বান্ডিল প্যাক দিয়েছি একটা চ্যালেঞ্জ টাইপ ভিডিও বানান
+444,C444,UgyFNoal-vMcGe5Cwi54AaABAg,BAN+ENG,True,True,7,False,ভাই আমাকে গিফট করেন ইউআইডি 10514246509 😭
+445,C445,Ugxq_G3MaAPKjKNCZhN4AaABAg,ENG+ROM_BAN,True,False,9,False,ভাই আপনার বাবাকে ভালোবাসলে আমাকে আই প্যাড দেন❤🎉
+446,C446,UgyTdV0P47VFbtXlkox4AaABAg,ENG+ROM_BAN,True,True,10,False,একটা মামি স্যুট লাগবো 20k ইউসি দেন (ফাও কমেন্ট) 😂
+447,C447,UgzyGA55gWk0ID8LFCB4AaABAg,monolingual_ENG,False,True,10,False,"ব্রাদার, প্লিজ পোস্ট আ গেমিং ভিডিও উইথ ওমর অন ফায়ার।"
+448,C448,Ugzi6Py_3R3wlr0qMmJ4AaABAg,BAN+ENG,True,True,6,False,টপ-5 গ্যাজেটের রিভিউ দিচ্ছেন না কেন
+449,C449,UgyZWxXxGyf3Nlbvjw14AaABAg,ENG+ROM_BAN,True,True,11,False,ডায়াবেটিস হোক বা না হোক আইফোন না দিলে স্টক হবে কনফার্ম😔
+450,C450,Ugz-4NegvfwyHMTAM_V4AaABAg,monolingual_ENG,False,True,2,False,ইউআইডি 9864154134
+451,C451,UgwMZGNvrLqGo4_qUoZ4AaABAg,ENG+ROM_BAN,True,False,9,False,আমিও নারায়ণগঞ্জ থেকে আর কোইনসিডেন্টালি আমিও রাতুল😅😂
+452,C452,Ugw7c5SR1muFLmvJLsx4AaABAg,BAN+ENG,True,True,10,False,ফাইনালি! ❤ এইটারই অপেক্ষায় ছিলাম।😊 লাভ ফ্রম কোচবিহার (ইন্ডিয়া) ❤
+453,C453,Ugz5iFZUIZcL5jElJOF4AaABAg,monolingual_BAN,False,True,20,False,নাটকের মধ্যে এই পর্বে সর্বো শেষে সবচেয়ে সুন্দর তম মুহূর্ত যা খুব ভালো লেগেছে.ধন্যবাদ ভাই।ধন্যবাদ হিরোন ভাই সাথে বন্ধু সবাইদের💞💞💞
+454,C454,Ugw1drNIItp4abbb8ox4AaABAg,ENG+ROM_BAN,True,False,78,False,"আমার আপনাকে দেখার খুব ইচ্ছা জানি না এটা কোনো দিন সম্ভব কিনা 😅💔 ইস মনে হয় যে যদি জীবনের একবার হলে ও আপনার দেখা পেতাম বাট এটা কোনো দিন ই সম্ভব না। 😔 ঠিক এই রকম বহু কমেন্ট করছি রিয়েলি পাই নাই জানি না আদও কোনো দিন পাবো কিনা, কিন্তু আপনারে সামনা সামনি দেখা আমার অনেক ইচ্ছা। সব সময় এগুলা ভাবি এমন কি এসএসএস এক্সাম দিতে গিয়ে হলে ও এই কথা ই ভাবছি 🙂 প্লিজ রিয়েলি মি🥹"
+455,C455,UgxU5n4UN3h99Or3BT94AaABAg,BAN+ENG,True,True,21,False,ভাই আমি আপনার ভিডিও অনেক দেকি কিন্তু আপনি আমার রিকোয়েস্ট দেননা কেন প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ প্লিজ UID 12838783924
+456,C456,Ugw1UPDNjWNZ6fJlBMt4AaABAg,monolingual_BAN,False,True,3,False,ভাই মাইনক্রাফট খেলেন❤❤পিলিজ😊😊😊
+457,C457,UgxhxpP1L63vK5pdXUV4AaABAg,ENG+ROM_BAN,True,True,10,False,13:45 হাহা 🤣🤣🤣 নিজের পায়ে নিজে কুড়াল🤣🤣 মোস্ট ফানি সিন
+458,C458,UgzuG4OOh_JB5OTD0Zh4AaABAg,ENG+ROM_BAN,True,True,4,False,ওয়েটিং ফর রিওয়েক সাকিব
+459,C459,UgzpEn_LVN5nwbETwC14AaABAg,BAN+ENG,True,True,16,False,ভাই আপনাকে হ্যাপি হ্যাপি হ্যাপি হ্যাপি হ্যাপি হ্যাপি বার্থডে ❤️❤️❤️❤️❤️❤️❤️😁 বিটিডব্লিউ ক্যাপশনটা একটু ক্যাজুয়াল ছিল 🤣
+460,C460,Ugw8ZFSKrptMcLIlVwV4AaABAg,BAN+ROM_BAN,True,True,7,False,এই ভিডিওটা আগে দেখেছি ইটস কাব্যের চ্যানেলে❤
+461,C461,Ugw0IkotJXW7an9jCsN4AaABAg,ENG+ROM_BAN,True,True,14,False,ফ্যামিলি কে লাভ করলে আমাকে আই ফোন দেন আর লাভ না করলে দিয়েন না🥰❤️
+462,C462,UgwAf7-E2oczc_-Orjt4AaABAg,BAN+ENG,True,True,10,False,এসএমএস গ্যাজেট এ কী ভাই স্যামসাং গ্যালাক্সি এ৩৫ পাওয়া যায়
+463,C463,UgyO08oc_xdntBeQCRp4AaABAg,ENG+ROM_BAN,True,False,6,False,রাফসান ভাইয়া আই অ্যাম বিগ ফ্যান ❤️
+464,C464,UgzqqlUdE6KAoTWtKs54AaABAg,ENG+ROM_BAN,True,False,14,False,তানভীর নিলয় ভাই এর কাহিনী আমার অনেক ভালো লাগে। তাকি কমি। বকলম নিলয়
+465,C465,UgyBgyCFTZxmlyGeCaV4AaABAg,ENG+ROM_BAN,True,True,14,False,সাবস্ক্রাইব করি আমার ফ্যামিলির আইডি দিয়াও সাবস্ক্রাইব করে দিছি আজ পর্যন্ত কিছুই পাইলাম না🙂
+466,C466,UgwueyL4DuftGJZpv7N4AaABAg,ENG+ROM_BAN,True,True,6,False,ডাকি ভাই ইজ মাই ফেভারিট ইউটিউবার❤
+467,C467,UgyU_u49B0qQwyR0gBx4AaABAg,ENG+ROM_BAN,True,True,6,False,মিস্টার ট্রিপল আর ভাই ১ভিএস১ ইউআইডি:8850361330
+468,C468,UgwYLd4r27X8z_Uw-1F4AaABAg,BAN+ROM_BAN,True,True,23,False,"আল্লাহ মানুষ বুঝে তৌফিক দান করে যেন অসহায় দের পাশে সব সময় থাকতে পারে , মাশাআল্লাহ সে তৌফিক আল্লাহ রাফসান ভাইয়াকে দিয়েছে ❤❤❤😊😊"
+469,C469,UgxDwGgG4wPzHLJqjml4AaABAg,ENG+ROM_BAN,True,True,13,False,সেরা ছিল ভাই তোমার রিঅ্যাকশন টা😂😂 সকাল সকাল এতো সুন্দর মুড টাই শেষ💔
+470,C470,Ugzhjw0JXZwYVjEkv7t4AaABAg,ENG+ROM_BAN,True,True,4,False,পুরাই আগুন ব্রো 🔥
+471,C471,UgxNWoJa4dL02t64xa94AaABAg,BAN+ENG+ROM_BAN,True,False,9,False,অনেক অপেক্ষা করছি ভাইয়া আপনাদের কামব্যাক আর জন্য
+472,C472,UgyCwit6_E-wHa1j2f54AaABAg,ENG+ROM_BAN,True,True,24,False,ভাই নাঈম ভাই কে এমপি৪০ টপ ১ টপ ২ এন্ড টপ ৩ এর সাথে ১ভি১ করান চ্যালেঞ্জ টা জুস হবে ভাই প্লিজ একসেপ্ট করেন
+473,C473,Ugyc5nLu6uhRPNqgNHp4AaABAg,BAN+ROM_BAN,True,True,16,False,আয়ান এর লাইফ পুরাটা আমার জিবনের মতো যে জিনিসটা কে বেশি ভালোবাসি সেই জিনিসটা হারিয়ে ফেলি!😢😢😢😢
+474,C474,Ugxc3_RwnOQg1jaNFz54AaABAg,BAN+ENG,True,True,42,False,"একটা কথা বলবো? 😊 অনেক দিন ধরে একটা আইফোন নেওয়ার ইচ্ছা। যদি আপনার সামর্থ্য থাকে এবং আপনি আমাকে একটা আইফোন উপহার দিতে চান, তাহলে আমি সত্যিই খুব খুশি হবো। না পারলেও কোনো সমস্যা নেই—আপনার প্রতি আমার সম্মান ও ভালোবাসা একই থাকবে। ❤️"
+475,C475,UgxIjOgPGcITLNT_6ld4AaABAg,ENG+ROM_BAN,True,True,7,False,1 vs 1 এমপি৪০ নাঈম আলম 😆
+476,C476,UgzXKnNuyH4XQgFiqf54AaABAg,monolingual_BAN,False,True,4,False,❤❤ মাই ফ্রী ফায়ার
+477,C477,Ugxy5I2zV_sK0erhy_F4AaABAg,ENG+ROM_BAN,True,True,12,False,রাফসান ভাই আই অ্যাম ইউর বিগ ফ্যান সো প্লিজ গিভ মি সালামি
+478,C478,UgyqnKDs_7aLJh7MqS94AaABAg,BAN+ENG,True,True,7,False,আনঅফিশিয়াল মোবাইল গুলোর দামও কি অনেক বেড়েছে
+479,C479,UgyfDIZxaEM_dLtlYMZ4AaABAg,ENG+ROM_BAN,True,True,4,False,মাহতিম*প্রত্যয়* মাহিমা এগেইন ❤
+480,C480,Ugzy-5o5XtbPghm35Zt4AaABAg,ENG+ROM_BAN,True,False,20,False,ভাইয়া আমি তো আপনার সাপোর্ট করি তো আমাকে কি একটা আইফোন দিবেন.. 🤕 বাট আমি তো যশোরে থাকি😔❤️🩹
+481,C481,Ugy-BOMLjvOgtfy5PTZ4AaABAg,ENG+ROM_BAN,True,True,5,False,স্কুল গ্যাং ❤❤❤ আসেন ভাই
+482,C482,UgzOXlsf_FtOPasUS1N4AaABAg,BAN+ENG,True,True,6,False,কেমনে কি চান্দু 31 কিল ওএমজি
+483,C483,UgzS1kEy48-ihzjEXMF4AaABAg,BAN+ENG,True,True,5,False,লাভা প্লে আল্ট্রা রিভিউ দেন
+484,C484,UgxpLpzOU5Aj1b0LPfV4AaABAg,ENG+ROM_BAN,True,False,11,False,ভাই স্যামসাং গ্যালাক্সি এ57 ভালো হয় নাকি আইকিউইউ জেড11 টার্বো প্লিজ জানাবেন❤❤❤❤
+485,C485,Ugz0MnMQnTYV0KPwWat4AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই দোয়া করি আপনার 10 মিলিয়ন কমপ্লিট হয়ে যাক
+486,C486,UgxPSoDWqM-Ebu30EW54AaABAg.A_Jh1R1U-k2A_Jh6lmrDd7,ENG+ROM_BAN,True,True,4,False,হাপিয়ে গেছে এনিমি করেন
+487,C487,UgxN-YLbQBBIDUAoZH94AaABAg,BAN+ENG,True,True,175,False,"ডেস্টিনেশন ওয়েডিং রিসোর্ট এ গিয়ে যখন মিতু কে দেখেছিল ওই সময় যে গানটা বেজেছিল প্লিজ ওই গানটা আপলোড করো। ""রেখো না মনে কোন অভিমান "" গান টা।🥰🥰 প্লিজ ব্রো আপলোড দ্যাট সং লাভ ফ্রম ইন্ডিয়া। ইউ গাইজ আর জাস্ট ইনক্রেডিবল অ্যান্ড অসাম। কিপ গোয়িং গড ব্লেস ইউ অ্যান্ড হোয়াই অফিশিয়ালি ইউ কাম ব্যাক এগেইন আফটার লং টাইম। আল্লাহ প্রটেক্ট ইউ অ্যান্ড ইয়োর হোল টিম। অ্যান্ড ইউ গাইজ আর ট্রুলি অ্যামেজিং গুড জব আর এইরকম ভিডিও আপলোড করতে থাকো। ওয়ান মোর থিং ব্রাদার আমি অফিশিয়ালি কোন অ্যাক্টর না তবে আমার মনে হয়েছে নাটকের তোরে যখন তোমার এক্সিডেন্ট হয় এবং তোমায় যখন অ্যাম্বুলেন্সে করে নিয়ে যাওয়ার সময় মৃত্যু হয় ওই জায়গাতে মিতু বা মাহিমার অ্যাক্টিং ভালো হতে পারে বিকজ সিন অনুযায়ী আরো একটু বুকফাটা কান্না ওখানে দরকার ছিল, ভাই এখানে ভালোবাসার কথা বলল এবং ছেড়ে চলে গেল সেই হিসেবে ওখানে আরেকটু মুখ চাপড়ানো কান্না দরকার ছিল । বাকি সব ঠিক আছে এটা আমার সাজেশন ছিল যেমন চালাচ্ছো চালিয়ে যাও ওয়েটে থাকবো অপেক্ষায় থাকবো আরো ভালো এই রকম সুন্দর কন্টেন্ট পাওয়ার জন্য। লাভ ইউ অল কিপ গ্রোয়িং 🙂🥰"
+488,C488,UgwckwPnWSusPzxAByB4AaABAg,BAN+ENG,True,False,6,False,"ভাই, ৪জি বাটন ফোন এর ভিডিও চাই"
+489,C489,UgymQ4XZRXP8-wlwyg94AaABAg,ENG+ROM_BAN,True,True,3,False,টু কাই স্পটেড😂
+490,C490,UgxkdPiKfebvHZwCvPN4AaABAg,monolingual_BAN,False,True,5,False,"৫০কে, এর মধ্যে ভিডিও দেন"
+491,C491,UgzPOmdS1zGOTlUgutJ4AaABAg,monolingual_ROM_BAN,False,True,3,False,আমার লগে পারবে
+492,C492,UgwsLmlNqW2MOxU9DrJ4AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই রিয়েলমি জিটি ৬টি আর ৬ এর রিভিউ চাই
+493,C493,UgyGPp3Bu7GhMmrsvLh4AaABAg,ENG+ROM_BAN,True,True,6,False,নিউ ইসলামিক সং রিয়ালাইজ হয়ে গেছে
+494,C494,UgwPHEU9hpjmMwGwv0l4AaABAg,ENG+ROM_BAN,True,True,17,False,ভাইয়া দেয়া দানা না ফোন টা 😢 আমার ফোন এমনি খারাপ😢 তার উপরে আমি ব্লাড ক্যান্সার পেশেন্ট😅
+495,C495,UgzRd_kUQS7Eh4riBG54AaABAg,BAN+ROM_BAN,True,True,11,False,ভাই সিজন তাড়াতাড়ি শেষ করবেন না নাইস এপিসোড বদমাশ পোলাপাইন। 🥰🥰😌
+496,C496,UgxSF4DrcyD7a-cbyPt4AaABAg,BAN+ENG,True,True,7,False,ভাই পারলে পিসি তে গেম খেলে দেখাও
+497,C497,Ugx2jke0ZUKs98IiMTV4AaABAg,monolingual_ENG,False,False,3,False,গিভ মি আই প্যাড
+498,C498,UgzBvFumMO5yjcyrylp4AaABAg,monolingual_BAN,False,True,20,False,কখনো বাবাকে বলতে পারি নাই বাবা তোমাকে ভালোবাসি 😭 ইনশাল্লাহ্ একদিন বাবাকে জড়িয়ে ধরে বলবো বাবা তোমাকে অনেক ভালোবাসি 😊💖
+499,C499,UgzYv4yOO8VZbgH-5G14AaABAg,monolingual_ENG,False,True,4,False,নাইস ব্রো নাইস এপিসোড
+500,C500,UgzWbmCfgE2AmVAZh1B4AaABAg,monolingual_BAN,False,True,9,False,মাশাআল্লাহ ছোট ভাই তোমার কাজ গুলো খুবই ভালো ❤❤❤❤
+501,C501,UgyE1wmv6VPUJ2fZna54AaABAg,ENG+ROM_BAN,True,True,4,False,রাফসান ভাই মানেই আগুন
+502,C502,UgzV1_mjFkoFC8OVfx94AaABAg,ENG+ROM_BAN,True,True,13,False,শুয়ে শুয়ে পুরো ম্যাচ খেলে ভুইয়া করেন সবই করতে পারবেন শুধু ওঠা ছাড়া
+503,C503,Ugz0MaU54M52HMVIaPl4AaABAg,ENG+ROM_BAN,True,True,9,False,হোয়াট ইজ দিস এটা আমাকে দাও প্লিজ😊 না দিলে😂😂
+504,C504,Ugw2RXGLpCiLxoS9nHl4AaABAg,monolingual_BAN,False,False,7,False,বদমাইশ পোলাপাইন সিরিজ কে কে চান কমেন্ট করেন
+505,C505,UgwbFPJUBX1XdCRuRmd4AaABAg,ENG+ROM_BAN,True,True,8,False,ক্লিক করলে ভিডিও প্লে হয় কিন্তু সেটা এড😂
+506,C506,UgxHjoWXgfBmoNv3Fax4AaABAg,ENG+ROM_BAN,True,True,6,False,5g ইউজ করছি ভাই নো প্রবলেম
+507,C507,Ugw4RrFrSfktJ8wVvpx4AaABAg,ENG+ROM_BAN,True,True,9,False,কিরে ভাই তোর মিউজিক টেস্ট এতো খারাপ কেমনে ??
+508,C508,UgwxQgnraTINrRkoZ1R4AaABAg,ENG+ROM_BAN,True,True,4,False,ফুড রিভিউয়ার❌ বাবুর্চি হি✅🙄
+509,C509,UgyUEYarGAkRQ0np7iB4AaABAg,ENG+ROM_BAN,True,True,11,False,"5 মিনিট অ্যাড দেখে তার মজা আবার 2 মিনিট কমায় দিছেন,🙃"
+510,C510,Ugyjpiqt2Neis8QXAKB4AaABAg,ENG+ROM_BAN,True,True,10,False,আই ফোন টা দিলেন না ভাই.আপনার ভিডিও এতো দেখি .
+511,C511,UgzKS1AKUwvz1hYhUgR4AaABAg,BAN+ENG,True,True,34,False,"নাথিং ফোন ৩এ ফোন কেউ কিনবেন না। আজকে একজন কাস্টমারের ফোন নিজে হাতিয়ে দেখলাম, এত বাজে এর মাঝে এত সমস্যা যা বলার বাইরে। ফোন টা কিনছে ১৯/৮/২৬ আর আজকেই আমি দেখলাম এই ফোনের অবস্থা।"
+512,C512,UgwY1oJnHEHAWvE9nlN4AaABAg,monolingual_BAN,False,True,80,False,"প্রত্যয় বয়সে আমার ছোট ই হবে তুমি এজন্য ""তুমি"" করেই বলছি। তোমার বানানো প্রথম ভিডিও দেখেই আমার বান্ধবীকে বলেছিলাম এই ছেলের স্টোরি টেলিং ক্ষমতা খুব ভালো। পুরোটা ফিল্মের ভেতর একটু ও একঘেয়েমি বা বিরক্তি লাগেনি। বন্ধুত্ব, হারানোর ভয়, ভালোবাসা এসব খুব সুন্দর করে ফুটিয়ে তুলেছ, অন্যান্য যারা অভিনয় করেছে তারাও নিজেদের বেস্টটুক দিয়েছে। পর্দার এপারের মানুষের চোখে পানি আনা খুব একটা সোজা নয়, তুমি করে দেখিয়েছ🥰💝 তোমার এবং তোমার পুরো টিমের জন্য অনেক অনেক দোয়া রইলো, আরো এগিয়ে যাও ❤️"
+513,C513,UgyzowVmV4HuJtO5tdd4AaABAg,monolingual_ENG,False,True,3,False,এমপি৪০ কিং ☠️
+514,C514,UgxVXAirtvhgNznCys14AaABAg,ENG+ROM_BAN,True,True,10,False,9:21 M1014 এর কি সাউন্ড হইলো আহ আহ আহ 😂😂😂😵👄
+515,C515,UgwVhFUdSosPQRJHbC54AaABAg,monolingual_ROM_BAN,False,True,4,False,ভালো আছেন আরআরআর.... 💖🫠🥹🎀🌷
+516,C516,Ugw7_Guw_VRWitQcUz94AaABAg,monolingual_ENG,False,True,5,False,ইজ শি ইজ ইউর জিএফ
+517,C517,UgwV9nPGaaT-kweMU194AaABAg,ENG+ROM_BAN,True,False,15,False,মাশাআল্লাহ প্রাউড অফ ইউ রাফসান ভাইয়া❤ লটস অফ লাভ ফ্রম মি🎀❣️ গড ব্লেস ইউ❤😊
+518,C518,UgwT_GOnzawjnKpfZPV4AaABAg,BAN+ENG,True,True,18,False,"এত সকাল সকাল ভিডিও দিলেন যে😒 আপনি জানেন আপ্নের ভিডিও না দেখলে ঘুম আসে না তাও, এত লেট😑🙄"
+519,C519,Ugw8Ai_rSAjlnPXuhdN4AaABAg,monolingual_BAN,False,True,10,False,রাফসান ভাইয়া আপনার হাতের রান্না মনে অনেক মজা তাই না😂😂
+520,C520,UgxvZ_mR_rriN_y2Mql4AaABAg,monolingual_BAN,False,True,5,False,বদমাইশ পোলাপাইন নাটক পুরাই বিনোদন
+521,C521,Ugz8ZGN0Vew5OyTlp-B4AaABAg,ENG+ROM_BAN,True,True,7,False,"কমেন্ট ডান, গিভ মি মাই সালামি 😂"
+522,C522,UgyFXO0dTi9cB1iMMdV4AaABAg,ENG+ROM_BAN,True,True,6,False,ভাই ডেজার্ট ঈগল ছিল খেয়াল করেননি
+523,C523,UgwT-sp1RG0xmw9YEyt4AaABAg,ENG+ROM_BAN,True,True,15,False,আফটার আ লং টাইম!!! ভাই এই আবার যাতে আর হারাইয়া যায়েন না ভাই !! 🥹🩶🩶🩶
+524,C524,UgxudX3cbT8RQgxlO354AaABAg,ENG+ROM_BAN,True,True,12,False,ভাই অনলি ল্যান্ড মাইন এর চ্যালেঞ্জ 😅😅😅 পারলে 10 কে সাবস্ক্রাইবারস পাবেন😊😊😊
+525,C525,Ugwpe7LGcMfReSzoZ4h4AaABAg,monolingual_ENG,False,True,4,False,সাউন্ড কোয়ালিটি টু ব্যাড
+526,C526,UgwoSpLtiNE_SPAAAbh4AaABAg,monolingual_BAN,False,True,3,False,মন্টু বিরি ব্রাক🎉🎉
+527,C527,Ugztu0-zoE_kmf1x4jx4AaABAg,monolingual_BAN,False,True,5,False,জনিই পারে একমাত্র আমাকে কাদাতে😥😥
+528,C528,Ugz9Ndmc28j7eoTKk4h4AaABAg,BAN+ENG,True,True,12,False,আমি আমার জন্মদিন কখনো কিছু পাইনি 😭 কখনো বার্থডে সেলিব্রেশন হয়নি 😭
+529,C529,Ugzs6kVcHUfTih4BP4V4AaABAg,BAN+ENG+ROM_BAN,True,True,9,False,জস ভাই অনেক মিস করছি তোমাকে ফাইনালি এতদিন পর🥹🥹
+530,C530,UgyjtAY7xgd8j8dKAml4AaABAg,ENG+ROM_BAN,True,True,5,False,একটা আই ফোন চাই ভাই
+531,C531,UgzkW7Lwr5hUV6gUTSV4AaABAg,ENG+ROM_BAN,True,True,6,False,ভাই পেরাং টা হোয়াইট হয় নাই😂😂
+532,C532,Ugyf9LHbTmjT-oJQa314AaABAg,ENG+ROM_BAN,True,False,7,False,মিস্টার ট্রিপল আর ভাই প্লিজ কমেন্ট রিপ্লাই ❤❤❤❤❤পিন ❤
+533,C533,Ugw1fn2THDRYuc8eNqV4AaABAg,ENG+ROM_BAN,True,True,4,False,বিগ ফ্যান ভাই ❤❤❤🎉🎉🎉
+534,C534,Ugy2TuYJNil847y6fF14AaABAg,ENG+ROM_BAN,True,True,9,False,কে কে বদমাইশ পোলাপাইন সিজন 1 থেকে ডকতেছেন ❤️❤️
+535,C535,UgwGjBnTHpVb0NHnwft4AaABAg,ENG+ROM_BAN,True,True,4,False,হাই ভাই ভালো আছেন😊
+536,C536,UgzyGpqeRujKHXxk4CN4AaABAg,monolingual_ENG,False,True,3,False,ওয়েলকাম টু ব্যাক
+537,C537,UgzFeU4nZJSJHoLUkVx4AaABAg,ENG+ROM_BAN,True,False,5,False,আমিও ট্রাই করতে চাই
+538,C538,UgzSQWHUfZ35rDTbwd94AaABAg,ENG+ROM_BAN,True,True,9,False,ভাই প্লিজ আমি খেলবো একটা ম্যাচ আপনার সাথে। ইউআইডি:2142812684
+539,C539,UgxTYVCkstZbXJsNvwp4AaABAg.A_H-JP7aTZVA_Ha4b0K8Lk,ENG+ROM_BAN,True,True,4,False,ম্যাপ কোড কি ভাই
+540,C540,Ugz8rBqcF6MtGiIDUcB4AaABAg,ENG+ROM_BAN,True,True,21,False,ভাইয়া এখন স্যামসাং এ২৭ ৫জি ভালো হবে নাকি স্যামসাং এ৩৭ ৫জি ভালো হবে কোন টা নিব প্লিজ এসএমএস টা নিবেন❤ ❤️গাইবান্ধা❤️
+541,C541,UgwM-YxWrtX0ZpmDPhZ4AaABAg,monolingual_BAN,False,True,4,False,"মিষ্টির প্যাকেট খালি, 😄😄😄"
+542,C542,UgzByfj1QUE3AaC7hNh4AaABAg,monolingual_ENG,False,True,3,False,নিউ সাবস্ক্রাইবার 😶😶😶
+543,C543,UgxZSyL3zkRpeVhmP4t4AaABAg,ENG+ROM_BAN,True,True,4,False,আমি কি অ্যাড পাবো?
+544,C544,UgwGFC0tI3KMnk1Pvt14AaABAg,BAN+ENG+ROM_BAN,True,False,39,False,সেম ভাই আমি ১ টা ফোন কিনতে চাই আমার বাজেট ২৫ &২৬ এই রকম এরমাঝে রেডমির একটি ফোন কিনতে চাই আমি মোবাইল লিজেন্ডস গেম টা খেলি অনেক মাঝে মাঝে স্ক্রিন রেকর্ডিং করব কোন ফোন টা ভালো হয় বলবেন প্লিজ 😢
+545,C545,Ugyy5aBL-4dJNrQoVUx4AaABAg,monolingual_ENG,False,True,6,False,থ্যাঙ্কস ইন অ্যাডভান্স ফর দি আইপ্যাড
+546,C546,UgyoPestqxfyu2Osc3t4AaABAg,ENG+ROM_BAN,True,True,25,False,"ইউটিউব কমেন্টস কি চেক করো নাহ ইনস্টা নাই বলে কমেন্ট করতে পারিনা , আইফোন 17 টা আমাকে গিভওয়ে করো ব্রাহ , এনিওয়ে লাভ ইউ ব্রাদার!!"
+547,C547,UgwutUGJlOyxn4ddg014AaABAg,BAN+ENG+ROM_BAN,True,True,9,False,ভাইজান স্যামসাং গ্যালাক্সি এ৭৭ নিয়ে ভিডিও দিয়েন ওয়েট করছি
+548,C548,UgwU5aOxiZxjWSgQtA94AaABAg,monolingual_BAN,False,True,3,False,3:09 😢😢😢এড কর
+549,C549,Ugz8JIaTVKZHHwOQS3l4AaABAg,ENG+ROM_BAN,True,True,11,False,ভাই ব্যাকগ্রাউন্ড মিউজিক টা দিয়ে একটা সং মেক করেননা....মিউজিক টা জোস👌👌
+550,C550,Ugyu-_MbjztLaulAz3l4AaABAg,ENG+ROM_BAN,True,True,6,False,আফটার অল প্রত্যয় হিরন ইজ ব্যাক.❤
+551,C551,Ugz9VZTdT-3Cplux7vV4AaABAg,ENG+ROM_BAN,True,True,20,False,ভাই আপনি নরমাল ফোন এর রিভিউ দিতেছেন। প্লিজ 25k এর আসে পাশে শুধু গেমিং এর জন্য কিছু ফোন সাজেস্ট করেন🙂😊
+552,C552,UgxtcRsnIDKPVSTV6854AaABAg,ENG+ROM_BAN,True,True,5,False,সাপোর্ট দিলে সাপোর্ট পাবা ভাইয়া
+553,C553,UgzlGzccX7DXXIj4Zsl4AaABAg,ENG+ROM_BAN,True,True,8,False,স্যাম ভাই শাওমি 15T ফোন টা কেমন.....?জানাবেন প্লিজ
+554,C554,Ugyrtdm9gOH0Z0J9ANB4AaABAg,ENG+ROM_BAN,True,True,6,False,আপনি তো গোরি তেরে খাতি পাড়ে
+555,C555,Ugxfu4X8lcd2rSLEktZ4AaABAg,BAN+ROM_BAN,True,True,16,False,কয়দিন পর পর আপনারা গায়েব হয়ে যান কন্টিনিউ করেন হিরন ভাই আপনাকে আমার অনেক ভালো লাগে❤❤❤
+556,C556,UgxF4mgh1zpjtd-1c3B4AaABAg,ENG+ROM_BAN,True,True,12,False,রেডমি নোট 14 5g টা ও তো ভালো ভাই ওইটা বললেন না
+557,C557,UgxZBGKx9OHzLu4R45l4AaABAg,ENG+ROM_BAN,True,True,5,False,আমাদের টা কই গট মি😂
+558,C558,UgxjQtxLjkeoAUFu3vR4AaABAg,ENG+ROM_BAN,True,True,5,False,ট্রিপলার ভাই প্লিজ রিপ্লাই 😢😢😢
+559,C559,UgxrHr_XopRcwjL66Gp4AaABAg,ENG+ROM_BAN,True,False,16,False,ভাইয়া সব সময় ফুল ভিডিও দেখি বাট সব ভিডিও কমেন্ট করি লাইক করি বাট কেন গিফট পাই না
+560,C560,UgwW7Oo45tCRMeBpWBl4AaABAg,ENG+ROM_BAN,True,True,14,False,ভাই ব্যাচেলর পয়েন্ট এ যেই চমক দেখাইলা 😫 আপনাদের সিন টা জোস ছিল 😫
+561,C561,UgxrzkBy6qEFP7LPuLF4AaABAg,ENG+ROM_BAN,True,True,3,False,সিহান অন ফায়ার
+562,C562,UgwEfhD0wPzqnOXa-nJ4AaABAg,BAN+ENG,True,False,30,False,ভাই আমার অনেক সখ প্যারাডক্স বান্ডিল বার করার কিন্তু ভাই আমার ডায়মন্ড নাই কিন্তু ভাই আমি আপনাকে সাবস্ক্রাইব করেছি আমি আপনার সব ভিডিও দেখি আমার ইউআইডি 11267593319 ভাই প্লিজ দেন প্লিজ
+563,C563,Ugzf_3bdInrR6SFuZz54AaABAg,ENG+ROM_BAN,True,True,8,False,আই কপাল নাই জীবনে আইফোন বা টাকা পাবো
+564,C564,UgwAAIkuSNyKOptYmtR4AaABAg.AZnwDqVl0OWAZpP1c6x8C8,BAN+ENG,True,True,17,False,ইয়েস কারণ ইনস্টাগ্রাম. কন্টাক্ট করা যায় যে জিতে তার সাথে এই জন্য তাই আমি কমেন্ট করি না
+565,C565,Ugw7N4ofc1HhOk0SiNx4AaABAg,monolingual_ENG,False,True,5,False,আই ফলোড হিম এভরিহোয়্যার মেন😢
+566,C566,UgxxniNh3hSrmClVqBp4AaABAg,ENG+ROM_BAN,True,True,4,False,নাঈম ভাই ইজ ব্যাক☠️
+567,C567,Ugy7no8sggorAK4BN0B4AaABAg,ENG+ROM_BAN,True,True,3,False,ভাই আইফোন 🥺🥺
+568,C568,Ugyj_g1q6ZkfrAlS6Yh4AaABAg,BAN+ENG,True,True,11,False,কার্টুন গেম(এফএফ) বাদ দিয়ে নো ফেস চ্যানেল এ রেগুলার ভিডিও দেন
+569,C569,UgxRIPNTE1u4yGGLmE94AaABAg,BAN+ENG+ROM_BAN,True,True,41,False,ভাই আমি আপনার অনেক বর ফেন যদিও ফোন কিনিনা তাও আমি চার বছর ধরে আপনার ভিডিও দেখি ভালো লাগে একটা প্রশ্ন গ্ৰামে কবে নাগাত ৫জি সিম এবং নেটওয়ার্ক এবেইল এবেইল হতে পারে.? আশা করি ওত্তর দিবেন Love from Sylhet shunam gonj❤️❤️❤️🩹
+570,C570,Ugx4uvfJhMVSRn2kl9d4AaABAg,ENG+ROM_BAN,True,True,8,False,ব্রু আমি কি একটা আইফোন পাই নাহ ?
+571,C571,UgwuN9ztpsK29g69xQ54AaABAg,monolingual_ENG,False,True,16,False,গিভ হার সাম ফ্লাওয়ারস অ্যান্ড রাইটিং লেটার ইন ইউর ওন হ্যান্ড দ্যাট মেকস আ গার্ল ব্লাশিং
+572,C572,Ugw46Y289Pzc-QZqelh4AaABAg,ENG+ROM_BAN,True,True,5,False,ভাই আমার ইউআইডি টা নান❤❤❤❤😢
+573,C573,UgxZiAAXS47GyfXFX-B4AaABAg,ENG+ROM_BAN,True,True,2,False,ভাই আইফোন!!
+574,C574,UgxZ_svGgMvCLftl1YV4AaABAg,monolingual_ENG,False,True,3,False,গোট দ্য আন্ডারটেকার👑
+575,C575,Ugxpxgk1iz2FDHfkozJ4AaABAg,BAN+ENG,True,True,5,False,ভাই প্লিজ হ্যাস্যকর মূত্যু 🙏🙏
+576,C576,Ugwv88-Ps83kAZ9BMvp4AaABAg,ENG+ROM_BAN,True,True,5,False,ফোন এর প্রাইস কি কমবে?
+577,C577,Ugw474vSQIdqRnXKfJV4AaABAg,ENG+ROM_BAN,True,True,5,False,ভায়া তোমাদের অনেক মিস করি...😢
+578,C578,Ugxoj9cOwef6NQoiyex4AaABAg,ENG+ROM_BAN,True,True,14,False,রিজভি ভাইয়া আপনি সব সময় ছেলে দের এই গিভওয়ে করেন আমাদের ও কিছু দেন🥹❤
+579,C579,UgyW5Zj_Ns5gzlxv8QF4AaABAg,monolingual_ROM_BAN,False,True,3,False,ভাইয়া আমাদেরও খাওয়াবেন
+580,C580,UgwLr-92Vqc0fPDqi4p4AaABAg,ENG+ROM_BAN,True,True,4,False,হ্যালো এমআর আরআরআর ভাই
+581,C581,UgyWx5-BXQd5cfM76TV4AaABAg,BAN+ENG,True,True,10,False,😮ভাই আপনি একটু নুব আছেন।আপনাকে ইউআইডি দিলাম 8298274464 রিকোয়েস্ট দিয়েন।
+582,C582,UgzWEH3HMHmkWoWxsAl4AaABAg.A_FxFBzXXNKA_G58HLWlJz,ENG+ROM_BAN,True,False,18,False,ওয়ালাইকুম আসসালাম ভাইয়া তোমার ২ টা অ্যাকাউন্ট এই সব ভিডিও দেখছি অ্যান্ড তোমার ভিডিও এর জন্য ওয়েট করি অলওয়েজ
+583,C583,Ugz8w9s-OHEUHMVG7cd4AaABAg,monolingual_BAN,False,True,29,False,রাফসান ভাই এতো সুন্দর করে খাবার বানাইছে কেউ খেয়াল করলো না। আর মেয়েটা একটা হাসি দিছে সবাই তাই খেয়াল করলো। কি বলমু ভাই তোরা কি আর ভালো হইবি না
+584,C584,Ugwhrwg0nLeC9Ha9q-x4AaABAg,BAN+ENG,True,True,14,False,ভাইয়া প্লিজ আমাকে আইফোন টা দিবেন ভাইয়া প্লিজ প্লিজ আপনার অনেক বড়ো ফ্যান আমি
+585,C585,UgwQQ9RkJjYEOi5bb4p4AaABAg,ENG+ROM_BAN,True,True,3,False,ভাই ওপি ❤❤❤
+586,C586,UgxqRUSN9bXmnWWlqLB4AaABAg,ENG+ROM_BAN,True,True,3,False,আই ফোন দাবান
+587,C587,UgyHLEvn1IgQ3he8h8J4AaABAg,monolingual_ENG,False,True,2,False,!নারুতো 1:50:56
+588,C588,UgwG5HolszgUqDsLXT14AaABAg,monolingual_BAN,False,True,8,False,আপনার ভিডিও এর অপেক্ষায় এই ছিলাম চান্দু ❤
+589,C589,UgwRyf01yPvSOIgI-ON4AaABAg,ENG+ROM_BAN,True,True,3,False,সেই ব্যাকগ্রাউন্ড মিউজিক❤
+590,C590,UgxXwWLSh6X1TPANVtl4AaABAg,ENG+ROM_BAN,True,True,17,False,মিস্টার ট্রিপল আর ভাই আপনার জন্য ১ চ্যালেঞ্জ আপনি ল্যান্ড মাইন দিয়ে ১৫ কিল করে দেখান 🎉🎉🎉
+591,C591,Ugxmq9VhILb7RnSYckx4AaABAg,BAN+ENG+ROM_BAN,True,True,25,False,ভাই আপনি আজকে সকালবেলা ফিয়ার রেঙ্কের ম্যাচে পড়েছিলেন আমি আপনার সাথে টিম আপ করেছিলাম লবিতে আপনি আমাকে রোজ ইমোট দিয়েছিলেন আপনি আমার রিকোয়েস্ট ধরেন ইউআইডি11011819503
+592,C592,Ugzmw5ncrn87gE0qUkd4AaABAg,ENG+ROM_BAN,True,True,4,False,বিগ ফ্যান ভাইয়া 😭🤌🏻
+593,C593,Ugwacze8k4kUn_IJ13x4AaABAg,BAN+ENG,True,True,24,False,আমি ও বড় হয়ে নিজের টাকা দিয়ে এইরকম মানুষের পাশে দাঁড়াবো আল্লাহ যেন আমাকে তৌফিক দেন ......আর আমি রাফসান ভাইয়ের অনেক বড় ফ্যান ❤
+594,C594,UgxPkHuA1SEdm1oGlEl4AaABAg,ENG+ROM_BAN,True,True,8,False,"ভাই আমি আপনার প্রত্যেক ভিডিও লাইক, কমেন্ট করেছি"
+595,C595,Ugx4LoDgYkXIejXggWJ4AaABAg,ENG+ROM_BAN,True,False,18,False,উফ রেগুলার এপিসোড দিলে কি হয় ???প্রতি উইক ওয়েট করতে হয় একটা এপিসোড এর জন্য... ভালো লাগে না 😁😊
+596,C596,Ugz7WPiPV1gnq8W_xOB4AaABAg,monolingual_BAN,False,True,6,False,ভাই আপনি শুধু স্যান্ডউইচ বানান 😅🤧☹️😤
+597,C597,UgyQiaCN3S0eui92Hi54AaABAg,ENG+ROM_BAN,True,True,22,False,"ভাই, মনোয়ার প্যালেস, হাউস ৪৪/৫, নর্থ ধানমন্ডি, ধানমন্ডি, ঢাকা এই লোকেশন এ এসে আমাকে একটা আইফোন দিয়ে যান..অনেক দিন থেকে আশায় আছি🐸"
+598,C598,UgxWrUb2aDa8UAD1vBB4AaABAg,BAN+ENG,True,True,9,False,Meizu Lucky 08 দাম তো অনেক বেশি এখন 😢
+599,C599,UgwNF9N0pofbw8-Khgl4AaABAg,ENG+ROM_BAN,True,False,10,False,বিগ ফ্যান ভাই 💚 উইদাউট এনি রিজন ভালো লাগে ভাই আপনাকে....
+600,C600,Ugzw7oRUB90TRmoKbLd4AaABAg,ENG+ROM_BAN,True,False,13,False,ওই ভাইয়া প্লিজ তুমি আমার মায়াবী কণ্ঠটা কেন শুনতে পাচ্ছো না 😢😢😢😢😢😢😢😢😢😢😢😢
