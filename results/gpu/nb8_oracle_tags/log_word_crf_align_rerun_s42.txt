@@ -1,0 +1,16 @@
+[word_crf_align_rerun_s42] chunks train 96736 val 4201 test 12184 | align {'aligned': 9399, 'recovered': 656, 'dropped': 3} (73s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 11249.34it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[word_crf_align_rerun_s42] banglamix: 2082 micro-batches | padded encoder bytes max 2040 mean 496 | padded decoder bytes max 2046 mean 1246
+[word_crf_align_rerun_s42] stage=banglamix epoch=0 train_loss=0.477 train_min=19.175 oom_splits=0 oom_skipped=0 peak_GB=9.326 val_CER=5.307
+[word_crf_align_rerun_s42] stage=banglamix epoch=1 train_loss=0.075 train_min=19.156 oom_splits=0 oom_skipped=0 peak_GB=9.315 val_CER=5.622
+[word_crf_align_rerun_s42] stage=banglamix epoch=2 train_loss=0.058 train_min=19.190 oom_splits=0 oom_skipped=0 peak_GB=9.222 val_CER=5.552
+[word_crf_align_rerun_s42] stage=banglamix epoch=3 train_loss=0.047 train_min=19.201 oom_splits=0 oom_skipped=0 peak_GB=9.282 val_CER=4.236
+[word_crf_align_rerun_s42] stage=banglamix epoch=4 train_loss=0.041 train_min=19.164 oom_splits=0 oom_skipped=0 peak_GB=9.142 val_CER=3.794
+[word_crf_align_rerun_s42] free  CER=4.21 WER=9.35 Exact=59.08 TokAcc=92.80 TokAcc_OOV=77.47 decoded=99.9% words/s=200 end-to-end words/s=149 encoder_bytes=124364
+[word_crf_align_rerun_s42] free+guard  CER=3.85 WER=9.35 Exact=59.08
+[word_crf_align_rerun_s42] lid   CER=5.43 WER=10.68 Exact=53.05 TokAcc=91.36 TokAcc_OOV=72.31 decoded=47.3% words/s=272 end-to-end words/s=186 encoder_bytes=124364
+[word_crf_align_rerun_s42] lid+guard   CER=5.30 WER=10.68 Exact=53.05
+[word_crf_align_rerun_s42] test with gold tags: CER=4.21 guarded CER=3.84
+[word_crf_align_rerun_s42] done

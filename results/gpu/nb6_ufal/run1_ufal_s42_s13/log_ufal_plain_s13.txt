@@ -1,0 +1,14 @@
+[ufal_plain_s13] chunks train 96714 val 3749 test 12463 | align {'aligned': 9406, 'recovered': 645, 'dropped': 4} (66s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 15147.61it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[ufal_plain_s13] banglamix: 2911 micro-batches | padded encoder bytes max 4096 mean 3525 | padded decoder bytes max 2048 mean 1108
+[ufal_plain_s13] stage=banglamix epoch=0 train_loss=0.319 train_min=102.386 oom_splits=0 oom_skipped=0 peak_GB=12.806 val_CER=5.769
+[ufal_plain_s13] stage=banglamix epoch=1 train_loss=0.050 train_min=102.564 oom_splits=0 oom_skipped=0 peak_GB=12.890 val_CER=4.691
+[ufal_plain_s13] stage=banglamix epoch=2 train_loss=0.036 train_min=102.259 oom_splits=0 oom_skipped=0 peak_GB=12.862 val_CER=4.081
+[ufal_plain_s13] stage=banglamix epoch=3 train_loss=0.028 train_min=102.187 oom_splits=0 oom_skipped=0 peak_GB=12.887 val_CER=3.864
+[ufal_plain_s13] stage=banglamix epoch=4 train_loss=0.022 train_min=101.696 oom_splits=0 oom_skipped=0 peak_GB=12.917 val_CER=3.904
+[ufal_plain_s13] free  CER=4.19 WER=9.30 Exact=59.86 TokAcc=92.68 TokAcc_OOV=77.80 decoded=100.0% words/s=124 end-to-end words/s=38 encoder_bytes=1312054
+[ufal_plain_s13] free+guard  CER=4.00 WER=9.30 Exact=59.86
+[ufal_plain_s13] VAL free CER=4.134 free+guard CER=3.917 words changed by guard=3
+[ufal_plain_s13] done

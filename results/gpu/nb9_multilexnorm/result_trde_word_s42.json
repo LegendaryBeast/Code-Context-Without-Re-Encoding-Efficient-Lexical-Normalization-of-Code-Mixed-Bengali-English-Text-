@@ -1,0 +1,194 @@
+{
+ "args": {
+  "variant": "trde_word",
+  "seed": 42,
+  "mode": "word",
+  "model": "google/byt5-small",
+  "tiny": 0,
+  "epochs": 10,
+  "lr": 0.0003,
+  "batch_words": 48,
+  "max_chunks": 8,
+  "accum": 2,
+  "max_enc_tokens": 2048,
+  "max_dec_tokens": 2048,
+  "max_word_bytes": 64,
+  "src_budget": 160,
+  "max_word_tgt": 160,
+  "lam": 0.0,
+  "inject": 0,
+  "ext_lid": "none",
+  "eval_ext_lid": "",
+  "copy_mu": 0.0,
+  "copy_tau": 0.9,
+  "detach_heads": 0,
+  "align": 1,
+  "pretrain_aksharantar": 0,
+  "pretrain_epochs": 1,
+  "val_comments": 400,
+  "gen_bs": 48,
+  "input": "/kaggle/working/mln/trde",
+  "out": "/kaggle/working/ctt",
+  "subsample": 0,
+  "data_csv": "mln.csv",
+  "save_val": 0
+ },
+ "history": [
+  {
+   "stage": "banglamix",
+   "epoch": 0,
+   "train_loss": 2.2461831657723947,
+   "train_min": 1.1907616098721823,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.64827823638916,
+   "val_CER": 4.908495939886074
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 1,
+   "train_loss": 0.2701563465078015,
+   "train_min": 1.1886025031407674,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.798595428466797,
+   "val_CER": 4.108592897830566
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 2,
+   "train_loss": 0.2035320568298209,
+   "train_min": 1.1907495617866517,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.997949123382568,
+   "val_CER": 4.8842564537631805
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 3,
+   "train_loss": 0.16747268163964676,
+   "train_min": 1.1987459381421408,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.798595428466797,
+   "val_CER": 3.8177190643558356
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 4,
+   "train_loss": 0.1429536248560156,
+   "train_min": 1.200587797164917,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.997949123382568,
+   "val_CER": 3.5632044600654464
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 5,
+   "train_loss": 0.12731501750728838,
+   "train_min": 1.2044047315915425,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.997949123382568,
+   "val_CER": 3.260210883529269
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 6,
+   "train_loss": 0.11249790423764262,
+   "train_min": 1.2023149490356446,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.798595428466797,
+   "val_CER": 3.6238031753726823
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 7,
+   "train_loss": 0.10532070677881399,
+   "train_min": 1.2027699112892152,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.997949123382568,
+   "val_CER": 3.3329293418979518
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 8,
+   "train_loss": 0.09482043443876896,
+   "train_min": 1.2033774256706238,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.997949123382568,
+   "val_CER": 3.223851654344928
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 9,
+   "train_loss": 0.09114253339222979,
+   "train_min": 1.205392030874888,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 6.878426551818848,
+   "val_CER": 3.284450369652163
+  }
+ ],
+ "align": {
+  "aligned": 720,
+  "recovered": 0,
+  "dropped": 0
+ },
+ "n_test_comments": 229,
+ "n_test_chunks": 3735,
+ "n_test_words": 3735,
+ "norm": {
+  "free": {
+   "CER": 4.348800717327953,
+   "WER": 18.63127764767109,
+   "Exact": 7.860262008733625,
+   "TokAcc": 84.688995215311,
+   "TokAcc_BAN": NaN,
+   "TokAcc_ENG": NaN,
+   "TokAcc_ROM_BAN": NaN,
+   "TokAcc_OTHER": NaN,
+   "TokAcc_UNK": 84.688995215311,
+   "TokAcc_OOV": 66.10878661087865,
+   "TokAcc_direct": 82.51748251748252,
+   "word_count_match_share": 85.8267716535433
+  },
+  "free+guard": {
+   "CER": 4.348800717327953,
+   "WER": 18.63127764767109,
+   "Exact": 7.860262008733625,
+   "TokAcc": 84.688995215311,
+   "TokAcc_BAN": NaN,
+   "TokAcc_ENG": NaN,
+   "TokAcc_ROM_BAN": NaN,
+   "TokAcc_OTHER": NaN,
+   "TokAcc_UNK": 84.688995215311,
+   "TokAcc_OOV": 66.10878661087865,
+   "TokAcc_direct": 82.51748251748252,
+   "word_count_match_share": 85.8267716535433
+  }
+ },
+ "efficiency": {
+  "free": {
+   "gen_seconds": 6.381890058517456,
+   "decoded_word_share": 100.0,
+   "words_per_sec": 585.2498187453356,
+   "enc_seconds": 3.0392491817474365,
+   "encoder_bytes": 22548,
+   "total_words_per_sec": 396.44886937208497
+  },
+  "free+guard": {
+   "gen_seconds": 6.381890058517456,
+   "decoded_word_share": 100.0,
+   "words_per_sec": 585.2498187453356,
+   "enc_seconds": 3.0392491817474365,
+   "encoder_bytes": 22548,
+   "total_words_per_sec": 396.44886937208497
+  }
+ }
+}

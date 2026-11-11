@@ -1,0 +1,18 @@
+[iden_ctx_s42] chunks train 722 val 240 test 233 | align {'aligned': 495, 'recovered': 0, 'dropped': 0} (0s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 11311.43it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[iden_ctx_s42] banglamix: 421 micro-batches | padded encoder bytes max 366 mean 186 | padded decoder bytes max 1739 mean 540
+[iden_ctx_s42] stage=banglamix epoch=0 train_loss=1.592 train_min=2.016 oom_splits=0 oom_skipped=0 peak_GB=6.258 val_CER=4.552
+[iden_ctx_s42] stage=banglamix epoch=1 train_loss=0.144 train_min=2.127 oom_splits=0 oom_skipped=0 peak_GB=5.929 val_CER=3.328
+[iden_ctx_s42] stage=banglamix epoch=2 train_loss=0.091 train_min=2.154 oom_splits=0 oom_skipped=0 peak_GB=5.907 val_CER=2.151
+[iden_ctx_s42] stage=banglamix epoch=3 train_loss=0.065 train_min=2.143 oom_splits=0 oom_skipped=0 peak_GB=6.208 val_CER=2.136
+[iden_ctx_s42] stage=banglamix epoch=4 train_loss=0.048 train_min=2.147 oom_splits=0 oom_skipped=0 peak_GB=6.187 val_CER=2.239
+[iden_ctx_s42] stage=banglamix epoch=5 train_loss=0.034 train_min=2.154 oom_splits=0 oom_skipped=0 peak_GB=5.844 val_CER=2.199
+[iden_ctx_s42] stage=banglamix epoch=6 train_loss=0.029 train_min=2.149 oom_splits=0 oom_skipped=0 peak_GB=5.927 val_CER=2.100
+[iden_ctx_s42] stage=banglamix epoch=7 train_loss=0.023 train_min=2.142 oom_splits=0 oom_skipped=0 peak_GB=5.914 val_CER=2.100
+[iden_ctx_s42] stage=banglamix epoch=8 train_loss=0.018 train_min=2.154 oom_splits=0 oom_skipped=0 peak_GB=5.965 val_CER=1.905
+[iden_ctx_s42] stage=banglamix epoch=9 train_loss=0.017 train_min=2.149 oom_splits=0 oom_skipped=0 peak_GB=5.879 val_CER=2.067
+[iden_ctx_s42] free  CER=2.12 WER=5.12 Exact=36.97 TokAcc=95.40 TokAcc_OOV=87.04 decoded=100.0% words/s=316 end-to-end words/s=258 encoder_bytes=24048
+[iden_ctx_s42] free+guard  CER=2.12 WER=5.12 Exact=36.97
+[iden_ctx_s42] done

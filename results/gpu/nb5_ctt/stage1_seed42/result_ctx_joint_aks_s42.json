@@ -1,0 +1,179 @@
+{
+ "args": {
+  "variant": "ctx_joint_aks",
+  "seed": 42,
+  "mode": "focus",
+  "model": "google/byt5-small",
+  "tiny": 0,
+  "epochs": 5,
+  "lr": 0.0003,
+  "batch_words": 48,
+  "max_chunks": 8,
+  "accum": 2,
+  "max_enc_tokens": 2048,
+  "max_dec_tokens": 2048,
+  "max_word_bytes": 64,
+  "src_budget": 160,
+  "max_word_tgt": 160,
+  "lam": 0.4,
+  "inject": 1,
+  "ext_lid": "none",
+  "copy_mu": 0.5,
+  "copy_tau": 0.9,
+  "align": 1,
+  "pretrain_aksharantar": 200000,
+  "pretrain_epochs": 1,
+  "val_comments": 400,
+  "gen_bs": 48,
+  "input": "/kaggle/input",
+  "out": "/kaggle/working/ctt",
+  "subsample": 0
+ },
+ "history": [
+  {
+   "stage": "aksharantar",
+   "epoch": 0,
+   "train_loss": 0.2755731317222671,
+   "train_min": 39.894528635342915,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.288790702819824
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 0,
+   "train_loss": 0.40692014333219634,
+   "train_min": 19.689017248153686,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.395061016082764,
+   "val_CER": 5.792096520370694,
+   "val_LID_MacroF1": 80.79108472800675
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 1,
+   "train_loss": 0.16612663801875624,
+   "train_min": 19.691104237238566,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.403681755065918,
+   "val_CER": 5.735268403567058,
+   "val_LID_MacroF1": 87.64334736464889
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 2,
+   "train_loss": 0.13419044387542736,
+   "train_min": 19.733607737223306,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.360418796539307,
+   "val_CER": 4.332051057877251,
+   "val_LID_MacroF1": 88.20982629267154
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 3,
+   "train_loss": 0.1121262207047173,
+   "train_min": 19.669398256142934,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.304076194763184,
+   "val_CER": 4.104738590662703,
+   "val_LID_MacroF1": 88.27000902710601
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 4,
+   "train_loss": 0.09296126243900087,
+   "train_min": 19.77533387343089,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.380523681640625,
+   "val_CER": 4.100367197062424,
+   "val_LID_MacroF1": 88.30470587595902
+  }
+ ],
+ "align": {
+  "aligned": 9399,
+  "recovered": 656,
+  "dropped": 3
+ },
+ "n_test_comments": 1261,
+ "n_test_chunks": 1607,
+ "n_test_words": 12184,
+ "norm": {
+  "free": {
+   "CER": 4.004036686355406,
+   "WER": 9.22875174166052,
+   "Exact": 59.238699444885015,
+   "TokAcc": 92.9348882410107,
+   "TokAcc_BAN": 98.29391236913533,
+   "TokAcc_ENG": 88.70192307692307,
+   "TokAcc_ROM_BAN": 85.35353535353535,
+   "TokAcc_OTHER": 91.83431952662721,
+   "TokAcc_UNK": 80.1762114537445,
+   "TokAcc_OOV": 78.41383422778772,
+   "TokAcc_direct": 92.81363030649152,
+   "word_count_match_share": 98.88888888888889
+  },
+  "copy": {
+   "CER": 3.9862277759639073,
+   "WER": 9.253339890172937,
+   "Exact": 59.47660586835845,
+   "TokAcc": 92.91545189504373,
+   "TokAcc_BAN": 98.35207444746025,
+   "TokAcc_ENG": 88.65384615384615,
+   "TokAcc_ROM_BAN": 85.35353535353535,
+   "TokAcc_OTHER": 91.36094674556213,
+   "TokAcc_UNK": 80.1762114537445,
+   "TokAcc_OOV": 78.89087656529516,
+   "TokAcc_direct": 92.79459356558158,
+   "word_count_match_share": 98.88888888888889
+  },
+  "lid": {
+   "CER": 5.437653972871093,
+   "WER": 10.589295959347595,
+   "Exact": 53.5289452815226,
+   "TokAcc": 91.47572815533981,
+   "TokAcc_BAN": 98.46839860411012,
+   "TokAcc_ENG": 88.4301488238118,
+   "TokAcc_ROM_BAN": 85.3904282115869,
+   "TokAcc_OTHER": 75.65011820330969,
+   "TokAcc_UNK": 72.80701754385966,
+   "TokAcc_OOV": 73.06317044100119,
+   "TokAcc_direct": 91.35731962687987,
+   "word_count_match_share": 98.97435897435898
+  }
+ },
+ "efficiency": {
+  "free": {
+   "gen_seconds": 86.41659045219421,
+   "decoded_word_share": 99.86047275114905,
+   "words_per_sec": 140.9914454648637
+  },
+  "copy": {
+   "gen_seconds": 59.07500171661377,
+   "decoded_word_share": 49.19566644780039,
+   "words_per_sec": 206.246291086835
+  },
+  "lid": {
+   "gen_seconds": 57.317131757736206,
+   "decoded_word_share": 47.43105712409718,
+   "words_per_sec": 212.57169761212802
+  }
+ },
+ "lid": {
+  "F1_BAN": 98.00995024875621,
+  "F1_ENG": 93.40798266209138,
+  "F1_ROM_BAN": 94.39453826805605,
+  "F1_OTHER": 90.52054794520548,
+  "F1_UNK": 62.79863481228669,
+  "MacroF1": 87.82633078727915,
+  "Acc": 94.73079448456993,
+  "Kappa": 0.923819183554469,
+  "OOV_Acc": 83.93756294058409,
+  "IV_Acc": 96.83271229652874
+ }
+}

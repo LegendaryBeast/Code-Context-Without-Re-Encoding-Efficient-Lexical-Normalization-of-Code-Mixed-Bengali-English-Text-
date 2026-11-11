@@ -1,0 +1,237 @@
+{
+ "args": {
+  "variant": "ctx_plain_aks_heads_byt5-base",
+  "seed": 42,
+  "mode": "focus",
+  "model": "google/byt5-base",
+  "tiny": 0,
+  "epochs": 5,
+  "lr": 0.0003,
+  "batch_words": 24,
+  "max_chunks": 4,
+  "accum": 4,
+  "max_enc_tokens": 1024,
+  "max_dec_tokens": 1024,
+  "max_word_bytes": 64,
+  "src_budget": 160,
+  "max_word_tgt": 160,
+  "lam": 0.4,
+  "inject": 0,
+  "ext_lid": "none",
+  "copy_mu": 0.5,
+  "copy_tau": 0.9,
+  "detach_heads": 1,
+  "align": 1,
+  "pretrain_aksharantar": 200000,
+  "pretrain_epochs": 1,
+  "val_comments": 400,
+  "gen_bs": 32,
+  "input": "/kaggle/input",
+  "out": "/kaggle/working/ctt",
+  "subsample": 0
+ },
+ "history": [
+  {
+   "stage": "aksharantar",
+   "epoch": 0,
+   "train_loss": 0.28796867877436644,
+   "train_min": 87.1594607869784,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 10.97623062133789
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 0,
+   "train_loss": 0.7499672027178099,
+   "train_min": 44.2702420592308,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 11.296749591827393,
+   "val_CER": 5.228186745934604,
+   "val_LID_MacroF1": 74.4076428636238
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 1,
+   "train_loss": 0.2786966849543316,
+   "train_min": 44.361591513951616,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 11.283621788024902,
+   "val_CER": 5.136387480328729,
+   "val_LID_MacroF1": 74.784603246863
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 2,
+   "train_loss": 0.22163348913609723,
+   "train_min": 44.40187518199285,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 11.283621788024902,
+   "val_CER": 3.8861689106487147,
+   "val_LID_MacroF1": 74.85615876572844
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 3,
+   "train_loss": 0.19706296690730526,
+   "train_min": 44.37731818755468,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 11.29647445678711,
+   "val_CER": 3.899283091449554,
+   "val_LID_MacroF1": 75.03562277804657
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 4,
+   "train_loss": 0.18171945430174666,
+   "train_min": 44.35227375427882,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 11.283621788024902,
+   "val_CER": 4.673019758699073,
+   "val_LID_MacroF1": 74.83741034261527
+  }
+ ],
+ "align": {
+  "aligned": 9399,
+  "recovered": 656,
+  "dropped": 3
+ },
+ "n_test_comments": 1261,
+ "n_test_chunks": 1607,
+ "n_test_words": 12184,
+ "norm": {
+  "free": {
+   "CER": 4.6614822949749195,
+   "WER": 8.97467420703221,
+   "Exact": 59.08009516256939,
+   "TokAcc": 93.11459353574926,
+   "TokAcc_BAN": 98.37350578091318,
+   "TokAcc_ENG": 89.82064953950557,
+   "TokAcc_ROM_BAN": 86.56565656565657,
+   "TokAcc_OTHER": 88.1578947368421,
+   "TokAcc_UNK": 80.26315789473685,
+   "TokAcc_OOV": 78.90625,
+   "TokAcc_direct": 93.02303445650105,
+   "word_count_match_share": 98.88888888888889
+  },
+  "free+guard": {
+   "CER": 3.952094031046867,
+   "WER": 8.98287025653635,
+   "Exact": 59.08009516256939,
+   "TokAcc": 93.11459353574926,
+   "TokAcc_BAN": 98.37350578091318,
+   "TokAcc_ENG": 89.82064953950557,
+   "TokAcc_ROM_BAN": 86.56565656565657,
+   "TokAcc_OTHER": 88.1578947368421,
+   "TokAcc_UNK": 80.26315789473685,
+   "TokAcc_OOV": 78.90625,
+   "TokAcc_direct": 93.02303445650105,
+   "word_count_match_share": 98.88888888888889
+  },
+  "copy": {
+   "CER": 4.621412246594046,
+   "WER": 8.876321612982542,
+   "Exact": 59.71451229183188,
+   "TokAcc": 93.22233104799217,
+   "TokAcc_BAN": 98.4126984126984,
+   "TokAcc_ENG": 89.82064953950557,
+   "TokAcc_ROM_BAN": 86.56565656565657,
+   "TokAcc_OTHER": 89.11483253588517,
+   "TokAcc_UNK": 80.7017543859649,
+   "TokAcc_OOV": 79.32692307692307,
+   "TokAcc_direct": 93.13725490196079,
+   "word_count_match_share": 98.88888888888889
+  },
+  "copy+guard": {
+   "CER": 3.916476210263869,
+   "WER": 8.884517662486681,
+   "Exact": 59.71451229183188,
+   "TokAcc": 93.22233104799217,
+   "TokAcc_BAN": 98.4126984126984,
+   "TokAcc_ENG": 89.82064953950557,
+   "TokAcc_ROM_BAN": 86.56565656565657,
+   "TokAcc_OTHER": 89.11483253588517,
+   "TokAcc_UNK": 80.7017543859649,
+   "TokAcc_OOV": 79.32692307692307,
+   "TokAcc_direct": 93.13725490196079,
+   "word_count_match_share": 98.88888888888889
+  },
+  "lid": {
+   "CER": 6.034252470986317,
+   "WER": 10.900745840504877,
+   "Exact": 51.30848532910388,
+   "TokAcc": 91.08045083560047,
+   "TokAcc_BAN": 98.45189104448365,
+   "TokAcc_ENG": 89.28399807784719,
+   "TokAcc_ROM_BAN": 85.80550098231828,
+   "TokAcc_OTHER": 72.71648873072361,
+   "TokAcc_UNK": 57.64192139737992,
+   "TokAcc_OOV": 69.83842010771993,
+   "TokAcc_direct": 90.99562154959071,
+   "word_count_match_share": 99.14529914529915
+  },
+  "lid+guard": {
+   "CER": 5.838354456679825,
+   "WER": 10.900745840504877,
+   "Exact": 51.30848532910388,
+   "TokAcc": 91.08045083560047,
+   "TokAcc_BAN": 98.45189104448365,
+   "TokAcc_ENG": 89.28399807784719,
+   "TokAcc_ROM_BAN": 85.80550098231828,
+   "TokAcc_OTHER": 72.71648873072361,
+   "TokAcc_UNK": 57.64192139737992,
+   "TokAcc_OOV": 69.83842010771993,
+   "TokAcc_direct": 90.99562154959071,
+   "word_count_match_share": 99.14529914529915
+  }
+ },
+ "efficiency": {
+  "free": {
+   "gen_seconds": 213.84147834777832,
+   "decoded_word_share": 99.86047275114905,
+   "words_per_sec": 56.97678529973829
+  },
+  "free+guard": {
+   "gen_seconds": 213.84147834777832,
+   "decoded_word_share": 99.86047275114905,
+   "words_per_sec": 56.97678529973829
+  },
+  "copy": {
+   "gen_seconds": 146.2001085281372,
+   "decoded_word_share": 58.035128036769535,
+   "words_per_sec": 83.33783143297124
+  },
+  "copy+guard": {
+   "gen_seconds": 146.2001085281372,
+   "decoded_word_share": 58.035128036769535,
+   "words_per_sec": 83.33783143297124
+  },
+  "lid": {
+   "gen_seconds": 106.94554924964905,
+   "decoded_word_share": 45.633617859487856,
+   "words_per_sec": 113.92713474740495
+  },
+  "lid+guard": {
+   "gen_seconds": 106.94554924964905,
+   "decoded_word_share": 45.633617859487856,
+   "words_per_sec": 113.92713474740495
+  }
+ },
+ "lid": {
+  "F1_BAN": 97.32980953248884,
+  "F1_ENG": 90.2795311091073,
+  "F1_ROM_BAN": 91.98791970154558,
+  "F1_OTHER": 86.3801139306059,
+  "F1_UNK": 0.0,
+  "MacroF1": 73.19547485474953,
+  "Acc": 92.46552856204859,
+  "Kappa": 0.8901591583240083,
+  "OOV_Acc": 76.8882175226586,
+  "IV_Acc": 95.49911747401451
+ }
+}

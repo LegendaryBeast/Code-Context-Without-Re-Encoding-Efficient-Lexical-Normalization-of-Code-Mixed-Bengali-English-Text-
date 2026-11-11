@@ -1,0 +1,13 @@
+# CPU experiments and analyses (versions used locally where known)
+numpy==2.3.5
+pandas==2.3.2
+scikit-learn==1.7.2
+scipy==1.16.3
+rapidfuzz==3.14.5
+matplotlib==3.10.6
+sklearn-crfsuite            # CRF baseline (experiments/02_lid_baselines.py); version not recorded
+
+# GPU notebooks run in Kaggle's Python GPU image, which provides torch, transformers, and huggingface_hub.
+# The notebooks install their few extras themselves:
+#   nb1: seqeval==1.2.2 and the csebuetnlp normalizer (git+https://github.com/csebuetnlp/normalizer)
+#   nb3: bitsandbytes, accelerate

@@ -1,0 +1,18 @@
+[trde_word_s2026] chunks train 11490 val 1283 test 3735 | align {'aligned': 720, 'recovered': 0, 'dropped': 0} (0s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 15349.04it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[trde_word_s2026] banglamix: 242 micro-batches | padded encoder bytes max 1056 mean 330 | padded decoder bytes max 1152 mean 484
+[trde_word_s2026] stage=banglamix epoch=0 train_loss=2.611 train_min=1.154 oom_splits=0 oom_skipped=0 peak_GB=6.998 val_CER=7.648
+[trde_word_s2026] stage=banglamix epoch=1 train_loss=0.274 train_min=1.169 oom_splits=0 oom_skipped=0 peak_GB=7.055 val_CER=4.896
+[trde_word_s2026] stage=banglamix epoch=2 train_loss=0.205 train_min=1.184 oom_splits=0 oom_skipped=0 peak_GB=7.055 val_CER=5.527
+[trde_word_s2026] stage=banglamix epoch=3 train_loss=0.173 train_min=1.196 oom_splits=0 oom_skipped=0 peak_GB=6.998 val_CER=5.151
+[trde_word_s2026] stage=banglamix epoch=4 train_loss=0.144 train_min=1.201 oom_splits=0 oom_skipped=0 peak_GB=6.648 val_CER=4.593
+[trde_word_s2026] stage=banglamix epoch=5 train_loss=0.126 train_min=1.202 oom_splits=0 oom_skipped=0 peak_GB=6.998 val_CER=4.424
+[trde_word_s2026] stage=banglamix epoch=6 train_loss=0.112 train_min=1.204 oom_splits=0 oom_skipped=0 peak_GB=6.521 val_CER=4.315
+[trde_word_s2026] stage=banglamix epoch=7 train_loss=0.102 train_min=1.202 oom_splits=0 oom_skipped=0 peak_GB=6.648 val_CER=4.315
+[trde_word_s2026] stage=banglamix epoch=8 train_loss=0.096 train_min=1.201 oom_splits=0 oom_skipped=0 peak_GB=6.878 val_CER=4.351
+[trde_word_s2026] stage=banglamix epoch=9 train_loss=0.088 train_min=1.198 oom_splits=0 oom_skipped=0 peak_GB=6.998 val_CER=4.412
+[trde_word_s2026] free  CER=4.54 WER=19.52 Exact=8.30 TokAcc=84.17 TokAcc_OOV=64.89 decoded=100.0% words/s=620 end-to-end words/s=412 encoder_bytes=22548
+[trde_word_s2026] free+guard  CER=4.54 WER=19.52 Exact=8.30
+[trde_word_s2026] done

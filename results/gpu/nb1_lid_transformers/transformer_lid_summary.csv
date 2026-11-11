@@ -1,0 +1,8 @@
+,,Acc,Acc,MacroF1,MacroF1,Kappa,Kappa,F1_BAN,F1_BAN,F1_ENG,F1_ENG,F1_ROM_BAN,F1_ROM_BAN,F1_OTHER,F1_OTHER,F1_UNK,F1_UNK
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+model,loss,,,,,,,,,,,,,,,,
+bert-base-multilingual-cased,ce,93.22,0.85,80.01,1.11,0.9,0.01,97.77,0.31,93.82,1.15,93.22,0.98,81.14,2.01,34.07,1.9
+csebuetnlp/banglabert,ce,94.32,0.55,84.74,1.1,0.92,0.01,98.31,0.28,93.91,1.4,93.68,0.46,86.73,1.17,51.07,3.65
+csebuetnlp/banglishbert,ce,94.18,0.53,84.0,0.75,0.92,0.01,98.25,0.3,93.95,1.11,93.69,0.84,86.06,0.6,48.04,2.13
+google/muril-base-cased,ce,93.89,0.62,74.59,1.05,0.91,0.01,98.41,0.34,94.2,1.31,94.0,0.74,82.4,0.9,3.92,6.79
+xlm-roberta-base,ce,95.04,0.43,88.09,0.46,0.93,0.01,98.44,0.36,94.54,0.93,94.21,0.84,90.07,0.85,63.21,2.56

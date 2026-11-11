@@ -1,0 +1,7 @@
+# third-party data (obtain from the original sources; see README)
+data/BanglaMix.csv
+results/gpu/nb9_multilexnorm/mln_iden.csv
+results/gpu/nb9_multilexnorm/mln_trde.csv
+kaggle/kaggle_dataset.zip
+__pycache__/
+.DS_Store

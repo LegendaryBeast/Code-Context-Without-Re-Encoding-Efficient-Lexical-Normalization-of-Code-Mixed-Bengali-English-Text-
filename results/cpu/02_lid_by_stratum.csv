@@ -1,0 +1,6 @@
+model,BAN+ENG,BAN+ENG+ROM_BAN,BAN+ROM_BAN,ENG+ROM_BAN,monolingual_BAN,monolingual_ENG,monolingual_ROM_BAN,undetermined
+Script rule,93.97,83.74,83.32,38.37,96.65,95.69,7.49,10.74
+Train lexicon + rule,94.02,89.5,85.78,83.32,97.11,94.29,71.86,14.61
+Char n-gram LR (token),94.01,92.15,87.04,91.87,97.63,94.7,88.67,55.49
+Char n-gram LR + context(±2),94.32,91.58,87.34,91.97,97.44,95.2,90.26,57.07
+CRF (char n-gram + context),94.62,91.73,87.58,91.62,97.63,96.27,90.98,62.46

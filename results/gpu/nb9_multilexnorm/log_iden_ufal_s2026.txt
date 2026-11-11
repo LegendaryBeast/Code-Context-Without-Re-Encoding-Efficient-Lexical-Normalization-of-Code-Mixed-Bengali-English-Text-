@@ -1,0 +1,18 @@
+[iden_ufal_s2026] chunks train 13949 val 4809 test 4366 | align {'aligned': 495, 'recovered': 0, 'dropped': 0} (1s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 8621.39it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[iden_ufal_s2026] banglamix: 477 micro-batches | padded encoder bytes max 4096 mean 3933 | padded decoder bytes max 1645 mean 466
+[iden_ufal_s2026] stage=banglamix epoch=0 train_loss=1.457 train_min=15.393 oom_splits=0 oom_skipped=0 peak_GB=12.612 val_CER=4.295
+[iden_ufal_s2026] stage=banglamix epoch=1 train_loss=0.130 train_min=15.679 oom_splits=0 oom_skipped=0 peak_GB=12.256 val_CER=2.475
+[iden_ufal_s2026] stage=banglamix epoch=2 train_loss=0.075 train_min=15.656 oom_splits=0 oom_skipped=0 peak_GB=12.523 val_CER=2.397
+[iden_ufal_s2026] stage=banglamix epoch=3 train_loss=0.058 train_min=15.533 oom_splits=0 oom_skipped=0 peak_GB=12.590 val_CER=1.975
+[iden_ufal_s2026] stage=banglamix epoch=4 train_loss=0.044 train_min=15.698 oom_splits=0 oom_skipped=0 peak_GB=12.256 val_CER=2.170
+[iden_ufal_s2026] stage=banglamix epoch=5 train_loss=0.031 train_min=15.664 oom_splits=0 oom_skipped=0 peak_GB=12.612 val_CER=1.897
+[iden_ufal_s2026] stage=banglamix epoch=6 train_loss=0.025 train_min=15.509 oom_splits=0 oom_skipped=0 peak_GB=12.612 val_CER=2.122
+[iden_ufal_s2026] stage=banglamix epoch=7 train_loss=0.020 train_min=15.683 oom_splits=0 oom_skipped=0 peak_GB=12.271 val_CER=2.258
+[iden_ufal_s2026] stage=banglamix epoch=8 train_loss=0.017 train_min=15.665 oom_splits=0 oom_skipped=0 peak_GB=12.513 val_CER=1.908
+[iden_ufal_s2026] stage=banglamix epoch=9 train_loss=0.014 train_min=15.530 oom_splits=0 oom_skipped=0 peak_GB=12.187 val_CER=1.890
+[iden_ufal_s2026] free  CER=2.20 WER=5.01 Exact=38.18 TokAcc=95.84 TokAcc_OOV=88.79 decoded=100.0% words/s=258 end-to-end words/s=41 encoder_bytes=564132
+[iden_ufal_s2026] free+guard  CER=2.20 WER=5.01 Exact=38.18
+[iden_ufal_s2026] done

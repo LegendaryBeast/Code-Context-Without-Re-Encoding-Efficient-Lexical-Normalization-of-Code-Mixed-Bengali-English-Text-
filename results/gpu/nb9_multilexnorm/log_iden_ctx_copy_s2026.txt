@@ -1,0 +1,20 @@
+[iden_ctx_copy_s2026] chunks train 722 val 240 test 233 | align {'aligned': 495, 'recovered': 0, 'dropped': 0} (0s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 6673.08it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[iden_ctx_copy_s2026] banglamix: 421 micro-batches | padded encoder bytes max 366 mean 186 | padded decoder bytes max 1739 mean 540
+[iden_ctx_copy_s2026] stage=banglamix epoch=0 train_loss=1.976 train_min=2.011 oom_splits=0 oom_skipped=0 peak_GB=6.270 val_CER=6.075
+[iden_ctx_copy_s2026] stage=banglamix epoch=1 train_loss=0.359 train_min=2.132 oom_splits=0 oom_skipped=0 peak_GB=6.239 val_CER=3.096
+[iden_ctx_copy_s2026] stage=banglamix epoch=2 train_loss=0.258 train_min=2.145 oom_splits=0 oom_skipped=0 peak_GB=6.259 val_CER=2.357
+[iden_ctx_copy_s2026] stage=banglamix epoch=3 train_loss=0.206 train_min=2.151 oom_splits=0 oom_skipped=0 peak_GB=5.993 val_CER=2.545
+[iden_ctx_copy_s2026] stage=banglamix epoch=4 train_loss=0.175 train_min=2.145 oom_splits=0 oom_skipped=0 peak_GB=6.270 val_CER=2.158
+[iden_ctx_copy_s2026] stage=banglamix epoch=5 train_loss=0.156 train_min=2.140 oom_splits=0 oom_skipped=0 peak_GB=6.258 val_CER=2.162
+[iden_ctx_copy_s2026] stage=banglamix epoch=6 train_loss=0.138 train_min=2.141 oom_splits=0 oom_skipped=0 peak_GB=6.258 val_CER=2.015
+[iden_ctx_copy_s2026] stage=banglamix epoch=7 train_loss=0.126 train_min=2.142 oom_splits=0 oom_skipped=0 peak_GB=5.900 val_CER=1.960
+[iden_ctx_copy_s2026] stage=banglamix epoch=8 train_loss=0.121 train_min=2.141 oom_splits=0 oom_skipped=0 peak_GB=6.233 val_CER=1.997
+[iden_ctx_copy_s2026] stage=banglamix epoch=9 train_loss=0.116 train_min=2.145 oom_splits=0 oom_skipped=0 peak_GB=6.185 val_CER=1.945
+[iden_ctx_copy_s2026] free  CER=1.99 WER=4.89 Exact=40.00 TokAcc=95.92 TokAcc_OOV=88.81 decoded=100.0% words/s=309 end-to-end words/s=254 encoder_bytes=24048
+[iden_ctx_copy_s2026] free+guard  CER=1.99 WER=4.89 Exact=40.00
+[iden_ctx_copy_s2026] copy  CER=1.96 WER=4.85 Exact=40.00 TokAcc=96.00 TokAcc_OOV=88.89 decoded=32.5% words/s=819 end-to-end words/s=524 encoder_bytes=24048
+[iden_ctx_copy_s2026] copy+guard  CER=1.96 WER=4.85 Exact=40.00
+[iden_ctx_copy_s2026] done

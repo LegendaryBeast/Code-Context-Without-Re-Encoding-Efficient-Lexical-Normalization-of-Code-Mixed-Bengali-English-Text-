@@ -1,0 +1,21 @@
+[ctt_ts1_s42] chunks train 12761 val 537 test 1607 | align {'aligned': 9399, 'recovered': 656, 'dropped': 3} (72s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 11642.95it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[ctt_ts1_s42] aksharantar: 1231428 pairs available, using 200000
+[ctt_ts1_s42] aksharantar: 4420 micro-batches | padded encoder bytes max 850 mean 477 | padded decoder bytes max 2048 mean 1762
+[ctt_ts1_s42] stage=aksharantar epoch=0 train_loss=0.299 train_min=43.401 oom_splits=0 oom_skipped=0 peak_GB=7.279
+[ctt_ts1_s42] banglamix: 2571 micro-batches | padded encoder bytes max 795 mean 381 | padded decoder bytes max 2048 mean 1277
+[ctt_ts1_s42] stage=banglamix epoch=0 train_loss=0.757 train_min=21.213 oom_splits=0 oom_skipped=0 peak_GB=7.212 val_CER=6.002 val_LID_MacroF1=74.107
+[ctt_ts1_s42] stage=banglamix epoch=1 train_loss=0.284 train_min=21.185 oom_splits=0 oom_skipped=0 peak_GB=7.251 val_CER=4.883 val_LID_MacroF1=74.602
+[ctt_ts1_s42] stage=banglamix epoch=2 train_loss=0.227 train_min=21.211 oom_splits=0 oom_skipped=0 peak_GB=7.230 val_CER=5.106 val_LID_MacroF1=75.010
+[ctt_ts1_s42] stage=banglamix epoch=3 train_loss=0.205 train_min=21.184 oom_splits=0 oom_skipped=0 peak_GB=7.250 val_CER=4.100 val_LID_MacroF1=74.541
+[ctt_ts1_s42] stage=banglamix epoch=4 train_loss=0.192 train_min=21.222 oom_splits=0 oom_skipped=0 peak_GB=7.225 val_CER=4.039 val_LID_MacroF1=77.844
+[ctt_ts1_s42] free  CER=4.05 WER=8.51 Exact=61.93 TokAcc=93.62 TokAcc_OOV=80.16 decoded=99.9% words/s=140 end-to-end words/s=117 encoder_bytes=124364
+[ctt_ts1_s42] free+guard  CER=3.81 WER=8.51 Exact=61.93
+[ctt_ts1_s42] LID F1_BAN=97.37 F1_ENG=90.50 F1_ROM_BAN=91.89 F1_OTHER=85.29 F1_UNK=13.41 MacroF1=75.69 Acc=92.46 Kappa=0.89 OOV_Acc=76.94 IV_Acc=95.48
+[ctt_ts1_s42] copy  CER=4.07 WER=8.53 Exact=62.09 TokAcc=93.58 TokAcc_OOV=79.86 decoded=51.6% words/s=192 end-to-end words/s=151 encoder_bytes=124364
+[ctt_ts1_s42] copy+guard  CER=3.82 WER=8.53 Exact=62.09
+[ctt_ts1_s42] lid   CER=6.17 WER=10.84 Exact=51.78 TokAcc=91.10 TokAcc_OOV=69.85 decoded=45.5% words/s=233 end-to-end words/s=176 encoder_bytes=124364
+[ctt_ts1_s42] lid+guard   CER=6.00 WER=10.84 Exact=51.78
+[ctt_ts1_s42] done

@@ -1,0 +1,6 @@
+,CER,CER,WER,WER,Exact,Exact,TokAcc,TokAcc,TokAcc_BAN,TokAcc_BAN,TokAcc_ENG,TokAcc_ENG,TokAcc_ROM_BAN,TokAcc_ROM_BAN,TokAcc_OTHER,TokAcc_OTHER,TokAcc_UNK,TokAcc_UNK
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+system,,,,,,,,,,,,,,,,,,
+ByT5-sentence (plain),7.41,,10.41,,55.67,,92.46,,98.35,,86.5,,85.75,,90.97,,77.73,
+ByT5-sentence + inline pred LID,8.18,,10.7,,56.54,,92.36,,98.18,,87.22,,85.82,,90.96,,80.0,
+ByT5-sentence + inline gold LID,8.37,,10.75,,56.46,,92.46,,98.2,,87.31,,86.05,,91.2,,79.31,

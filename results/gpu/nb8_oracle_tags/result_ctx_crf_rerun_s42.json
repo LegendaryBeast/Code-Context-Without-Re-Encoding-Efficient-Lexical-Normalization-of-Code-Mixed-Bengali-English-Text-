@@ -1,0 +1,219 @@
+{
+ "args": {
+  "variant": "ctx_crf_rerun",
+  "seed": 42,
+  "mode": "focus",
+  "model": "google/byt5-small",
+  "tiny": 0,
+  "epochs": 5,
+  "lr": 0.0003,
+  "batch_words": 48,
+  "max_chunks": 8,
+  "accum": 2,
+  "max_enc_tokens": 2048,
+  "max_dec_tokens": 2048,
+  "max_word_bytes": 64,
+  "src_budget": 160,
+  "max_word_tgt": 160,
+  "lam": 0.0,
+  "inject": 0,
+  "ext_lid": "crf",
+  "eval_ext_lid": "gold",
+  "copy_mu": 0.0,
+  "copy_tau": 0.9,
+  "detach_heads": 0,
+  "align": 1,
+  "pretrain_aksharantar": 0,
+  "pretrain_epochs": 1,
+  "val_comments": 400,
+  "gen_bs": 48,
+  "input": "/kaggle/input",
+  "out": "/kaggle/working/ctt",
+  "subsample": 0,
+  "save_val": 0
+ },
+ "history": [
+  {
+   "stage": "banglamix",
+   "epoch": 0,
+   "train_loss": 0.3928723898673305,
+   "train_min": 22.720967177549998,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.307765483856201,
+   "val_CER": 6.8062598356356006
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 1,
+   "train_loss": 0.06544430958813616,
+   "train_min": 22.795356619358063,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.315857887268066,
+   "val_CER": 5.0533310019234134
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 2,
+   "train_loss": 0.047467847014909026,
+   "train_min": 22.818667829036713,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.303431510925293,
+   "val_CER": 5.612869382759223
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 3,
+   "train_loss": 0.03667177505159556,
+   "train_min": 22.803305296103158,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.224032402038574,
+   "val_CER": 3.8162266130442384
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 4,
+   "train_loss": 0.030232810975411823,
+   "train_min": 22.81202793518702,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.324819087982178,
+   "val_CER": 3.6850848050358453
+  }
+ ],
+ "align": {
+  "aligned": 9399,
+  "recovered": 656,
+  "dropped": 3
+ },
+ "n_test_comments": 1261,
+ "n_test_chunks": 1607,
+ "n_test_words": 12184,
+ "norm": {
+  "free": {
+   "CER": 4.559081060223798,
+   "WER": 8.786165068437013,
+   "Exact": 60.26962727993656,
+   "TokAcc": 93.25997248968363,
+   "TokAcc_BAN": 98.31471683323535,
+   "TokAcc_ENG": 89.53261927945472,
+   "TokAcc_ROM_BAN": 85.98369011213049,
+   "TokAcc_OTHER": 91.81708784596871,
+   "TokAcc_UNK": 81.57894736842105,
+   "TokAcc_OOV": 78.44202898550725,
+   "TokAcc_direct": 93.08014467923091,
+   "word_count_match_share": 98.63247863247864
+  },
+  "free+guard": {
+   "CER": 3.845240568697872,
+   "WER": 8.786165068437013,
+   "Exact": 60.26962727993656,
+   "TokAcc": 93.25997248968363,
+   "TokAcc_BAN": 98.31471683323535,
+   "TokAcc_ENG": 89.53261927945472,
+   "TokAcc_ROM_BAN": 85.98369011213049,
+   "TokAcc_OTHER": 91.81708784596871,
+   "TokAcc_UNK": 81.57894736842105,
+   "TokAcc_OOV": 78.44202898550725,
+   "TokAcc_direct": 93.08014467923091,
+   "word_count_match_share": 98.63247863247864
+  },
+  "lid": {
+   "CER": 5.591997862930753,
+   "WER": 10.113925088107532,
+   "Exact": 54.480570975416335,
+   "TokAcc": 91.73634065720397,
+   "TokAcc_BAN": 98.45189104448365,
+   "TokAcc_ENG": 89.40047961630695,
+   "TokAcc_ROM_BAN": 86.159169550173,
+   "TokAcc_OTHER": 74.55621301775149,
+   "TokAcc_UNK": 76.08695652173914,
+   "TokAcc_OOV": 72.67825044937088,
+   "TokAcc_direct": 91.64287074052922,
+   "word_count_match_share": 99.05982905982906
+  },
+  "lid+guard": {
+   "CER": 5.310023448398682,
+   "WER": 10.113925088107532,
+   "Exact": 54.480570975416335,
+   "TokAcc": 91.73634065720397,
+   "TokAcc_BAN": 98.45189104448365,
+   "TokAcc_ENG": 89.40047961630695,
+   "TokAcc_ROM_BAN": 86.159169550173,
+   "TokAcc_OTHER": 74.55621301775149,
+   "TokAcc_UNK": 76.08695652173914,
+   "TokAcc_OOV": 72.67825044937088,
+   "TokAcc_direct": 91.64287074052922,
+   "word_count_match_share": 99.05982905982906
+  }
+ },
+ "efficiency": {
+  "free": {
+   "gen_seconds": 90.06597542762756,
+   "decoded_word_share": 99.86047275114905,
+   "words_per_sec": 135.27861039811248,
+   "enc_seconds": 18.419267892837524,
+   "encoder_bytes": 124364,
+   "total_words_per_sec": 112.31020576695856
+  },
+  "free+guard": {
+   "gen_seconds": 90.06597542762756,
+   "decoded_word_share": 99.86047275114905,
+   "words_per_sec": 135.27861039811248,
+   "enc_seconds": 18.419267892837524,
+   "encoder_bytes": 124364,
+   "total_words_per_sec": 112.31020576695856
+  },
+  "lid": {
+   "gen_seconds": 56.108420610427856,
+   "decoded_word_share": 47.34898227183191,
+   "words_per_sec": 217.1510063453039,
+   "enc_seconds": 18.330977201461792,
+   "encoder_bytes": 124364,
+   "total_words_per_sec": 163.6767673858579
+  },
+  "lid+guard": {
+   "gen_seconds": 56.108420610427856,
+   "decoded_word_share": 47.34898227183191,
+   "words_per_sec": 217.1510063453039,
+   "enc_seconds": 18.330977201461792,
+   "encoder_bytes": 124364,
+   "total_words_per_sec": 163.6767673858579
+  }
+ },
+ "norm_ext": {
+  "gold": {
+   "free": {
+    "CER": 4.3438900596598495,
+    "WER": 8.769772969428736,
+    "Exact": 60.42823156225218,
+    "TokAcc": 93.2803609966647,
+    "TokAcc_BAN": 98.29512051734274,
+    "TokAcc_ENG": 89.29263565891473,
+    "TokAcc_ROM_BAN": 86.18756371049949,
+    "TokAcc_OTHER": 92.3536439665472,
+    "TokAcc_UNK": 81.57894736842105,
+    "TokAcc_OOV": 78.5671282360024,
+    "TokAcc_direct": 93.11821816105082,
+    "word_count_match_share": 98.71794871794872
+   },
+   "free+guard": {
+    "CER": 3.8111068237808317,
+    "WER": 8.769772969428736,
+    "Exact": 60.42823156225218,
+    "TokAcc": 93.2803609966647,
+    "TokAcc_BAN": 98.29512051734274,
+    "TokAcc_ENG": 89.29263565891473,
+    "TokAcc_ROM_BAN": 86.18756371049949,
+    "TokAcc_OTHER": 92.3536439665472,
+    "TokAcc_UNK": 81.57894736842105,
+    "TokAcc_OOV": 78.5671282360024,
+    "TokAcc_direct": 93.11821816105082,
+    "word_count_match_share": 98.71794871794872
+   }
+  }
+ }
+}

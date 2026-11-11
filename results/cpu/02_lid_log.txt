@@ -1,0 +1,49 @@
+seed 13
+  LR token 12.2 s
+  LR ctx 17.6 s
+  CRF 19.1 s
+seed 42
+  LR token 18.5 s
+  LR ctx 26.4 s
+  CRF 21.4 s
+{
+ "Script rule": {
+  "ci_low": 48.859396878532856,
+  "ci_high": 51.05195286273728
+ },
+ "Train lexicon + rule": {
+  "ci_low": 71.97966304283756,
+  "ci_high": 74.68667259096962
+ },
+ "Char n-gram LR (token)": {
+  "ci_low": 84.18003020600389,
+  "ci_high": 87.33579386713063
+ },
+ "Char n-gram LR + context(\u00b12)": {
+  "ci_low": 84.52307798104675,
+  "ci_high": 87.50973308952148
+ },
+ "CRF (char n-gram + context)": {
+  "ci_low": 84.89111843954738,
+  "ci_high": 88.23043489876567,
+  "p_value": 0.132
+ }
+}
+seed 2026
+  LR token 12.0 s
+  LR ctx 26.8 s
+  CRF 20.2 s
+                                       Acc       MacroF1        Kappa        F1_BAN        F1_ENG    F1_ROM_BAN      F1_OTHER        F1_UNK ENG/ROM_BAN Acc        IV_Acc       OOV_Acc
+model                                                                                                                                                                                  
+Script rule                   72.19 ± 1.67  49.92 ± 0.75  0.59 ± 0.02  97.54 ± 0.37  63.58 ± 2.01   0.00 ± 0.00  86.22 ± 1.72   2.27 ± 1.00    48.76 ± 2.23  75.34 ± 1.63  56.81 ± 2.84
+Train lexicon + rule          89.89 ± 0.83  73.45 ± 0.54  0.85 ± 0.01  97.84 ± 0.39  84.29 ± 1.46  85.33 ± 1.17  88.80 ± 1.70  10.98 ± 2.08    86.15 ± 1.07  96.66 ± 0.69  56.81 ± 2.84
+Char n-gram LR (token)        93.96 ± 0.48  85.20 ± 0.61  0.91 ± 0.01  98.31 ± 0.32  92.82 ± 1.05  92.21 ± 0.71  89.33 ± 1.16  53.34 ± 2.74    92.27 ± 0.74  96.77 ± 0.73  80.25 ± 1.61
+Char n-gram LR + context(±2)  94.11 ± 0.56  85.42 ± 0.77  0.91 ± 0.01  98.24 ± 0.41  93.19 ± 1.16  92.63 ± 0.78  88.98 ± 1.28  54.05 ± 2.64    92.74 ± 0.82  96.77 ± 0.66  81.07 ± 1.60
+CRF (char n-gram + context)   94.29 ± 0.57  86.05 ± 0.96  0.92 ± 0.01  98.32 ± 0.42  93.35 ± 1.06  92.88 ± 0.86  89.34 ± 1.09  56.36 ± 2.69    92.82 ± 0.77  96.90 ± 0.64  81.52 ± 1.70
+stratum                       BAN+ENG  BAN+ENG+ROM_BAN  BAN+ROM_BAN  ENG+ROM_BAN  monolingual_BAN  monolingual_ENG  monolingual_ROM_BAN  undetermined
+model                                                                                                                                                
+Script rule                     93.97            83.74        83.32        38.37            96.65            95.69                 7.49         10.74
+Train lexicon + rule            94.02            89.50        85.78        83.32            97.11            94.29                71.86         14.61
+Char n-gram LR (token)          94.01            92.15        87.04        91.87            97.63            94.70                88.67         55.49
+Char n-gram LR + context(±2)    94.32            91.58        87.34        91.97            97.44            95.20                90.26         57.07
+CRF (char n-gram + context)     94.62            91.73        87.58        91.62            97.63            96.27                90.98         62.46

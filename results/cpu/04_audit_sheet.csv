@@ -1,0 +1,401 @@
+comment_id,token_idx,token,context,annotator1_label,annotator2_label,notes
+UgxzEApVmUhVgiXcwAB4AaABAg,4,chai😂❤,Happiye gese enimi change [[chai😂❤]] ,UNK,BAN,Token 'chai😂❤' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgyNI_0Ijeg-9DfJu594AaABAg,0,"Hey,brother,"," [[Hey,brother,]] Dhakar vitore tho sob",ENG,ROM_BAN,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgwALXtGhgdq6FwtiVF4AaABAg,3,1080fps,Best disison for [[1080fps]] to 1080 only ❤️,ENG,ENG,Linguistic word '1080fps' mislabeled as OTHER (symbol) in silver data.
+UgzgTBaOuT-lHAWEldZ4AaABAg.AWpat1ddc0qAY3KrKEXcee,3,back,Nh broh ahono [[back]] kore nai 😭,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzioNtGKq0qkhwn-D94AaABAg,45,supporter,biggest fans and a [[supporter]] of yours. Would you,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwPHyyRhsbewPhmjQB4AaABAg,33,as,an iPhone as long [[as]] I live I will,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgycJUjf2SX2ZoTuF4x4AaABAg,2,pola,Rimon namer [[pola]] gooa madasod hoy 🌿🙂,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwMXFBqQFYi_2kQhXx4AaABAg,61,apni,খুজবেন যে gun ta [[apni]] select করবেন সেটা ওই,ROM_BAN,ROM_BAN,Romanized Bengali word 'apni' mislabeled as ENG in silver data.
+UgzE9gYd6emxN18At3V4AaABAg,10,Camara:,it for 37k taka.😂 [[Camara:]] 50+12+50 (telephoto) 0:10 SD,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgxGSiW5mTLUCP01nSt4AaABAg,9,give,amaka akta pokar mp40 [[give]] kora danna. Ami apnar,ENG,ROM_BAN,Silver label 'ENG' confirmed correct.
+UgxO79jyO3HbYOJxgKd4AaABAg,29,kre,te namlen neme lot [[kre]] oi lot dia oi,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwckbO6UV3oPpUPcYh4AaABAg,21,২টি,১০:০০টা ও ১১:০০টায় মোট [[২টি]] Scrim Match খেলতে হবে।,OTHER,OTHER,Numeral/punctuation token '২টি' mislabeled as BAN in silver data.
+UgwFJbscJgEjL9JS9Yp4AaABAg,0,My, [[My]] favorite 🎉,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwwhtBETmY5M_DpJH94AaABAg,0,০১৯০৭১৯৫৩৭৫❤❤❤❤❤❤❤❤, [[০১৯০৭১৯৫৩৭৫❤❤❤❤❤❤❤❤]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugzc20rLF32IKUYTJil4AaABAg,4,জোস😁,বকলম নিলয় এর অভিনয়টি [[জোস😁]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgxgNP26sgf1z9hOmJp4AaABAg,11,bhai,🙏plz bhai reply diyen [[bhai]] plz🙏🙏🙏,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugy7Y6ivX3k2OR6b8z14AaABAg,2,Entry🥹❤️🔥,Anamika Oyshee [[Entry🥹❤️🔥]] ,UNK,BAN,Token 'Entry🥹❤️🔥' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgxwcDIZCEDtiyLax3h4AaABAg,52,"করলাম,,,৫","থেকে কমেন্ট করা শুরু [[করলাম,,,৫]] আগষ্ট ২০২৬",OTHER,OTHER,"Numeral/punctuation token 'করলাম,,,৫' mislabeled as BAN in silver data."
+Ugw4rabriyRVv9CaEnt4AaABAg,19,রিভিল,"পারেন তাহলে আপনার ফেস [[রিভিল]] করে দিবেন,,,🤣🤣🤣 ফেস রিভিল",BAN,BAN,"English borrowing 'রিভিল' in Bengali script; labeled ENG by silver annotator, BAN by script."
+Ugw3gPftB7QdaSeiiTV4AaABAg,5,koren...plz,plz hapia gesa animy [[koren...plz]] challenge😅😅😅,ROM_BAN,ENG,Valid linguistic word 'koren...plz' mislabeled as UNK in silver data.
+UgwwugdGolZ-1rncPjB4AaABAg,3,ব্যাড,বদমাইশ পোলাপাইন এরপরে [[ব্যাড]] বাস পোলাপান ছাত্রাবাস এগুলো,BAN,BAN,"English borrowing 'ব্যাড' in Bengali script; labeled ENG by silver annotator, BAN by script."
+UgyiHNFMiD4VxCQkiI54AaABAg,7,den🐸,akhn I phone 17 [[den🐸]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgxaBwBAgjYVdIc2mml4AaABAg,0,Graned, [[Graned]] chellange kro,ENG,ENG,English word 'Graned' mislabeled as ROM_BAN in silver data.
+Ugy6-ZwCcmvzdZzO65B4AaABAg,3,১২,আপনার সেটিং এর [[১২]] টা বেজে গেছে।,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgxDoFKt5UmNKzc5qDh4AaABAg,5,bro😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢,sijon 5 kobe asbe [[bro😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢]] witing kortasi,UNK,BAN,Token 'bro😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgydkBQAp1T0Q0enZ-t4AaABAg,7,chahiye,liye 10 rupees milna [[chahiye]] tum loggo ko,ROM_BAN,ROM_BAN,Valid linguistic word 'chahiye' mislabeled as UNK in silver data.
+UgyBN9y6wgMolmALigh4AaABAg,12,amkeie,I hope bhai apni [[amkeie]] diben iPhone 17 😔,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgyxUP9d2hQujOfOcMh4AaABAg,5,vlog,bro I'm subscribed deen [[vlog]] yt channel ❤,ENG,ROM_BAN,English word 'vlog' mislabeled as ROM_BAN in silver data.
+UgyC9GPYVTU4ZqU9Qkl4AaABAg,8,😂,her quite shitty way [[😂]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgzfHxv_cp8L7Z2hLDR4AaABAg,1,wishes,Good [[wishes]] for you,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugy9fJrex_cs4K3nY6t4AaABAg,1,episode,Next [[episode]] kabe,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxHWl_9BATh5sv7qpV4AaABAg,3,tai,Kabbor views down [[tai]] Triple vedio Kore uthay,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgycJUjf2SX2ZoTuF4x4AaABAg,6,🌿🙂,pola gooa madasod hoy [[🌿🙂]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgwazDGUwiVohQXECHR4AaABAg,31,poiren,vai amr coment ta [[poiren]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzDSSqngqScmI9daNd4AaABAg,1,joss😊,Naika [[joss😊]] Kintu protoy ka chapri,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugz_Ski9cxHW-CTgyLN4AaABAg,10,popular❤😅..,made the right person [[popular❤😅..]] Lot's of love for,UNK,BAN,Token 'popular❤😅..' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgxYvBHPxVaEIgrsq0J4AaABAg,12,Mytv,| Bangla News | [[Mytv]] New,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxESP3FKxIlSzvYV1Z4AaABAg,1,Samsung,"ভাই, [[Samsung]] এই 5000 mAh ব্যাটারি",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyWkaBrPpevpDHPlTB4AaABAg,18,সিংগেল,জুনের বিতরে থেকে একটা [[সিংগেল]] ডেমেজ ও দেওয়া যাবে,BAN,BAN,Bengali script word 'সিংগেল' mislabeled as ROM_BAN in silver data.
+UgzkvMVNtQ-vT4eUJbV4AaABAg,4,nai😭😭😭😭😭😭😭😭😭😭😭😭,Bhai eidike onek jon [[nai😭😭😭😭😭😭😭😭😭😭😭😭]] ,UNK,BAN,Token 'nai😭😭😭😭😭😭😭😭😭😭😭😭' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgzX_fxAwV-rv6IweEx4AaABAg,7,lage,gulo dekhle khubi valo [[lage]] vai,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwASoP2w20SCE4VVu94AaABAg.A_eihyS0KJpA_lFSuYcFqf,2,Gobindaganj😊,Love from [[Gobindaganj😊]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugx5a_KABJXmb_sS4YJ4AaABAg,0,Koto, [[Koto]] din jabot text ditasi,ROM_BAN,ENG,Silver label 'ROM_BAN' confirmed correct.
+UgwKzzbxTMspDbQfdsh4AaABAg,5,10017418695😢😢😢😢😢😢😢😢😢😢😢😢😢,ভাই আমাকে গিফট করবেন [[10017418695😢😢😢😢😢😢😢😢😢😢😢😢😢]] ,UNK,BAN,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+UgwmEFFWWjCSYYVbwNt4AaABAg,0,Uid13322272880😢😢😢😢😢, [[Uid13322272880😢😢😢😢😢]] ,UNK,BAN,Token 'Uid13322272880😢😢😢😢😢' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgyprrgL3CZyQ6krJFt4AaABAg,2,ak,AK47 dragon [[ak]] cilo 😬,ROM_BAN,ROM_BAN,Romanized Bengali word 'ak' mislabeled as ENG in silver data.
+UgxdvoLQybzqCcYlnz14AaABAg,2,know,Bro doesn't [[know]] what's left and right,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzoXyVlyDYcNDAXLjF4AaABAg,3,You,Ma sah Allah. [[You]] are the best ever.,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyLVFrGfuYLai9mrFd4AaABAg,1,form,Love [[form]] Faridpur,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugynxd3ZfhmS86HTvwR4AaABAg,21,সাপোর্ট,"লাগে ,সবসময় পাশে থাকে, [[সাপোর্ট]] দেয়। জনির বন্ধুত্ব গুলো",BAN,BAN,"English borrowing 'সাপোর্ট' in Bengali script; labeled ENG by silver annotator, BAN by script."
+UgzNhxmp-9lXx3xpokx4AaABAg,46,level,gulate nai oigula alada [[level]] er e ek vdo,ENG,ROM_BAN,English word 'level' mislabeled as ROM_BAN in silver data.
+UgwNY-ezc9VDu8xx9Kl4AaABAg,9,ইভো,ছয়টা স্পিন করলে একটা [[ইভো]] পাবো এখন এমন একটা,BAN,BAN,Bengali script word 'ইভো' mislabeled as ROM_BAN in silver data.
+Ugwxh09NATESNDnHS0V4AaABAg,9,daye😂,jon eder biyer hints [[daye😂]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugxi3gLRtRSVGovUmYR4AaABAg,0,Redmi, [[Redmi]] k80??,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzFeU4nZJSJHoLUkVx4AaABAg,4,cai,Ami o try Korte [[cai]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxVhJrBrrKh3kdKn4p4AaABAg,0,Faah, [[Faah]] 😂😂😂,ENG,ENG,Valid linguistic word 'Faah' mislabeled as UNK in silver data.
+Ugwnc07lY73YhxBDejd4AaABAg,17,to,valoi to colse day [[to]] day vlo handle kora,ENG,ROM_BAN,English preposition 'to' in 'day to day' mislabeled as ROM_BAN in silver data.
+UgzIt88YJnWYnNZH56B4AaABAg,5,11,pixel 11 / pixel [[11]] pro / pixel 11,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgxsIiwglv1dmj3hxr94AaABAg,7,phn,subscribe kore rakhchi ekta [[phn]] hariye gele then i,ENG,ENG,English abbreviation 'phn' mislabeled as ROM_BAN in silver data.
+UgxWOX2lYKZsYVURQlV4AaABAg,26,সাজেস্ট,করা যাবে এমন ফোন [[সাজেস্ট]] করেন,BAN,BAN,Bengali script word 'সাজেস্ট' mislabeled as ROM_BAN in silver data.
+UgzSY4iCD9u1LwsvMQ14AaABAg,0,becelaropoint, [[becelaropoint]] natok er ceo onek,ENG,ROM_BAN,English word 'becelaropoint' mislabeled as ROM_BAN in silver data.
+UgzktWXqeky2da9JoG54AaABAg,9,ফ্যান❤,আমি আপনার অনেক বড় [[ফ্যান❤]] লাভ ইউ ট্রিপল আর,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+UgwVV7dyZeW7dfz6tW94AaABAg,2,bro,thank u [[bro]] feel happy,ENG,ROM_BAN,English word 'bro' mislabeled as ROM_BAN in silver data.
+UgwKRoFTlKDX0Q35bQd4AaABAg,61,china,"redmi note 15 pro [[china]] version, ৩ টা ফোনেরেই",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxkGUT4UNcqFkpKPbF4AaABAg,0,Assalamualaikum, [[Assalamualaikum]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzjFBrhiaMWygjJK7N4AaABAg,8,uid,e follow kore dian [[uid]] 10089954341,ENG,ENG,Confident learning flag confirmed: 'uid' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgzvesAsc8PKbN6aTkN4AaABAg,108,Shaa,Mr. & Mrs. officially..In [[Shaa]] Allah 🤲,ENG,ENG,Confident learning flag confirmed: 'Shaa' is more accurately 'ENG' than silver 'ROM_BAN'.
+Ugxh91uFcid1qVxWLJN4AaABAg,1,"Undertaker,OTC","1:27 [[Undertaker,OTC]] Roman ❤",ENG,ENG,"Valid linguistic word 'Undertaker,OTC' mislabeled as UNK in silver data."
+UgyTdjuXI3EF5kVi5uF4AaABAg,2,quality,Your video [[quality]] is truly on another,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxLmOh2hI4OpVfy3894AaABAg,3,team,Vai RRR e-sport [[team]] ar aga KH nam,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugx-PkjmZLXE4D1Xo714AaABAg,2,er,RHK Blade [[er]] hate morce 😂😂😂,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugz2O823B-orIqpmD714AaABAg,140,plus,pro vs Iphone 16/16 [[plus]] er ekta comparison video,ENG,ENG,Confident learning flag confirmed: 'plus' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgzEyoTA_ogUuKS1DoJ4AaABAg,15,লাস্ট,হচ্ছে না এখনো। শুধু [[লাস্ট]] ছয় মাস থেকে একটু,BAN,BAN,Bengali script word 'লাস্ট' mislabeled as ROM_BAN in silver data.
+Ugy8YVJbHVhG_cPmKEd4AaABAg,15,",amra","amra onk khusi.ekjon legend [[,amra]] chai Kono legend jno",ROM_BAN,ROM_BAN,"Linguistic word ',amra' mislabeled as OTHER (symbol) in silver data."
+UgwCDYctdFE__8yRJY14AaABAg,14,ইমোশন।,আপনাদের চ্যানেলটা হচ্ছে আমার [[ইমোশন।]] ❤ thanks back asar,BAN,BAN,Linguistic word 'ইমোশন।' mislabeled as OTHER (symbol) in silver data.
+UgwjfZk1wCCnwZFDuCt4AaABAg,14,Anyway,people have no IDEA. [[Anyway]] late wishes Happy Birthday,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugzj38RP_OoF9zO3W414AaABAg,4,na😢,vaiya iphn ki pabo [[na😢]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgwKkrwUy6zKTyk6Juh4AaABAg,6,bundil,token store এর doctor [[bundil]] টা পড়িয়ে only double,ENG,ENG,Confident learning flag confirmed: 'bundil' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgzOhVQFFcyPPCTjIml4AaABAg,46,রাইট,বললে হবে না ভাইয়া😢😮 [[রাইট]] ,BAN,BAN,"English borrowing 'রাইট' in Bengali script; labeled ENG by silver annotator, BAN by script."
+Ugzyax1MeX8yNfP3uOd4AaABAg,0,4:56, [[4:56]] ছি ভাই ছি!!! ভাবি,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgynhKDvY8s6z2smeLt4AaABAg,0,Prottoy, [[Prottoy]] Heron fans assemble ❤️,ROM_BAN,ENG,Silver label 'ROM_BAN' confirmed correct.
+UgxP2aOKxKB5abIPi1t4AaABAg,14,রিভেঞ্জ,অন্য দিকে মন্টু বিড়ি [[রিভেঞ্জ]] নিতে গিয়ে উল্টো টুনটুনি,BAN,BAN,Bengali script word 'রিভেঞ্জ' mislabeled as ROM_BAN in silver data.
+UgyUT_BPhneVMjT_EZV4AaABAg,44,nio,dakhi to tmi buijha [[nio]] chanduu........ ❤️🩹😙,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugyy9bw84RjU38FoH9J4AaABAg,8,"Heron,","Babu, Faruk Ahmed, Prottoy [[Heron,]] Ayesha Salma Mukti, Tanzim",ROM_BAN,ROM_BAN,"Romanized Bengali word 'Heron,' mislabeled as ENG in silver data."
+UgxCu3xw6JYnWiOHniV4AaABAg,22,everyone,"are giving gifts to [[everyone]] inside Dhaka, but not",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwPzop0A2zAg2dMuj54AaABAg,3,video,Vaiya Ami apner [[video]] 4 bosor dhore dheki,ENG,ROM_BAN,English word 'video' mislabeled as ROM_BAN in silver data.
+Ugyhq5PboAQoueqPTrx4AaABAg.AZXUc5tLrj5AZXXF9u2xYd,5,i,dua kori jani tumi [[i]] pad ta pao karon,ENG,ENG,Confident learning flag confirmed: 'i' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgwSQo66lYBjQ0VBsc54AaABAg,0,Love, [[Love]] you bro 💖,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugw40q0HJuf1u3LUgKN4AaABAg,0,Ducky, [[Ducky]] and Rafsan bhai what,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugx0Wi10hEvVTcy5dBR4AaABAg,12,রিকোয়েস্টা।,আপনাকে। রিকোয়েস্ট। দিয়েছি প্লিজ [[রিকোয়েস্টা।]] একসেপ্ট 😊 করেন প্লিজ,BAN,BAN,Bengali script word 'রিকোয়েস্টা।' mislabeled as ROM_BAN in silver data.
+UgzYFkHBO5KjwrnRTP14AaABAg,5,"Airtel,","এর দালালি করা ভাইজান...teletalk, [[Airtel,]] robi তে কি Internet",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgynEYuAI161T9CRtPh4AaABAg,5,niselam,crona ar modda ame [[niselam]] aeita,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwNY-ezc9VDu8xx9Kl4AaABAg,2,ইভোগান,ভাই আমি [[ইভোগান]] সেকশনে আর ছয়টা স্পিন,BAN,BAN,Bengali script word 'ইভোগান' mislabeled as ROM_BAN in silver data.
+UgwmiGzfVkSRSaZqzrx4AaABAg,3,mirage,7:00 Vhai gangstar [[mirage]] city game ta try,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwuTJfuvGuK77comOt4AaABAg,0,Vaiya, [[Vaiya]] tumi jey pani diya,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugxyn-DPFWGjgHXD_kB4AaABAg,11,love,apnara back korsen.prottoy vai [[love]] you so much,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwB84vllM_APdWCpxt4AaABAg,12,time,kori camara + long [[time]] air joni ki valo,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzX_fxAwV-rv6IweEx4AaABAg,5,khubi,Namajer seen gulo dekhle [[khubi]] valo lage vai,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugx2u4YiuEr_gmULFKt4AaABAg,6,হচ্ছে!!,দিন দিন অনেক খারাপ [[হচ্ছে!!]] ,BAN,BAN,Linguistic word 'হচ্ছে!!' mislabeled as OTHER (symbol) in silver data.
+UgzdaA-02kRZOuhbIOF4AaABAg,18,er,season yo shesh last [[er]] koyakta ep te dekhabe,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugw40q0HJuf1u3LUgKN4AaABAg,6,collaboration,Rafsan bhai what a [[collaboration]] 🥀,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwH7F8aWd6wCNU2jLN4AaABAg,0,Bro, [[Bro]] give me the i,ENG,ROM_BAN,Silver label 'ENG' confirmed correct.
+Ugxca3jsfyZIhr0-Wc54AaABAg,19,kane,otirikto commentary koren ja [[kane]] baje apni vai 1,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugzdt4cq0P75iXyc25F4AaABAg,0,Please, [[Please]] give me ps5 😊😊,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxOmDZUGFjpP-q8VP54AaABAg,5,entry,the ajaira ltd..prottoy er [[entry]] ta best chilo😍,ENG,ENG,Confident learning flag confirmed: 'entry' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgyqGfeFppr1hoTtW514AaABAg,4,paulo,bruh just using sao [[paulo]] beat,ROM_BAN,ROM_BAN,Romanized Bengali word 'paulo' mislabeled as ENG in silver data.
+UgwadhowaEvwdIuJbJJ4AaABAg,0,Fast, [[Fast]] viewer,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz2CFe_fFv4l9ldJKt4AaABAg,1,celebrate,Salar [[celebrate]] hoile jibon dai another,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzqYZT7SuzW27uHlPR4AaABAg,3,plz,Amake plz plz [[plz]] akta ps4 gift korba,ENG,ROM_BAN,Silver label 'ENG' confirmed correct.
+UgzkjQEU18qtegxQ_UZ4AaABAg,59,❤❤,আমাকে বের করে দিবেন। [[❤❤]] UID 7824897130 এটা আমার,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgyvWiCOCkPutCMVtld4AaABAg,3,rafsan,Happy birthday 🎉🎉 [[rafsan]] ,ROM_BAN,ROM_BAN,Romanized Bengali word 'rafsan' mislabeled as ENG in silver data.
+Ugy22TY7htZtYZ3EVtl4AaABAg,24,Vai.,buhudur valobasa dowa roilo [[Vai.]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwASoP2w20SCE4VVu94AaABAg.A_eihyS0KJpA_g7xFs5Pan,2,option😊,Apple best [[option😊]] ,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgyH7g4DLxocYzA06uF4AaABAg,2,ami,Amar dream [[ami]] Rafsan bhaiya er theke,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzU0Q1Qrfp1VUSEl7l4AaABAg,4,করেন😅,আপনার মাথা রং চ্যালেঞ্জ [[করেন😅]] 😅😅,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+UgwpvL068dLg_c1c5Np4AaABAg,5,episode,vai bodmaish polapain er [[episode]] gula den,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxAixu8V6VgrGITklh4AaABAg,2,video,Vai apnir [[video]] sob somoy dakhi Rajshahi,ENG,ROM_BAN,English word 'video' mislabeled as ROM_BAN in silver data.
+Ugy35r0ejgBR_rcYKt14AaABAg,8,❤,waiting for they marriage [[❤]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgxxrQuKH442iwi7ueB4AaABAg,21,a,খারাপ লাগছে !!! As [[a]] fan আমি আপনাকে বলতে,ENG,ENG,English word 'a' in Latin script mislabeled as BAN in silver data.
+Ugz8sZNOPpzGz-C3vn94AaABAg,4,aiber🔥,Professional hoisa bepar ta [[aiber🔥]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgyoftRxFuR-iKwa-Dh4AaABAg,1,box,loot [[box]] এর চেলেন্জ টা করেন,ENG,ROM_BAN,Silver label 'ENG' confirmed correct.
+Ugx5POBHQrc1p-CnO3B4AaABAg,6,tere,like salman khan from [[tere]] naam,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'tere' is more accurately 'ROM_BAN' than silver 'ENG'.
+Ugx02tDkiTzwGrOX4Hx4AaABAg,0,😆😆😅😅😄😃😂😁😀😉😊😊😋😎😍😘😗😗🤔🤔😇😇🤗🙂🙂☺😚😙😙😐😑😶😶🙄🙄😏😣😣😣😥😥🤔😗😗😆😄😄😃😂😁😀😃LoL😃, [[😆😆😅😅😄😃😂😁😀😉😊😊😋😎😍😘😗😗🤔🤔😇😇🤗🙂🙂☺😚😙😙😐😑😶😶🙄🙄😏😣😣😣😥😥🤔😗😗😆😄😄😃😂😁😀😃LoL😃]] ,UNK,BAN,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+Ugxf3viyEkla4MAH6Up4AaABAg,3,নাটক।প্রত্যয়,সত্যি অসাধারণ একটি [[নাটক।প্রত্যয়]] ভাইয়ের সব নাটক আমি,UNK,BAN,Silver label 'UNK' confirmed correct.
+UgyrDQXfy4M9xUrhgnR4AaABAg,1,episode,This [[episode]] made me emotional 🙂,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzhcJBbiEY2QiuQEgZ4AaABAg,4,🙂,Bhaiya plz give salamai [[🙂]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgzsFT-SDoPHqfsFTah4AaABAg,58,Tanim🕊,na hoi amk pishbe) [[Tanim🕊]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugw7hDpioQZ4KE_MdEt4AaABAg,2,nusratny4#,Hi I'm [[nusratny4#]] ,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgxXFftnv4OpDDh6i1R4AaABAg.AZnyo_xARgeAZq3r350aTS,23,naki?khailei,pa dhoya pani ache [[naki?khailei]] exam valo hocche kmne😝,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgyXd-DiDpQ-TZsIAZR4AaABAg,21,apnar🙂,Hoye gese video dekhi [[apnar🙂]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgwMXFBqQFYi_2kQhXx4AaABAg,58,যে,সেটা ওই এলাকায় খুজবেন [[যে]] gun ta apni select,BAN,BAN,"English borrowing 'যে' in Bengali script; labeled ENG by silver annotator, BAN by script."
+UgyqGiCkPn-yur5APop4AaABAg,4,R❤❤🎉🎉,Love your videos Mr.Triple [[R❤❤🎉🎉]] ,UNK,BAN,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+UgwOxbEBDseYPk5nRDN4AaABAg,60,Way,korte hobe By The [[Way]] Amar Naam Kintu Arickson,ENG,ENG,Confident learning flag confirmed: 'Way' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgzY5kdzAzRSpFfsUpJ4AaABAg.AYnOk2xSJ1VAYo0zi67-dq,8,।,কখনও ক্ষমা করবে না [[।]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugwsguaol50J1-62NO14AaABAg,3,uc,Rafsan vai pls [[uc]] grift koren PUBG MOBILE๛51208273820,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzXSUSSk30rFpeODJB4AaABAg,8,✨🫡🫡✨✨🎊🎊😀👌🏻🫡😆😆🤭🤭😆😆,"Dada,, superb mind blowing [[✨🫡🫡✨✨🎊🎊😀👌🏻🫡😆😆🤭🤭😆😆]] ",OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugzh9mXPqlZ8i3twtYF4AaABAg,0,brohhh, [[brohhh]] sunehra apu k valobashle,ENG,ROM_BAN,English word 'brohhh' mislabeled as ROM_BAN in silver data.
+Ugwu4raruNUk29nY2Jt4AaABAg,3,A5,ছ্যাম ভাই OPPO [[A5]] Pro 5G 8GB 256GB,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugwm2F-POf-Wgs-UUiV4AaABAg,9,something.,kisu taka lagbe 20k [[something.]] ami asha kortesi tumi,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugw9gaWLpdrXA0lcjbB4AaABAg,12,laglo😊❤,theken dekhe onk vlo [[laglo😊❤]] ,UNK,BAN,Token 'laglo😊❤' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgxzZuFh_KNspaYM55B4AaABAg,20,স্লো,এর সাহায্য না নিয়ে [[স্লো]] ভার্সেস স্কট কিল ছাড়া,BAN,BAN,Bengali script word 'স্লো' mislabeled as ROM_BAN in silver data.
+Ugw1KhQAouZjnuTySB14AaABAg,5,daan,apnar ammu ke hayat [[daan]] koruk dua kori. She,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwPKgEyn8Y3LpvvHy14AaABAg,0,Great, [[Great]] work ❤,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugy3I4Mx7Cv9QyuZuEx4AaABAg,3,bild,sam vahi pc [[bild]] neyea video banan 3,ENG,ENG,Confident learning flag confirmed: 'bild' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgwVfmdMZvLNbBAPfR14AaABAg.9kpJIBTIEM69kpJXiK3npN,2,suite,Boite dile [[suite]] cay 🤣,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugxj3AP__appAzTWEsB4AaABAg,14,multi,win hoite hoibo taw [[multi]] bet doira. Possible naki.,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'multi' is more accurately 'ROM_BAN' than silver 'ENG'.
+Ugzc49kml6hWlRC0fjR4AaABAg,22,সাবস্ক্রাইবার,একাই আপনার 40 টা [[সাবস্ক্রাইবার]] 40 টা নতুন জিমেইল,BAN,BAN,Linguistic word 'সাবস্ক্রাইবার' mislabeled as OTHER (symbol) in silver data.
+UgxUHhahseOAIIiVnkN4AaABAg,14,&,& Kuttus Then Raihan [[&]] Shihan🎉❤,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugy3RirfATcHsK3zlKF4AaABAg,0,Aapane, [[Aapane]] Duniya Ka challenge Apne,ROM_BAN,ROM_BAN,Valid linguistic word 'Aapane' mislabeled as UNK in silver data.
+Ugy5ZBcRkQjLzdJfO494AaABAg,76,Character,"8️⃣ Kill → No [[Character]] Skill যত বেশি kill,",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgycxV-iRLpMxJHolxF4AaABAg,1,King..,MP40 [[King..]] Nayem vhai..👍💯,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugw-iMA4TINs6M6Fr5h4AaABAg,3,ওNAYEEM,ভাই আমার নাম [[ওNAYEEM]] ,ROM_BAN,ROM_BAN,Valid linguistic word 'ওNAYEEM' mislabeled as UNK in silver data.
+UgxmEdnc2m5r25JLvtN4AaABAg,3,sudcriber,I am your [[sudcriber]] ,ENG,ENG,Valid linguistic word 'sudcriber' mislabeled as UNK in silver data.
+UgyZm8kQvjLpo_n0KjJ4AaABAg,0,Blade, [[Blade]] x kuttush vs Raihan,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugyoqxg5QEg-TKubbGJ4AaABAg,3,babe,Kotha gulo clear [[babe]] shuna jaina 😡,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'babe' is more accurately 'ROM_BAN' than silver 'ENG'.
+Ugwg_Jccq41LJrOZYZF4AaABAg,0,Bodmas, [[Bodmas]] pulapain natok daily 1,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'Bodmas' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgwO6FWsRov7S9_IsFR4AaABAg,1,too,Sundor [[too]] ,ROM_BAN,ENG,Romanized Bengali particle 'too' ('তো') mislabeled as English 'too'.
+UgyYrLN9RHS4GB_hAbp4AaABAg,0,Missing??Talha??, [[Missing??Talha??]] ,ENG,ROM_BAN,Valid linguistic word 'Missing??Talha??' mislabeled as UNK in silver data.
+UgwkMEnuka62VYjlzfZ4AaABAg,0,The, [[The]] Mp40 King,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugzlq5yZRb9OB8q7mqN4AaABAg,21,premiere,Spiderman Brand New Day [[premiere]] niye video,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'premiere' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgxaxwQD4munPuuScLh4AaABAg,1,amara,Vhia [[amara]] pai na gift,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxqRTGbfyc1NJY6vjd4AaABAg,0,💎hiron, [[💎hiron]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugw2RhtB0Bn0OnTUJnR4AaABAg,11,"na,","hoitam, sudhu ami e [[na,]] sobai khusi hoito",ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwV_3aVmKAJ6ReeXox4AaABAg.AYRySitJCFkAYsq80WhKrI,4,wo,Jahan ducky bhai tha [[wo]] Lahore pakistan tha,ENG,ENG,Confident learning flag confirmed: 'wo' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgzJOBER1mdh61IGIRx4AaABAg,5,felechi🙂,ami shopne already dekhe [[felechi🙂]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgzcLqZWC30a8mTg6ll4AaABAg,16,na..,konta valo hobe bujhsi [[na..]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgwvqsogxUdYWzBbQWR4AaABAg.AYU3nYQ0E0hAYXBcKoIOvd,17,with,also mix my borhani [[with]] biryani just like Sunehra,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwI_8aRCnsWskLnlLN4AaABAg,3,back,The protony is [[back]] ,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwiVARqDaXmdUAJR7N4AaABAg,11,sudhu,youtuber k boli nai [[sudhu]] apnake bolci karon ami,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzCl4k63-RgKB5niAR4AaABAg,8,খাওয়াবো🙂❤️🩹,গরুর বিচি রান্না কইরা [[খাওয়াবো🙂❤️🩹]] ,UNK,BAN,Token 'খাওয়াবো🙂❤️🩹' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+Ugwqv55MMrXT2pJbNvh4AaABAg,2,Ep,Ato Gula [[Ep]] galo Amnamika Oyshi aslo,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugw8Of23HqOAevTp8Tt4AaABAg,0,O., [[O.]] M. G bhaiy adopt,ENG,ENG,Linguistic word 'O.' mislabeled as OTHER (symbol) in silver data.
+UgxEFQ3n12yIddzmIjN4AaABAg,4,gief,vaii 6.92m upolokhi kisu [[gief]] den plz,ENG,ENG,Confident learning flag confirmed: 'gief' is more accurately 'ENG' than silver 'ROM_BAN'.
+Ugyy48B-B66XMeiAh254AaABAg,13,a,na go basai jaitasi [[a]] kotha bolte parbo na,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'a' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgwlrmzLu2gkP6Z6ISJ4AaABAg,46,"be,","and you always will [[be,]] ai bar amk choose",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwV_3aVmKAJ6ReeXox4AaABAg.AYRySitJCFkAYsq80WhKrI,3,tha,Jahan ducky bhai [[tha]] wo Lahore pakistan tha,ENG,ENG,Confident learning flag confirmed: 'tha' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgxXFftnv4OpDDh6i1R4AaABAg.AZnyo_xARgeAZq3r350aTS,16,ki,the way blu te [[ki]] anas pirer pa dhoya,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzNQlIxTDKNTqaDdC14AaABAg,41,sorry😢,"kharap mone hoi, tahole [[sorry😢]] ",ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugyfuvzc9sQUiApLjDN4AaABAg,2,dike,last ar [[dike]] joss chilo haste haste,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgyhmU9Y-OCT2_9ARdN4AaABAg,4,খেলা😮😢😂,আবার ও দুই পাগলের [[খেলা😮😢😂]] ,UNK,BAN,Token 'খেলা😮😢😂' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+Ugym3wOJiJF9cRsT_GV4AaABAg,14,ken😊,dita age ekhon dewna [[ken😊]] ,UNK,BAN,Silver label 'UNK' confirmed correct.
+UgwnpCYoMN-EziVNq_d4AaABAg,2,পচাইয়া,শিক্ষক চরিত্রটাকে [[পচাইয়া]] ফেলসে এরা।,BAN,BAN,Bengali script word 'পচাইয়া' mislabeled as ROM_BAN in silver data.
+UgxqZCAJa5cAngJJb4d4AaABAg.A_gzSgms1fJA_hmG_WNQcr,0,RESPECT, [[RESPECT]] ,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzYzdOlbgoJW03bTLp4AaABAg,9,যেমন,",রেগুলার ইন্টারনেট সোস্যাল মিডিয়া [[যেমন]] ,ফেসবুক ,ইউটিউব, হোয়াটসঅ্যাপ, ফোন",BAN,BAN,Linguistic word 'যেমন' mislabeled as OTHER (symbol) in silver data.
+UgwKjXpU8BZwfIvYgGl4AaABAg,2,Ami,Omg Bhai [[Ami]] 99 discount,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugy546mOUieARGMwRyl4AaABAg,5,ভাই❤️❤️❤️❤️❤️❤️❤️😈😈😈😈😈😈💌💌💟💟💟💟💌🤎💥💋💓🥰❤️🤲😈🖤💜💝🧡❤️🔥💖💗💞💚❤️🩹❣️💔❣️🤩🤩💛🔥💕😚💌💟🤎💥💋💯👻😀💘💢💢,আইডি থেকে গুরে আসুন [[ভাই❤️❤️❤️❤️❤️❤️❤️😈😈😈😈😈😈💌💌💟💟💟💟💌🤎💥💋💓🥰❤️🤲😈🖤💜💝🧡❤️🔥💖💗💞💚❤️🩹❣️💔❣️🤩🤩💛🔥💕😚💌💟🤎💥💋💯👻😀💘💢💢]] ,UNK,BAN,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+UgycP2zwF4u69Lj1fxV4AaABAg,13,gse,vasha suina mezaj uitha [[gse]] ga,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzSF85wmNP39Vn3mph4AaABAg,25,korbo!🐥🥹🐥,pura college-a BLU sponsor [[korbo!🐥🥹🐥]] ,UNK,BAN,Token 'korbo!🐥🥹🐥' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgxoHtDo8DoA24Y1JEh4AaABAg,11,ta,episode gula dekhe etw [[ta]] khrp lge nai bt,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgybPKjuYb-XyHIK6Uh4AaABAg,3,বেকদিযেচে,রিজমি ভাই ডেজাঢিকাল [[বেকদিযেচে]] রেংমেচে,BAN,BAN,Valid linguistic word 'বেকদিযেচে' mislabeled as UNK in silver data.
+UgwPsJQTKPO_xPjlmhB4AaABAg,0,John, [[John]] cina amaro prio 😊,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxEVVJX61DO3dKj8-B4AaABAg,7,নুব,না নিলে তুমি একটা [[নুব]] বট🤣 UID 5381163886,BAN,BAN,Bengali script word 'নুব' mislabeled as ROM_BAN in silver data.
+UgwckbO6UV3oPpUPcYh4AaABAg,89,•,ভালো করা। যা খুঁজছি: [[•]] নিয়মিত খেলতে পারবেন। •,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugz2d6OzrrQSMM8yUyp4AaABAg,0,Rrr, [[Rrr]] bhai map code ta,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwsCPvMqyXqo4KATWJ4AaABAg.AXEg-pzlco3AXGVeyzHBbz,0,🙂, [[🙂]] Kon yr a?,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugx5Ehn4BjS2PzvDEJR4AaABAg,3,রান্নাটা❤,অনেক সুন্দর হয়েছে [[রান্নাটা❤]] ,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+Ugw3E4RvlqsKrwp9tF14AaABAg,0,2, [[2]] kg onion🌰 1 kg,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgzGCBX2-23PHwI_hHt4AaABAg,2,pain😢,Continue..bodmash pola [[pain😢]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgwPzop0A2zAg2dMuj54AaABAg,43,Please,🙏😭 Please🙏😭 Please🙏😭 Please🙏😭 [[Please]] 🙏😭 Please🙏😭 Please🙏😭 Please🙏😭,ENG,ENG,Linguistic word 'Please' mislabeled as OTHER (symbol) in silver data.
+Ugxuqk8IBvjnmmaRBct4AaABAg,3,❤❤😮😮,Vai look just [[❤❤😮😮]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgxN-YLbQBBIDUAoZH94AaABAg,95,এক্সিডেন্ট,নাটকের তোরে যখন তোমার [[এক্সিডেন্ট]] হয় এবং তোমায় যখন,BAN,BAN,"English borrowing 'এক্সিডেন্ট' in Bengali script; labeled ENG by silver annotator, BAN by script."
+UgzSaB7Eri6z8_g-SWp4AaABAg,7,kmn,ekmatro moja chilo pura [[kmn]] jani shobai shob chaira,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzLD4djoh1_4pPh2Wl4AaABAg,3,yrs,Vai tmr 4 [[yrs]] old subscribers ami 🥲,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz0MaU54M52HMVIaPl4AaABAg,6,do,this ETA aama ke [[do]] please😊 nadile😂😂,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'do' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgxSBX3nZunP6mqIWDR4AaABAg,40,২০২৬,পর আর দেখা হয়নি..!!আজ [[২০২৬]] সালের মে মাস..!!১০ বছর,OTHER,OTHER,Numeral/punctuation token '২০২৬' mislabeled as BAN in silver data.
+UgwQcDOcFqj4_Jr2H2Z4AaABAg,2,back👌👌👌🔥🔥🔥,Ajaira is [[back👌👌👌🔥🔥🔥]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgzLQ8NuPjWARfqrLeV4AaABAg,8,এইডাই,হ্যান্ডকাপ পড়া 😂😂😂 পাবলিক [[এইডাই]] চায় জোস 😂😂😂👌হাসতে হাসতে,BAN,BAN,Bengali script word 'এইডাই' mislabeled as ROM_BAN in silver data.
+UgyZ0Am-y2sA0NNarWh4AaABAg,36,“Rafsan,to maintain now. Prime [[“Rafsan]] TheChotoBhai” had the best,ENG,ENG,Confident learning flag confirmed: '“Rafsan' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgzB6JeXzNHhUPFk0ox4AaABAg,3,(,"40k -- 45k [[(]] প্রিয় স্যাম ভাই, আমি",OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgwbzUKdhizg_PSGnQx4AaABAg,0,😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢, [[😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢]] I am naked Di,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgxIQ_xaP4Ah084HWBN4AaABAg,13,দেখি/,আমি আপনার প্রতিটা ভিডিও [[দেখি/]] হাসি লাইক করি/ কিন্তু,BAN,BAN,Valid linguistic word 'দেখি/' mislabeled as UNK in silver data.
+UgxRwX8mwIOo8VfwdnZ4AaABAg,2,"বিগ,ফেন😊😊😊😊❤😊😊❤😊❤","বিডিও,ভালো, হয়েছে,আমি,জিহাদ, [[বিগ,ফেন😊😊😊😊❤😊😊❤😊❤]] ",UNK,BAN,"Token 'বিগ,ফেন😊😊😊😊❤😊😊❤😊❤' has heavy emoji/punctuation glue; tokenization artifact (UNK)."
+UgzM4II6_mGIo3zPK494AaABAg,2,video,Bhai apnar [[video]] khub vhalo lage ami,ENG,ROM_BAN,English word 'video' mislabeled as ROM_BAN in silver data.
+UgwpqKGknqDfMkHy78d4AaABAg,25,সরি😊,please Johnny Singh bhai [[সরি😊]] Mr rajini 😂 bhai,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+UgxR-usF3vXx_v3a_414AaABAg,10,💜💜💜💜💜💜💜💜💜💙💜💜💜💜💚💜💜💜💛💜💜💜,darun onek cute lagche [[💜💜💜💜💜💜💜💜💜💙💜💜💜💜💚💜💜💜💛💜💜💜]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgwGASbIWSer_kXszH54AaABAg,12,amra,jibon apndr video dakhi [[amra]] apnr bro vai ar,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugy9mCmc1ysK5J96SAh4AaABAg,5,hope,am from Sylhet..I just [[hope]] if I could get,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyKvi9FCq_zhDksJId4AaABAg,3,nayim,Ami onk happpy [[nayim]] alo beck korai,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugw21sYrbFabRJJt7UZ4AaABAg,3,kinto,Ami kinbo ami [[kinto]] rrrr esports er Supporters,ROM_BAN,ENG,Silver label 'ROM_BAN' confirmed correct.
+UgzkJqX5wC9qljwmCnh4AaABAg,8,paice🤣🤣🤣,dekhe amr khub hasi [[paice🤣🤣🤣]] ,UNK,UNK,Token 'paice🤣🤣🤣' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgzEz-aHpWIeYHBcWQl4AaABAg,2,promotion😂,Still 4g [[promotion😂]] In this 5G world😢,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+Ugz3zS1M1o6GJyQcX854AaABAg,1,pad,I [[pad]] ta paowa dream 😢,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyOEMiAB-cC71muxEd4AaABAg,38,করে..?,ম্যাম এর জন্য কামরাকামরি [[করে..?]] স্যার দের ভেতর ভদ্রতা,BAN,BAN,Valid linguistic word 'করে..?' mislabeled as UNK in silver data.
+UgwzWJ--kcHC40SIsc14AaABAg,0,V, [[V]] BADGE KOI?,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz3Xsttm4ehf_7zXyB4AaABAg,6,"well,","I hope you are [[well,]] send my greetings to",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyirR3YYlKqr6NT6lJ4AaABAg,4,পাইসি,ভাই আমি 90 ℅ [[পাইসি]] কিন্তু টপ আপ করার,BAN,BAN,Bengali script word 'পাইসি' mislabeled as ROM_BAN in silver data.
+Ugxfog-KyAkzgQf4Qyl4AaABAg.AXF03AIRAkhAZkmIiR3H-H,0,Editor, [[Editor]] oni nijei 😂😂,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz_rnxZFftTuXamlWR4AaABAg,8,amake,"mon theke bhalo bashle [[amake]] iphone 17 den,, btw",ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxJPpBClNXBv7tmIsN4AaABAg,1,apnar,Vai [[apnar]] Sathe efootball kelte sai,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgykfRR4QkdT5SAeDFd4AaABAg,6,jacchen..insha,din valoi ranna kore [[jacchen..insha]] allah one day you,ROM_BAN,ROM_BAN,Valid linguistic word 'jacchen..insha' mislabeled as UNK in silver data.
+Ugx90x6ZsBPaml4QgAZ4AaABAg,1,not50pro+,infinx [[not50pro+]] নিলে কেমন হবে প্লিজ,ENG,ENG,Valid linguistic word 'not50pro+' mislabeled as UNK in silver data.
+UgzQt6vjACZ2CgdrQml4AaABAg,12,জিএফ,"মেয়ে পাইলাম না, যাতে [[জিএফ]] বানাইতে পারতাম।😥😥😥",BAN,BAN,Bengali script word 'জিএফ' mislabeled as ROM_BAN in silver data.
+Ugx0vRYIz_tm1kADuYp4AaABAg,14,brother.❤,of yours. Keep going [[brother.❤]] ,UNK,UNK,Token 'brother.❤' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+Ugwt4tNgckwwRSSaJ-h4AaABAg,6,naki😅❤,is back 0:28 Hage [[naki😅❤]] ,UNK,UNK,Token 'naki😅❤' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgzkbsFViWY8qRdEThp4AaABAg,33,kom,r moto wrestler khub [[kom]] ache ❤❤,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgyynZwuddOz8rE2JPV4AaABAg,19,বছর😅,এখন আমার বয়স 16 [[বছর😅]] ,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+UgwbNhnRom8IeMVCSGp4AaABAg,0,After, [[After]] a long time bro,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyDFJE3aoUkHsF-IOB4AaABAg,9,as,to people without number [[as]] u have showed sm,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwazDGUwiVohQXECHR4AaABAg,23,basa,"lage, r vai amr [[basa]] borisal a plz vai",ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugw9NWKcyh8-V7HkTXd4AaABAg.9kpO8PJkgF-9mE8Il-_KCB,0,Joni," [[Joni]] is best, 💝🌺",ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'Joni' is more accurately 'ROM_BAN' than silver 'ENG'.
+Ugxgx3ZT8_om6yxuJQN4AaABAg,4,sobuj,revival point ta kinyu [[sobuj]] chilo😉😉😛,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzaJWVI-wDvDE5x3Ph4AaABAg,78,uid,প্লিজ প্লিজ প্লিজ ইউআইডি [[uid]] 12195447366 প্লিজ ভাই ব্যাম্বো,ENG,ENG,Linguistic word 'uid' mislabeled as OTHER (symbol) in silver data.
+UgxkRenKkDgeLwQ1D6B4AaABAg,2,er,bhai phone [[er]] dam eto barche je,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxjiYY7X0THDqpkTGt4AaABAg,0,Fast, [[Fast]] ❤❤❤,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxFX3XsXdvKMe4IOQV4AaABAg.A_kr1YtbhM-A_lOnWp2Vxz,21,হবে!,চিন্তায় নেই তাহলে কেমন [[হবে!]] ,BAN,BAN,Linguistic word 'হবে!' mislabeled as OTHER (symbol) in silver data.
+UgwSYpD9lURDyXZ_UY14AaABAg,5,মোবাইল🤣🤣,বাড়ার আগেই কিনে ফেলছিলাম [[মোবাইল🤣🤣]] ,UNK,UNK,Token 'মোবাইল🤣🤣' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgyxzR2TUGXTt2mpPpx4AaABAg,4,asi🙂😀🍁,All epishod ar sata [[asi🙂😀🍁]] ,UNK,UNK,Token 'asi🙂😀🍁' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+Ugxg8pGob7bwWQFPaDx4AaABAg,6,😆,নাটক আমাকে অনেক হাসাচ্ছে [[😆]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugz-2tJmZcTsB3UJx7h4AaABAg,5,pabg,ai rikoyel ta onekta [[pabg]] er moto mone hoitase,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'pabg' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgwAXFGZka-L-V8EEhF4AaABAg,1,Waiting❤,"Wohhh, [[Waiting❤]] ",ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgxZFM7kWY3WanHdcRJ4AaABAg,1,galaxy,Bhai [[galaxy]] M47 er review chai❤❤,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwOxbEBDseYPk5nRDN4AaABAg,80,Collaboration,shara jibon joto Anime [[Collaboration]] Event Ashbe Shei Shob,ENG,ENG,Confident learning flag confirmed: 'Collaboration' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgxbJvoYov6r5r87aOx4AaABAg,1,day,Bhai [[day]] by day ❤good brother,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzYzdOlbgoJW03bTLp4AaABAg,3,না।,"গেইম মেইন ফ্যাক্ট [[না।]] ক্যামেরা ,রেগুলার ইন্টারনেট সোস্যাল",BAN,BAN,Linguistic word 'না।' mislabeled as OTHER (symbol) in silver data.
+UgzwWjPO9gl9-hFwUxV4AaABAg,15,on,"lose all the hair [[on]] your head.""😁😁🤣",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzYcIjoU5W5FxHRSll4AaABAg,24,ভাই,50k 60k এর মধ্যে।piz [[ভাই]] জানালে উপকার হতো🙏🙏,BAN,BAN,Bengali script word 'ভাই' mislabeled as ROM_BAN in silver data.
+Ugw3ls5n1l-g5I-E3YB4AaABAg,4,any,Get region taitel in [[any]] weapon ❤,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxtBf24BypPeXH2_ON4AaABAg,4,ফ্যামিলির,"জন্মের পর বাবার মৃত্যু, [[ফ্যামিলির]] ডাউনফল, ফ্যামিলির লাক্সারি লাইফ",BAN,BAN,Bengali script word 'ফ্যামিলির' mislabeled as ROM_BAN in silver data.
+UgzBL-9v_9oFSmdD5-R4AaABAg,10,বেষ্ট,কোন টা সব থেকে [[বেষ্ট]] হবে,BAN,BAN,Bengali script word 'বেষ্ট' mislabeled as ROM_BAN in silver data.
+UgwOxbEBDseYPk5nRDN4AaABAg,113,match,tai khelte parben 2nd [[match]] er kono option nai,ENG,ENG,Confident learning flag confirmed: 'match' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgwlyDBogvJLrZGq1VV4AaABAg,1,case,Amar [[case]] anek baloney lage,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'case' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgysSD-fbNjxLQbdqsF4AaABAg,0,Bhai, [[Bhai]] ki nothing hater ???,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugx1WxrmcngplKDA07N4AaABAg,63,enemy,meddy korar agei oi [[enemy]] ke kill korte hobe🐰,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'enemy' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgxfnqH4kxG8Fv4pmZ54AaABAg,4,sesh😁😂,Vai ami haste haste [[sesh😁😂]] ,UNK,UNK,Token 'sesh😁😂' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+UgxlOVHKI_HUbLiJ6I94AaABAg,0,22:21, [[22:21]] Are aste moira jaibo,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugz3_o0C4Rf8rulTMb94AaABAg,7,amra,rafshan tha choto vai [[amra]] ki pabO naki,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxvribbjbCev6jG-fx4AaABAg,2,ar,Dance tay [[ar]] aktu damaka hoile aro,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgyGA_PyqNo3pw1hquN4AaABAg,14,BF☯⁠‿⁠☯⁠J+N🥺🥺🥺🥺🥺🙏🙏🙏🙏,কোড :3827512102 ❤❤ name [[BF☯⁠‿⁠☯⁠J+N🥺🥺🥺🥺🥺🙏🙏🙏🙏]] ,UNK,UNK,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+UgzrG271CZoaxSx9ziN4AaABAg,1,my,Yes [[my]] favorites zone china❤❤❤,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugxlu7Iw-vg9xcPB6Zd4AaABAg,14,i,and iphone but still [[i]] dont win TT-TT,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwT-sp1RG0xmw9YEyt4AaABAg,10,jayean,abr jate r hariya [[jayean]] na bhai !! 🥹🩶🩶🩶,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugw54M97UE8ST75YlZN4AaABAg,34,phone,theke sunte je ay [[phone]] ta ki kina jabe,ENG,ENG,English word 'phone' mislabeled as ROM_BAN in silver data.
+UgzId6SalOa4xXQgWdZ4AaABAg,2,Myanmar,IOM from [[Myanmar]] Muslim rohingya refugee camp,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugw_hML1N4a88M1r_1B4AaABAg,5,Karim,Ramadan video 😅 Ramadan [[Karim]] Ajaira ltd members,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'Karim' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgxxgSS952SjMuJ3bCd4AaABAg,23,Munshigonj🖤,দিয়েন 🥰🥰 love from [[Munshigonj🖤]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgwNY-ezc9VDu8xx9Kl4AaABAg,20,প্লিজ,টপ আপ করতে পারছিনা [[প্লিজ]] ভাই কিছু ডায়মন্ড টপ,BAN,BAN,Bengali script word 'প্লিজ' mislabeled as ROM_BAN in silver data.
+UgyT2WAFnEGlOdymtFd4AaABAg,13,and,to say about it [[and]] I don't know,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwqwdI8tci4Bq9llt94AaABAg,27,reply,tau dekhbo jodi akta [[reply]] paitam apnader kach theke,ENG,ENG,Confident learning flag confirmed: 'reply' is more accurately 'ENG' than silver 'ROM_BAN'.
+Ugwgv7Fc2jU8ANGYL-h4AaABAg,3,emote,chhandu give away [[emote]] uid 16105890483🥲🥲🥲🥲🥲🥲🥲🥲,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzDyPrf4EFShR0pLn14AaABAg,13,"awesome,,,","aei background music ta [[awesome,,,]] onk din por shunlam",OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgzIeKtbPNXRd3pqyHt4AaABAg,14,ভাই,কিন্ত রিপলাই পাইনাই প্লিজ [[ভাই]] MP5 আর AWM এর,BAN,BAN,Bengali script word 'ভাই' mislabeled as ROM_BAN in silver data.
+UgxHWl_9BATh5sv7qpV4AaABAg,0,Kabbor, [[Kabbor]] views down tai Triple,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugwhga0SzDG__Fu6f8p4AaABAg,3,🫀❤️,Love from heart [[🫀❤️]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgxSaL57SCPC8Ysvti94AaABAg,9,den,ta niye akta video [[den]] ata bortomane market kemon,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugyze6vnG3aluo2XmKh4AaABAg,12,Mangsho,definitely try the Hasher [[Mangsho]] on Derai Rasta .,ENG,ENG,Confident learning flag confirmed: 'Mangsho' is more accurately 'ENG' than silver 'ROM_BAN'.
+UgyHWDGohqtFSDxb-Ap4AaABAg,3,official,Samz vi an [[official]] phon harey geley ki,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyWR_11ZKzTfpLLLSF4AaABAg,30,the,many Happy little of [[the]] day 💞💓,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzoXyVlyDYcNDAXLjF4AaABAg,9,respect,the best ever. Huge [[respect]] bro. Keep it up.,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxQsMzQAxZYq4G3hYx4AaABAg,0,Vai, [[Vai]] apnar editor re gemini,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgyPpaPjwy8NoeP8vzN4AaABAg,0,Era, [[Era]] valo player,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'Era' is more accurately 'ROM_BAN' than silver 'ENG'.
+Ugw1_0kw9j5AspIlJR14AaABAg,10,Parang,Parang use korsen But [[Parang]] white color er cilo,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwcfRgJIo9PA9f3nZp4AaABAg,7,ভাইয়া..,পুরো বাস্তববাদী হইছে❤ ভাল্লাগছে [[ভাইয়া..]] প্র্যান্কিং এর পোলাপানদের থেকে,BAN,BAN,Valid linguistic word 'ভাইয়া..' mislabeled as UNK in silver data.
+UgwM5lfTOE7shVALJox4AaABAg,0,DUDEEE!!!!, [[DUDEEE!!!!]] Without wasting a single,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxJ2f5m8veb3wlTzYt4AaABAg,25,iPhone,উচিত। ফোনের মডেল হলো [[iPhone]] 15 pro max. উত্তর,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxieEDbvnKypGPsyCB4AaABAg,5,cdu,valo colbei ar ei [[cdu]] youtuber ra to promote,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugx6eHuQOV08iaLzyeF4AaABAg,1,k,ma [[k]] valobashle amre den vai,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgyKhSMuEO95oxN3sGB4AaABAg,0,Sob, [[Sob]] e dream vai koto,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugz8wlxraz-GF87a2ip4AaABAg,44,বিগত,নিয়ে কাজ করছে আজকে [[বিগত]] ১০ বছর ধরেই ফাইভ-জি,BAN,BAN,Linguistic word 'বিগত' mislabeled as OTHER (symbol) in silver data.
+UgxiNhCK_w07zEROTq14AaABAg,0,50k, [[50k]] vetor ki phone valo,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugx6crI1_86oiPHcmAx4AaABAg,8,to,banaise bhalo hoise hAlay [[to]] kun din pagol hoye,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'to' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgzLQ8NuPjWARfqrLeV4AaABAg,17,😂😂😂😂,পেটে ব্যাথা হয়ে গেছে [[😂😂😂😂]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgzCYe721Sn3bYKcJCh4AaABAg,15,ltt,jacche. Tnx The Ajaira [[ltt]] ,ENG,ENG,Valid linguistic word 'ltt' mislabeled as UNK in silver data.
+UgxCo9Jn2pwK18cz67h4AaABAg,0,Et, [[Et]] theke valo hobe used,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxQW-j--OssibKJk7d4AaABAg,23,dekaw....,you bro parle kore [[dekaw....]] love from Sylhet ....😊,ROM_BAN,ROM_BAN,Valid linguistic word 'dekaw....' mislabeled as UNK in silver data.
+UgytS8IY08laa294rol4AaABAg.A_ovaBFxYrIA_ovfdaUJGb,0,Vai, [[Vai]] amake kicu gift 🎁,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugyq2NPF13jkuMK9d194AaABAg,2,e,30-35k budget [[e]] video chai❤❤,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugwacze8k4kUn_IJ13x4AaABAg.A_gzoEsyTkDA_hz9Lt5dIj,34,inshallah.....jara,jannat o dite pare [[inshallah.....jara]] khete pare thakte pare,ROM_BAN,ROM_BAN,Valid linguistic word 'inshallah.....jara' mislabeled as UNK in silver data.
+UgxL-H3HJgfw7OxJbCd4AaABAg,5,theke,vai apnake class 6 [[theke]] folo kori akhon class,ROM_BAN,ROM_BAN,Confident learning flag confirmed: 'theke' is more accurately 'ROM_BAN' than silver 'ENG'.
+UgyYVhgnDOmumMMAvmx4AaABAg,1,bodmaish,Vai [[bodmaish]] polapain er poroborti episode,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugz4yAR4Pv82dNROs2J4AaABAg,0,nice💖, [[nice💖]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+Ugy2-Wz__67NVXadOt14AaABAg,6,❤PLICE,PLICE PLICE PLICE ❤PLICE [[❤PLICE]] ❤PLICE ❤PLICE ❤PLICE ❤PLICE,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgwA1eVX_66zjr67mDV4AaABAg,2,r,mr. triple [[r]] এর ui আইড়ির নামবার,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz_1dBnGB0yCNyd5E94AaABAg,0,Ami, [[Ami]] onk chesta korsi etar,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxQV6jwE81s_KZ_Co94AaABAg,6,চাও,চান দুর ফেইস রিবিল [[চাও]] ,BAN,BAN,Bengali script word 'চাও' mislabeled as ROM_BAN in silver data.
+Ugxgx3ZT8_om6yxuJQN4AaABAg,5,chilo😉😉😛,point ta kinyu sobuj [[chilo😉😉😛]] ,UNK,UNK,Token 'chilo😉😉😛' has heavy emoji/punctuation glue; tokenization artifact (UNK).
+Ugxoi0CVXfcGLsJ3lV94AaABAg,2,hoice....waiting,Wow joss [[hoice....waiting]] for you,ROM_BAN,ROM_BAN,Valid linguistic word 'hoice....waiting' mislabeled as UNK in silver data.
+UgwprasoGHxk6J0Y1Zl4AaABAg,11,telephoto+8MP,"tao Valo ache, 50MP [[telephoto+8MP]] ultrawide zoom lance ache",ENG,ENG,Linguistic word 'telephoto+8MP' mislabeled as OTHER (symbol) in silver data.
+UgwcWFDLEim63UWM8wN4AaABAg,21,yet,"followed you on Instagram, [[yet]] you still haven't called.",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyTa6zK2d9Qahn71IJ4AaABAg,4,Ajairaaas❤️🩹🥺,After a Long Time [[Ajairaaas❤️🩹🥺]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgyWsG-avz1k5GjutHF4AaABAg,23,নুরুল্লাহ,লাভ ফ্রম মিরপুর আদিব [[নুরুল্লাহ]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgzQRnzLA4nLq-kLBi94AaABAg,6,😊🥀,টা ইমোশনাল করে দিয়েছে! [[😊🥀]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgzOm1XUaWeXhBB2GrZ4AaABAg,3,legend,You are the [[legend]] Mr Triple R ❤❤❤❤❤,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwQniGi2ZE5BC0jmJ54AaABAg,7,bad,amr badluck ta ato [[bad]] je kokhono kono gift,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgzIGo6OeuJFT0rLgjp4AaABAg,13,ট্রিটে,রান্না করা খাবার চাই [[ট্রিটে]] 😊,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgzFLbJsQ48SsxzIWDd4AaABAg,2,er,2nd channel [[er]] video koi,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxLfpfc04rBPlhOOQt4AaABAg,0,Vai, [[Vai]] akhon projonto koue birthday,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzBBCCHVc6-wH4OIu14AaABAg,2,plz,oo chandu [[plz]] 1 ta weekly emote,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgyL_OvNa4obFy8Ybl54AaABAg,3,dost,Finally this video [[dost]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgyPfxDdN-9p3bLdTRd4AaABAg,58,হচ্ছে,ফোন নিতে ওর পছন্দ [[হচ্ছে]] realmi 16 pro এখন,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgykMH_i_uYl93yWdpp4AaABAg,3,o,ami ak taka [[o]] pai nai amar 2000,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugy2Z4XaoKdPsJbWSrV4AaABAg,9,Gift,burger khawaiso + kono [[Gift]] dow nai amar comment,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxVw4r22QYVdC2OSx54AaABAg,13,😢,Slow vs squard এ। [[😢]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgxASRLI9YSiTe3gV-R4AaABAg,0,I❤U, [[I❤U]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+Ugypx8fqFfFYAbsTqk94AaABAg,9,ache,..sathe r ekta reason [[ache]] amr choto Mehedi page,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzlLn-IZnufD2PbsvF4AaABAg,4,phn,Bro gift for i [[phn]] 13 pro plz 😫,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugx-4IqBwsBjVo7GZO94AaABAg,8,vai🙏,my uid:-623400255 plez add [[vai🙏]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugya4GW30E0NV4K3_9J4AaABAg,1,cameback😮😮,Bai [[cameback😮😮]] ,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+Ugx9TTkSGmQl6eh5ONB4AaABAg,5,না🙂,পুলাপান কি ব্যাক হবে [[না🙂]] ,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+UgwMJTpyS7fOD9lS73V4AaABAg,2,লাস্ট,ভাই আমি [[লাস্ট]] এ কান্না কইরা দিচি🥺,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgwNhFL2OGVPgQ1Zggt4AaABAg,1,vai❤❤❤,Assalamualaikum [[vai❤❤❤]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugxafy6VtyQrqETGTEp4AaABAg,6,Because,i watching your vidieo [[Because]] i like your vidieo,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz9VZTdT-3Cplux7vV4AaABAg,0,Vai, [[Vai]] apni normal phn er,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugzr2HWZBPL54xOjofN4AaABAg,0,❤❤❤❤❤অনেক, [[❤❤❤❤❤অনেক]] সুন্দর হয়েছে নাটকটা❤,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+UgzRYwMGBx19t_TyvDJ4AaABAg,14,a,",,,,and solo Vs squar [[a]] ,,, booyah Korte hobe",ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz_1dBnGB0yCNyd5E94AaABAg,6,kintu,chesta korsi etar jonno [[kintu]] here giye buk fete,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgxuVRNabKFWhIQRBI54AaABAg,1,comment,1st [[comment]] 🙂,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugw4sy3EbSxoG1ptqPF4AaABAg,1,song❤❤❤❤,best [[song❤❤❤❤]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+Ugxxr3ZUN1ttsVDSL-Z4AaABAg,9,weekly,vhai 7m er subeccha...Ekta [[weekly]] diyo...parle monthly..uid...6789626690,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyYCVTDUdWApdp5vZZ4AaABAg,4,a5,Amar kache ektu redmi [[a5]] ache 😢 jetar display,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+Ugz2O823B-orIqpmD714AaABAg,53,issue,"high fps e). Heating [[issue]] r problem onnek common,",ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgyNoYPK93pGFyYNzcp4AaABAg,0,🥺Ami, [[🥺Ami]] apner anek boro fan!!,UNK,UNK,Silver label 'UNK' confirmed correct.
+UgycKv47QG3mLxiny3Z4AaABAg,0,swedish, [[swedish]] frnd have little sausage,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz2O823B-orIqpmD714AaABAg,57,"common,","issue r problem onnek [[common,]] + battery o otto",OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgyWsG-avz1k5GjutHF4AaABAg,21,মিরপুর,ভালো হবে। লাভ ফ্রম [[মিরপুর]] আদিব নুরুল্লাহ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugyhi-EDzIhubxgrGaV4AaABAg,36,Sam,সাল থেকে শুরু করেছেন। [[Sam]] vai ২০২২ সাল থেকে,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugxq8-CvfTDV4wLjOi14AaABAg,1,video,Nice [[video]] ixcilan,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgyVP9NrwmnPjmBHwPx4AaABAg,13,😕,লাগে না খেলেন কিভাবে? [[😕]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+Ugy0s_BTJYKyRvbOpeR4AaABAg,68,hobe.🐰🐰,enemy ke kill korte [[hobe.🐰🐰]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgySwzfWg39_SbdewaB4AaABAg,7,Collab,shathe free fire ke [[Collab]] korar kotha bolen,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+Ugyy9bw84RjU38FoH9J4AaABAg,12,Tanzim,"Heron, Ayesha Salma Mukti, [[Tanzim]] Hasan Anik, Makhnun Sultana",ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgyLKGRDXnB96z4xSXx4AaABAg,22,pls,pls pls pls pls [[pls]] pls pls pls pls,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzW0f-4jYs15HDHXF54AaABAg,7,active,ke bhalobase taken amake [[active]] iPhone 12 Pro divin❤,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugz8_0xgmKxyfRq63y54AaABAg,13,kya,13322272880please please 😢😢😢😢😢😢😢😢😢😢Ami Apna [[kya]] onik invite patechi please,UNK,UNK,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+UgxmpJ0MFink_sYHrNR4AaABAg,0,Sunera, [[Sunera]] apu ke vhalobasle amake,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugxfm5lLPecuIIt1PJZ4AaABAg,1,a,Chittagong [[a]] toh kokhono kaoke den,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugz2LOjD0qymsbc2jyp4AaABAg,0,9607491013, [[9607491013]] বাই ৬বছর আগে থেকে,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgxkzMRFBiKnLkmOYPB4AaABAg,35,pro+,"k80, Redmi note 15 [[pro+]] and aro.... Konta best",ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugxcm3551B4AVSv32fd4AaABAg,10,😂😂😂,বার ছি ছি করছে [[😂😂😂]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgyRRxF9HzlVHyfpf9J4AaABAg,3,bade,Mone hoitese Ami [[bade]] sobai gift pay,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwU_QOrgv7s2LEuTPZ4AaABAg,5,লাগে😊😊😊😊❤❤❤❤❤,আপনার ভিডিও খুব ভালো [[লাগে😊😊😊😊❤❤❤❤❤]] ,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+UgwskjALIKuVGv3fc1N4AaABAg,0,Hello, [[Hello]] vaiya❤ Happy birthday 🎈,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgzIeKtbPNXRd3pqyHt4AaABAg,10,কিন্ত,ধরে দেখছি Coment ওকরছি [[কিন্ত]] রিপলাই পাইনাই প্লিজ ভাই,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgxlpHn5-3JLGEHH_2N4AaABAg,36,গিফট,পাওয়া আমার জীবনের সেরা [[গিফট]] হবে। অল দ্য বেস্ট,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgzLUiBBdkj94vMHjm54AaABAg,3,(বোকলম)🫡,সেরা অভিনয় নিলয় [[(বোকলম)🫡]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgxPecdKnbSTL62qBrN4AaABAg,7,7up,7up 7up 7up 7up [[7up]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgwmvB9DllQuN4nK5NV4AaABAg,5,r,polapain er character gulo [[r]] moddhe sob theke matured,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+Ugy4v1hclNIWGbaep-J4AaABAg,31,really,engaging is something I [[really]] enjoy. 😭💗,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgxGGyrOhn4GBALrgtp4AaABAg,4,er,ChotoBhai er energy level [[er]] shathe match kora ekhono,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgwsBw6PA8ja4p4uxRZ4AaABAg,0,First, [[First]] 1mnt thik cilo trailer,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgybdNq5ExOYy6nigmp4AaABAg,6,°᭄IM,LOVE U ࿐ BORO [[°᭄IM]] BIG°᭄ FAN ࿐PIECE °᭄ADD,UNK,UNK,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+UgxfG4AXLTpLmi4Yhkp4AaABAg.AZti160CxrtAZtiGZCDAHg,4,pan🫂,Dowa kori jate apni [[pan🫂]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugzv65S___qN2L7MF4R4AaABAg.AWW1UNFwQULAWW2rHtWds9,2,❤❤,Wow vai [[❤❤]] ,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgzjllF9FKOBEs-avYJ4AaABAg,3,great,I am the [[great]] estren developer,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugz_a1GjcppD_U8VXd14AaABAg,2,sultan,Ulala tipu [[sultan]] ki Kala😂😂😂😂,ENG,ENG,Silver label 'ENG' is defensible in context; confident learning flag is false alarm.
+UgxCldRcu_dUUoOmLdB4AaABAg,0,Best, [[Best]] wishes,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugwagl2sGZ3SadN5v0Z4AaABAg,10,"work,Big","such kind of great [[work,Big]] Salute Brother❤",ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwywGzKuFMSwwVesx94AaABAg,0,Aunty, [[Aunty]] ke bhalobeshe thakle mane,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgzCoAvLToROQ4mSifJ4AaABAg,10,UID:13905032129😢😢❤😢,কিন্তু ধরেনি। এবারকা ধরেন [[UID:13905032129😢😢❤😢]] 😢 King ARHAM 😢,UNK,UNK,Silver label 'UNK' is defensible in context; confident learning flag is false alarm.
+UgxMCCBSeOzDomqJC3p4AaABAg,3,ঘড়িব,ভাই আমি অনেক [[ঘড়িব]] টপ আপ করার সামর্থ্য,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+Ugw6n_zX2ZZ62696Bdh4AaABAg,0,"হাই,💗"," [[হাই,💗]] ",OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+Ugxo7SLd0oBZWYlBHfl4AaABAg,6,sara,ar fan ra kotai [[sara]] den❤,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' confirmed correct.
+UgzkS93FyYu9_CJ-TQ94AaABAg,10,করি😢,আমার আম্মুর ফোন ইউজ [[করি😢]] ,BAN,BAN,Silver label 'BAN' is defensible in context; confident learning flag is false alarm.
+Ugy4v1hclNIWGbaep-J4AaABAg,21,a,way you make even [[a]] simple food vlog feel,ENG,ENG,Silver label 'ENG' confirmed correct.
+Ugyqaj_84QmEFPqJ1_Z4AaABAg,0,If, [[If]] you don't gimme the,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwAZlZY5sSFfjyuoGB4AaABAg,1,lagbe😔😔,Iphone [[lagbe😔😔]] ,ROM_BAN,ROM_BAN,Silver label 'ROM_BAN' is defensible in context; confident learning flag is false alarm.
+UgzmpDKaT8I-AT1Ia3N4AaABAg,9,this😂😂,left disen i see [[this😂😂]] ,OTHER,OTHER,Silver label 'OTHER' is defensible in context; confident learning flag is false alarm.
+UgyHfRWcJA5uB2LRwmJ4AaABAg,5,time,you colabeated too much [[time]] and love for you,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwuEXAGlnC07AQlna14AaABAg,5,2021,bhai ami apnar video [[2021]] theke dekhi plz bahi,OTHER,OTHER,Silver label 'OTHER' confirmed correct.
+UgyN9IqMo-Y6W3KqJY54AaABAg,22,Weaker”,“Every Kill Makes Me [[Weaker”]] Challenge আছে! 🔥 প্রতিটা,ENG,ENG,Silver label 'ENG' confirmed correct.
+UgwFmybo1QIl2WHX_pZ4AaABAg,105,love,I love you I [[love]] u i love u,ENG,ENG,Silver label 'ENG' confirmed correct.

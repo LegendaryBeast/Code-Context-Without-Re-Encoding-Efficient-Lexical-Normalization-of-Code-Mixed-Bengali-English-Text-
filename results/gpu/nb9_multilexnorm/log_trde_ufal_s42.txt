@@ -1,0 +1,18 @@
+[trde_ufal_s42] chunks train 11490 val 1283 test 3735 | align {'aligned': 720, 'recovered': 0, 'dropped': 0} (1s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 12113.11it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[trde_ufal_s42] banglamix: 352 micro-batches | padded encoder bytes max 4096 mean 3924 | padded decoder bytes max 1248 mean 555
+[trde_ufal_s42] stage=banglamix epoch=0 train_loss=1.483 train_min=10.854 oom_splits=0 oom_skipped=0 peak_GB=12.165 val_CER=4.860
+[trde_ufal_s42] stage=banglamix epoch=1 train_loss=0.160 train_min=10.838 oom_splits=0 oom_skipped=0 peak_GB=12.336 val_CER=4.896
+[trde_ufal_s42] stage=banglamix epoch=2 train_loss=0.107 train_min=10.835 oom_splits=0 oom_skipped=0 peak_GB=12.264 val_CER=2.666
+[trde_ufal_s42] stage=banglamix epoch=3 train_loss=0.080 train_min=10.829 oom_splits=0 oom_skipped=0 peak_GB=12.214 val_CER=2.666
+[trde_ufal_s42] stage=banglamix epoch=4 train_loss=0.061 train_min=10.836 oom_splits=0 oom_skipped=0 peak_GB=12.264 val_CER=2.460
+[trde_ufal_s42] stage=banglamix epoch=5 train_loss=0.049 train_min=10.827 oom_splits=0 oom_skipped=0 peak_GB=12.264 val_CER=2.412
+[trde_ufal_s42] stage=banglamix epoch=6 train_loss=0.038 train_min=10.825 oom_splits=0 oom_skipped=0 peak_GB=12.178 val_CER=2.254
+[trde_ufal_s42] stage=banglamix epoch=7 train_loss=0.032 train_min=10.829 oom_splits=0 oom_skipped=0 peak_GB=12.353 val_CER=2.254
+[trde_ufal_s42] stage=banglamix epoch=8 train_loss=0.028 train_min=10.834 oom_splits=0 oom_skipped=0 peak_GB=12.336 val_CER=2.133
+[trde_ufal_s42] stage=banglamix epoch=9 train_loss=0.022 train_min=10.839 oom_splits=0 oom_skipped=0 peak_GB=12.353 val_CER=2.157
+[trde_ufal_s42] free  CER=3.16 WER=13.40 Exact=23.14 TokAcc=89.78 TokAcc_OOV=77.08 decoded=100.0% words/s=261 end-to-end words/s=50 encoder_bytes=421356
+[trde_ufal_s42] free+guard  CER=3.16 WER=13.40 Exact=23.14
+[trde_ufal_s42] done

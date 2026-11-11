@@ -1,0 +1,23 @@
+{
+ "Script rule": {
+  "ci_low": 48.859396878532856,
+  "ci_high": 51.05195286273728
+ },
+ "Train lexicon + rule": {
+  "ci_low": 71.97966304283756,
+  "ci_high": 74.68667259096962
+ },
+ "Char n-gram LR (token)": {
+  "ci_low": 84.18003020600389,
+  "ci_high": 87.33579386713063
+ },
+ "Char n-gram LR + context(\u00b12)": {
+  "ci_low": 84.52307798104675,
+  "ci_high": 87.50973308952148
+ },
+ "CRF (char n-gram + context)": {
+  "ci_low": 84.89111843954738,
+  "ci_high": 88.23043489876567,
+  "p_value": 0.132
+ }
+}

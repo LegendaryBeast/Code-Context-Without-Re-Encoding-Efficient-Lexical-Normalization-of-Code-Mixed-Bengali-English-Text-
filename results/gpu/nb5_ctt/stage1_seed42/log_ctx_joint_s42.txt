@@ -1,0 +1,15 @@
+[ctx_joint_s42] chunks train 12761 val 537 test 1607 | align {'aligned': 9399, 'recovered': 656, 'dropped': 3} (71s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 10595.25it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[ctx_joint_s42] banglamix: 2571 micro-batches | padded encoder bytes max 795 mean 381 | padded decoder bytes max 2048 mean 1277
+[ctx_joint_s42] stage=banglamix epoch=0 train_loss=0.689 train_min=19.572 oom_splits=0 oom_skipped=0 peak_GB=7.395 val_CER=8.332 val_LID_MacroF1=80.734
+[ctx_joint_s42] stage=banglamix epoch=1 train_loss=0.179 train_min=19.565 oom_splits=0 oom_skipped=0 peak_GB=7.404 val_CER=5.993 val_LID_MacroF1=86.697
+[ctx_joint_s42] stage=banglamix epoch=2 train_loss=0.143 train_min=19.569 oom_splits=0 oom_skipped=0 peak_GB=7.360 val_CER=5.574 val_LID_MacroF1=87.803
+[ctx_joint_s42] stage=banglamix epoch=3 train_loss=0.118 train_min=19.539 oom_splits=0 oom_skipped=0 peak_GB=7.304 val_CER=5.066 val_LID_MacroF1=87.826
+[ctx_joint_s42] stage=banglamix epoch=4 train_loss=0.099 train_min=19.646 oom_splits=0 oom_skipped=0 peak_GB=7.381 val_CER=4.516 val_LID_MacroF1=87.904
+[ctx_joint_s42] free  CER=4.43 WER=9.42 Exact=58.92 TokAcc=92.63 TokAcc_OOV=77.96 decoded=99.9% words/s=142
+[ctx_joint_s42] LID F1_BAN=97.97 F1_ENG=93.37 F1_ROM_BAN=94.58 F1_OTHER=90.55 F1_UNK=59.64 MacroF1=87.22 Acc=94.72 Kappa=0.92 OOV_Acc=83.74 IV_Acc=96.86
+[ctx_joint_s42] copy  CER=4.27 WER=9.43 Exact=59.00 TokAcc=92.62 TokAcc_OOV=78.38 decoded=49.1% words/s=210
+[ctx_joint_s42] lid   CER=5.70 WER=10.74 Exact=52.97 TokAcc=91.20 TokAcc_OOV=72.50 decoded=47.3% words/s=214
+[ctx_joint_s42] done

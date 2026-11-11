@@ -1,0 +1,3 @@
+system,MacroF1,Acc,well_formed
+Qwen/Qwen2.5-7B-Instruct 8-shot,39.26833555833024,52.901023890784984,63.0
+CRF (same subset),85.84660383573427,93.71038517796197,100.0

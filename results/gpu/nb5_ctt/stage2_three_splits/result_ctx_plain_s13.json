@@ -1,0 +1,116 @@
+{
+ "args": {
+  "variant": "ctx_plain",
+  "seed": 13,
+  "mode": "focus",
+  "model": "google/byt5-small",
+  "tiny": 0,
+  "epochs": 5,
+  "lr": 0.0003,
+  "batch_words": 48,
+  "max_chunks": 8,
+  "accum": 2,
+  "max_enc_tokens": 2048,
+  "max_dec_tokens": 2048,
+  "max_word_bytes": 64,
+  "src_budget": 160,
+  "max_word_tgt": 160,
+  "lam": 0.0,
+  "inject": 0,
+  "ext_lid": "none",
+  "copy_mu": 0.0,
+  "copy_tau": 0.9,
+  "detach_heads": 0,
+  "align": 1,
+  "pretrain_aksharantar": 0,
+  "pretrain_epochs": 1,
+  "val_comments": 400,
+  "gen_bs": 48,
+  "input": "/kaggle/input",
+  "out": "/kaggle/working/ctt",
+  "subsample": 0
+ },
+ "history": [
+  {
+   "stage": "banglamix",
+   "epoch": 0,
+   "train_loss": 0.3937776483869766,
+   "train_min": 20.4275812069575,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.388535499572754,
+   "val_CER": 10.14521289687423
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 1,
+   "train_loss": 0.06325618674263252,
+   "train_min": 20.80164664189021,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.388535499572754,
+   "val_CER": 5.301501353679547
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 2,
+   "train_loss": 0.04501697485511773,
+   "train_min": 20.819353226820628,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.360047340393066,
+   "val_CER": 4.617277873492493
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 3,
+   "train_loss": 0.035389073828331445,
+   "train_min": 20.827013258139292,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.3244099617004395,
+   "val_CER": 4.021658872754123
+  },
+  {
+   "stage": "banglamix",
+   "epoch": 4,
+   "train_loss": 0.028774020074940572,
+   "train_min": 20.844848175843556,
+   "oom_splits": 0,
+   "oom_skipped": 0,
+   "peak_GB": 7.323294162750244,
+   "val_CER": 3.977356633029781
+  }
+ ],
+ "align": {
+  "aligned": 9406,
+  "recovered": 645,
+  "dropped": 4
+ },
+ "n_test_comments": 1263,
+ "n_test_chunks": 1617,
+ "n_test_words": 12463,
+ "norm": {
+  "free": {
+   "CER": 3.959713833343107,
+   "WER": 8.848,
+   "Exact": 61.8368962787015,
+   "TokAcc": 93.12597503900156,
+   "TokAcc_BAN": 98.84494909945184,
+   "TokAcc_ENG": 89.0692124105012,
+   "TokAcc_ROM_BAN": 85.81213307240705,
+   "TokAcc_OTHER": 89.35897435897436,
+   "TokAcc_UNK": 80.78602620087337,
+   "TokAcc_OOV": 78.51722124927029,
+   "TokAcc_direct": 92.24289549199295,
+   "word_count_match_share": 98.21580288870008
+  }
+ },
+ "efficiency": {
+  "free": {
+   "gen_seconds": 95.23448204994202,
+   "decoded_word_share": 99.95185749819466,
+   "words_per_sec": 130.86646487418565
+  }
+ }
+}

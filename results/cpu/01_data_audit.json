@@ -1,0 +1,182 @@
+{
+ "n_comments": 12576,
+ "n_tokens": 120862,
+ "label_counts": {
+  "ROM_BAN": 26723,
+  "ENG": 28399,
+  "OTHER": 9094,
+  "BAN": 53972,
+  "UNK": 2674
+ },
+ "label_share": {
+  "ROM_BAN": 22.11,
+  "ENG": 23.5,
+  "OTHER": 7.52,
+  "BAN": 44.66,
+  "UNK": 2.21
+ },
+ "code_mix_type": {
+  "monolingual_BAN": 4090,
+  "ENG+ROM_BAN": 3429,
+  "monolingual_ENG": 2207,
+  "monolingual_ROM_BAN": 1328,
+  "BAN+ENG": 809,
+  "undetermined": 323,
+  "BAN+ENG+ROM_BAN": 202,
+  "BAN+ROM_BAN": 188
+ },
+ "script_type": {
+  "latin": 7201,
+  "bengali": 3577,
+  "mixed": 1712,
+  "other": 86
+ },
+ "aligned_comments": 11742,
+ "aligned_share": 93.37,
+ "identity_rate_raw": {
+  "BAN": 96.9,
+  "ENG": 3.04,
+  "ROM_BAN": 2.22,
+  "OTHER": 84.55,
+  "UNK": 34.87
+ },
+ "identity_rate_unicode_normalized": {
+  "BAN": 98.32,
+  "ENG": 3.11,
+  "ROM_BAN": 2.23,
+  "OTHER": 84.58,
+  "UNK": 35.13
+ },
+ "top_BAN_target_changes": [
+  "বিডিও -> ভিডিও (15)",
+  "ফেন -> ফ্যান (10)",
+  "বাই -> ভাই (8)",
+  "আনেক -> অনেক (7)",
+  "এড -> অ্যাড (7)",
+  "এট -> অ্যাড (7)",
+  "গিফ্ট -> গিফট (6)",
+  "চেলেন্জ -> চ্যালেঞ্জ (6)",
+  "কোন -> কোনো (6)",
+  "বেক -> ব্যাক (5)",
+  "ভাল -> ভালো (5)",
+  "বর -> বড় (4)",
+  "তেকে -> থেকে (4)",
+  "দরে -> ধরে (4)",
+  "রিপলাই -> রিপ্লাই (4)",
+  "মেচ -> ম্যাচ (4)",
+  "আসা -> আশা (4)",
+  "রিভিও -> রিভিউ (4)",
+  "সপ্নই -> স্বপ্নই (3)",
+  "জদি -> যদি (3)",
+  "দেকি -> দেখি (3)",
+  "পুরোন -> পূরণ (3)",
+  "ম্যাস -> ম্যাচ (3)",
+  "gun -> গান (3)",
+  "রেঙ্ক -> র্যাঙ্ক (3)"
+ ],
+ "types_total": 26016,
+ "types_ENG_and_ROMBAN": 583,
+ "tokens_in_ENG_ROMBAN_ambiguous_types": 23915,
+ "minority_label_tokens_freq_types(>=5)": 2042,
+ "minority_label_share_of_freq_type_tokens": 2.26,
+ "most_ambiguous_types": [
+  "to: {'ENG': 286, 'ROM_BAN': 117}",
+  "r: {'ENG': 114, 'ROM_BAN': 122}",
+  "a: {'ENG': 326, 'ROM_BAN': 93, 'UNK': 1, 'BAN': 2}",
+  "rafsan: {'ENG': 58, 'ROM_BAN': 170}",
+  "allah: {'ROM_BAN': 34, 'ENG': 48}",
+  "plz: {'ENG': 205, 'ROM_BAN': 25}",
+  "sam: {'ENG': 49, 'ROM_BAN': 21}",
+  "video: {'ENG': 553, 'ROM_BAN': 17}",
+  "fan: {'ENG': 164, 'ROM_BAN': 16, 'BAN': 1}",
+  "k: {'ROM_BAN': 61, 'ENG': 15, 'UNK': 1, 'OTHER': 2}",
+  "phone: {'ENG': 266, 'ROM_BAN': 14}",
+  "enemy: {'ENG': 34, 'ROM_BAN': 12}",
+  "e: {'ROM_BAN': 176, 'ENG': 11, 'OTHER': 1}",
+  "ma: {'ENG': 10, 'ROM_BAN': 21}",
+  "match: {'ENG': 37, 'ROM_BAN': 10}",
+  "kill: {'ENG': 67, 'ROM_BAN': 10}",
+  "ai: {'ROM_BAN': 57, 'ENG': 9}",
+  "or: {'ENG': 24, 'ROM_BAN': 9}",
+  "bro: {'ENG': 319, 'ROM_BAN': 9}",
+  "are: {'ENG': 137, 'ROM_BAN': 9}",
+  "vedio: {'ENG': 9, 'ROM_BAN': 33}",
+  "mashallah: {'ROM_BAN': 9, 'ENG': 12}",
+  "ep: {'ENG': 9, 'ROM_BAN': 9}",
+  "rrr: {'ENG': 60, 'ROM_BAN': 9, 'UNK': 3}",
+  "gun: {'ENG': 35, 'ROM_BAN': 9, 'BAN': 3}",
+  "ltd: {'ENG': 58, 'OTHER': 1, 'ROM_BAN': 9}",
+  "heron: {'ENG': 8, 'ROM_BAN': 40}",
+  "dhaka: {'ENG': 7, 'ROM_BAN': 12}",
+  "moto: {'ROM_BAN': 56, 'ENG': 7}",
+  "gift: {'ENG': 166, 'ROM_BAN': 6}"
+ ],
+ "script_x_label": {
+  "bn|BAN": 53892,
+  "bn|ENG": 179,
+  "bn|OTHER": 1001,
+  "bn|ROM_BAN": 467,
+  "bn|UNK": 802,
+  "lat|BAN": 42,
+  "lat|ENG": 28183,
+  "lat|OTHER": 1012,
+  "lat|ROM_BAN": 26227,
+  "lat|UNK": 1750,
+  "mix|BAN": 12,
+  "mix|ENG": 1,
+  "mix|OTHER": 7,
+  "mix|ROM_BAN": 16,
+  "mix|UNK": 71,
+  "none|BAN": 26,
+  "none|ENG": 36,
+  "none|OTHER": 7074,
+  "none|ROM_BAN": 13,
+  "none|UNK": 51
+ },
+ "near_duplicate_comments": 1260,
+ "near_duplicate_groups": 404,
+ "split_seed13": {
+  "train": 10055,
+  "test": 1263,
+  "val": 1258
+ },
+ "test_oov_token_rate_seed13": 17.32,
+ "split_seed42": {
+  "train": 10058,
+  "test": 1261,
+  "val": 1257
+ },
+ "test_oov_token_rate_seed42": 16.51,
+ "split_seed2026": {
+  "train": 10058,
+  "test": 1262,
+  "val": 1256
+ },
+ "test_oov_token_rate_seed2026": 17.06,
+ "draft_claims_vs_csv": {
+  "tokens": [
+   120866,
+   120862
+  ],
+  "BAN": [
+   53973,
+   53972
+  ],
+  "OTHER": [
+   9097,
+   9094
+  ],
+  "BAN_target_identity_claimed_100pct": [
+   100.0,
+   98.32
+  ],
+  "OTHER_target_identity_claimed_100pct": [
+   100.0,
+   84.58
+  ],
+  "second_annotator_labels_in_release": [
+   true,
+   false
+  ]
+ }
+}

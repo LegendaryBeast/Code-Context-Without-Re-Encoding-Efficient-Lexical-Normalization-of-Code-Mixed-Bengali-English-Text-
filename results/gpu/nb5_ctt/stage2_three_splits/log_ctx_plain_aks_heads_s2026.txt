@@ -1,0 +1,18 @@
+[ctx_plain_aks_heads_s2026] chunks train 12690 val 528 test 1592 | align {'aligned': 9396, 'recovered': 659, 'dropped': 3} (71s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 8463.60it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[ctx_plain_aks_heads_s2026] aksharantar: 1231428 pairs available, using 200000
+[ctx_plain_aks_heads_s2026] aksharantar: 4435 micro-batches | padded encoder bytes max 840 mean 475 | padded decoder bytes max 2048 mean 1760
+[ctx_plain_aks_heads_s2026] stage=aksharantar epoch=0 train_loss=0.296 train_min=39.884 oom_splits=0 oom_skipped=0 peak_GB=7.253
+[ctx_plain_aks_heads_s2026] banglamix: 2555 micro-batches | padded encoder bytes max 810 mean 381 | padded decoder bytes max 2048 mean 1277
+[ctx_plain_aks_heads_s2026] stage=banglamix epoch=0 train_loss=0.769 train_min=19.632 oom_splits=0 oom_skipped=0 peak_GB=7.258 val_CER=5.087 val_LID_MacroF1=73.380
+[ctx_plain_aks_heads_s2026] stage=banglamix epoch=1 train_loss=0.279 train_min=19.637 oom_splits=0 oom_skipped=0 peak_GB=7.382 val_CER=4.345 val_LID_MacroF1=73.487
+[ctx_plain_aks_heads_s2026] stage=banglamix epoch=2 train_loss=0.224 train_min=19.659 oom_splits=0 oom_skipped=0 peak_GB=7.243 val_CER=3.813 val_LID_MacroF1=74.995
+[ctx_plain_aks_heads_s2026] stage=banglamix epoch=3 train_loss=0.201 train_min=19.667 oom_splits=0 oom_skipped=0 peak_GB=7.307 val_CER=3.813 val_LID_MacroF1=75.594
+[ctx_plain_aks_heads_s2026] stage=banglamix epoch=4 train_loss=0.187 train_min=19.618 oom_splits=0 oom_skipped=0 peak_GB=7.272 val_CER=3.678 val_LID_MacroF1=75.870
+[ctx_plain_aks_heads_s2026] free  CER=3.45 WER=8.46 Exact=62.52 TokAcc=93.27 TokAcc_OOV=78.19 decoded=99.8% words/s=137
+[ctx_plain_aks_heads_s2026] LID F1_BAN=97.99 F1_ENG=91.89 F1_ROM_BAN=91.71 F1_OTHER=84.32 F1_UNK=9.84 MacroF1=75.15 Acc=92.79 Kappa=0.90 OOV_Acc=76.42 IV_Acc=96.10
+[ctx_plain_aks_heads_s2026] copy  CER=3.45 WER=8.46 Exact=62.60 TokAcc=93.26 TokAcc_OOV=78.25 decoded=53.8% words/s=194
+[ctx_plain_aks_heads_s2026] lid   CER=5.12 WER=10.21 Exact=54.20 TokAcc=91.44 TokAcc_OOV=69.99 decoded=47.8% words/s=225
+[ctx_plain_aks_heads_s2026] done

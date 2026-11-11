@@ -1,0 +1,16 @@
+[ctx_crf_rerun_s42] chunks train 12761 val 537 test 1607 | align {'aligned': 9399, 'recovered': 656, 'dropped': 3} (72s) | device cuda bf16 False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/172 [00:00<?, ?it/s]Loading weights: 100%|██████████| 172/172 [00:00<00:00, 10806.01it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+[ctx_crf_rerun_s42] banglamix: 2571 micro-batches | padded encoder bytes max 795 mean 381 | padded decoder bytes max 2048 mean 1277
+[ctx_crf_rerun_s42] stage=banglamix epoch=0 train_loss=0.393 train_min=22.721 oom_splits=0 oom_skipped=0 peak_GB=7.308 val_CER=6.806
+[ctx_crf_rerun_s42] stage=banglamix epoch=1 train_loss=0.065 train_min=22.795 oom_splits=0 oom_skipped=0 peak_GB=7.316 val_CER=5.053
+[ctx_crf_rerun_s42] stage=banglamix epoch=2 train_loss=0.047 train_min=22.819 oom_splits=0 oom_skipped=0 peak_GB=7.303 val_CER=5.613
+[ctx_crf_rerun_s42] stage=banglamix epoch=3 train_loss=0.037 train_min=22.803 oom_splits=0 oom_skipped=0 peak_GB=7.224 val_CER=3.816
+[ctx_crf_rerun_s42] stage=banglamix epoch=4 train_loss=0.030 train_min=22.812 oom_splits=0 oom_skipped=0 peak_GB=7.325 val_CER=3.685
+[ctx_crf_rerun_s42] free  CER=4.56 WER=8.79 Exact=60.27 TokAcc=93.26 TokAcc_OOV=78.44 decoded=99.9% words/s=135 end-to-end words/s=112 encoder_bytes=124364
+[ctx_crf_rerun_s42] free+guard  CER=3.85 WER=8.79 Exact=60.27
+[ctx_crf_rerun_s42] lid   CER=5.59 WER=10.11 Exact=54.48 TokAcc=91.74 TokAcc_OOV=72.68 decoded=47.3% words/s=217 end-to-end words/s=164 encoder_bytes=124364
+[ctx_crf_rerun_s42] lid+guard   CER=5.31 WER=10.11 Exact=54.48
+[ctx_crf_rerun_s42] test with gold tags: CER=4.34 guarded CER=3.81
+[ctx_crf_rerun_s42] done

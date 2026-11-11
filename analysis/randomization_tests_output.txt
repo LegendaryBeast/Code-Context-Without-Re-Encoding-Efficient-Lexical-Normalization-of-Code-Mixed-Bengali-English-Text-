@@ -1,0 +1,57 @@
+== A. Table 8 top: three splits pooled, unguarded
+  ctx_plain_aks_heads vs word_crf                  dCER -0.71  p(two-sided) = 0.0001
+  ctx_plain vs word_crf                            dCER -0.70  p(two-sided) = 0.0001
+  ctx_plain_aks_heads vs ufal_plain                dCER -0.25  p(two-sided) = 0.0287
+  ctx_plain vs ufal_plain                          dCER -0.24  p(two-sided) = 0.0355
+  ctx_plain_aks_heads vs ctx_plain                 dCER -0.01  p(two-sided) = 0.9224
+  copy gate vs free decoding (CTT)                 dCER -0.01  p(two-sided) = 0.2212
+  8 epochs vs 5 epochs (CTT)                       dCER +0.12  p(two-sided) = 0.1479
+  ByT5-base vs ByT5-small (CTT, splits 13+42)      dCER +0.44  p(two-sided) = 0.0086
+
+== B. Table 8 bottom: split 42, three training runs pooled, unguarded
+  CTT vs word (3 runs)                             dCER -0.43  p(two-sided) = 0.0010
+  ctx vs word (3 runs)                             dCER -0.57  p(two-sided) = 0.0001
+  CTT vs ctx (3 runs)                              dCER +0.14  p(two-sided) = 0.2975
+  CTT vs word (3 runs) dWER -0.91  p(two-sided) = 0.0001
+  CTT vs word (3 runs) dEM  +3.46  p(two-sided) = 0.0001
+  ctx vs word (3 runs) dWER -0.80  p(two-sided) = 0.0001
+  ctx vs word (3 runs) dEM  +2.85  p(two-sided) = 0.0001
+  per-run CER / WER / EM (split 42):
+    CTT   CER 4.04±0.04  WER 8.54±0.07  EM 61.54±0.69   runs CER [np.float64(4.08), np.float64(4.05), np.float64(4.0)]
+    ctx   CER 3.90±0.23  WER 8.66±0.18  EM 60.93±0.80   runs CER [np.float64(3.64), np.float64(4.09), np.float64(3.98)]
+    word  CER 4.48±0.34  WER 9.45±0.11  EM 58.08±0.45   runs CER [np.float64(4.15), np.float64(4.46), np.float64(4.82)]
+
+== C. Ablations on split 42 (single runs), unguarded and guarded
+  recover unaligned data   raw                     dCER -0.04  p(two-sided) = 0.9056
+  recover unaligned data   guarded                 dCER -0.28  p(two-sided) = 0.0228
+  add context              raw                     dCER -0.14  p(two-sided) = 0.7346
+  add context              guarded                 dCER -0.21  p(two-sided) = 0.0432
+  remove CRF tags          raw                     dCER -0.65  p(two-sided) = 0.0032
+  remove CRF tags          guarded                 dCER -0.18  p(two-sided) = 0.0245
+  remove joint LID         raw                     dCER -0.79  p(two-sided) = 0.0001
+  remove joint LID         guarded                 dCER -0.37  p(two-sided) = 0.0001
+
+== D. Tag-source table, unguarded and guarded CER (split 42)
+  word/none          raw     CER 4.15 (runs [np.float64(4.15)])
+  word/none          guarded CER 4.08 (runs [np.float64(4.08)])
+  word/CRF           raw     CER 4.32 (runs [np.float64(4.43), np.float64(4.21)])
+  word/CRF           guarded CER 3.91 (runs [np.float64(3.97), np.float64(3.85)])
+  word/annotated     raw     CER 4.21 (runs [np.float64(4.21)])
+  word/annotated     guarded CER 3.84 (runs [np.float64(3.84)])
+  context/none       raw     CER 4.00 (runs [np.float64(3.64), np.float64(4.35)])
+  context/none       guarded CER 3.73 (runs [np.float64(3.58), np.float64(3.88)])
+  context/CRF        raw     CER 4.42 (runs [np.float64(4.29), np.float64(4.56)])
+  context/CRF        guarded CER 3.80 (runs [np.float64(3.76), np.float64(3.85)])
+  context/annotated  raw     CER 4.34 (runs [np.float64(4.34)])
+  context/annotated  guarded CER 3.81 (runs [np.float64(3.81)])
+
+== E. MultiLexNorm: ERR difference, seeds pooled, two-sided randomization
+  iden ctx_copy vs ufal  dERR +1.03  p(two-sided) = 0.3709
+  iden ctx      vs word  dERR +0.46  p(two-sided) = 0.7254
+  iden ctx_copy vs ctx   dERR +1.66  p(two-sided) = 0.0576
+  trde ctx_copy vs ufal  dERR -1.40  p(two-sided) = 0.0368
+  trde ctx      vs word  dERR +18.78  p(two-sided) = 0.0001
+  trde ctx_copy vs ctx   dERR -0.03  p(two-sided) = 1.0000
+
+== F. LID: XLM-R vs CRF macro-F1, three splits, two-sided randomization (2,000 iterations)
+  XLM-R - CRF macro-F1 +2.04  p(two-sided) = 0.0005
